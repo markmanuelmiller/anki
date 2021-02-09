@@ -1,0 +1,617 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "7edd8b50-6aed-11eb-a470-acde48001122",
+    "deck_config_uuid": "87b04ac0-6aec-11eb-a470-acde48001122",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "87b04ac0-6aec-11eb-a470-acde48001122",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "13cec30c8c3b459ab8e47368d291fd32-ao-1-A.svg",
+        "13cec30c8c3b459ab8e47368d291fd32-ao-1-Q.svg",
+        "13cec30c8c3b459ab8e47368d291fd32-ao-2-A.svg",
+        "13cec30c8c3b459ab8e47368d291fd32-ao-2-Q.svg",
+        "13cec30c8c3b459ab8e47368d291fd32-ao-O.svg",
+        "2bf4e1588e2846d9b43daf816207c55f-ao-1-A.svg",
+        "2bf4e1588e2846d9b43daf816207c55f-ao-1-Q.svg",
+        "2bf4e1588e2846d9b43daf816207c55f-ao-2-A.svg",
+        "2bf4e1588e2846d9b43daf816207c55f-ao-2-Q.svg",
+        "2bf4e1588e2846d9b43daf816207c55f-ao-O.svg",
+        "712c8f5d07bf42a0955450722a9a77e5-ao-1-A.svg",
+        "712c8f5d07bf42a0955450722a9a77e5-ao-1-Q.svg",
+        "712c8f5d07bf42a0955450722a9a77e5-ao-2-A.svg",
+        "712c8f5d07bf42a0955450722a9a77e5-ao-2-Q.svg",
+        "712c8f5d07bf42a0955450722a9a77e5-ao-3-A.svg",
+        "712c8f5d07bf42a0955450722a9a77e5-ao-3-Q.svg",
+        "712c8f5d07bf42a0955450722a9a77e5-ao-O.svg",
+        "e4cf4a274b34490b8d5d63e3ca874c99-ao-1-A.svg",
+        "e4cf4a274b34490b8d5d63e3ca874c99-ao-1-Q.svg",
+        "e4cf4a274b34490b8d5d63e3ca874c99-ao-2-A.svg",
+        "e4cf4a274b34490b8d5d63e3ca874c99-ao-2-Q.svg",
+        "e4cf4a274b34490b8d5d63e3ca874c99-ao-O.svg",
+        "tmp5gewdh_y.png",
+        "tmp6q41qy1d.png",
+        "tmped71akp8.png",
+        "tmpzyt57y1n.png"
+    ],
+    "name": "Kafka",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: left;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "perform-auto-markdown": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Topic = {{c1::database table}}",
+                ""
+            ],
+            "guid": "BTm_Eh3k|U",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c1::topic}} represents a particular stream of data.",
+                ""
+            ],
+            "guid": "Py22dh<e:Q",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "You can have as many topics as {{c1::you want.}}<div><br></div><div>A topic is identified by its {{c1::name}}.</div>",
+                ""
+            ],
+            "guid": "vbupL5*~et",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Topics are split into {{c1::partitions}}.<div><br></div><div>Each {{c1::partition}} is ordered.</div>",
+                ""
+            ],
+            "guid": "HLJE+5D8~8",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Each message within a partition gets an incremental id, called {{c1::offset}}</div><div><br></div><div>You specify the number of partitions while {{c1::creating a topic.}}</div>",
+                ""
+            ],
+            "guid": "uSGBS@eoBi",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "712c8f5d07bf42a0955450722a9a77e5-ao-1",
+                "",
+                "<img src=\"tmped71akp8.png\" />",
+                "<img src=\"712c8f5d07bf42a0955450722a9a77e5-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"712c8f5d07bf42a0955450722a9a77e5-ao-1-A.svg\" />",
+                "<img src=\"712c8f5d07bf42a0955450722a9a77e5-ao-O.svg\" />"
+            ],
+            "guid": "oo]0/bX9B@",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "712c8f5d07bf42a0955450722a9a77e5-ao-2",
+                "",
+                "<img src=\"tmped71akp8.png\" />",
+                "<img src=\"712c8f5d07bf42a0955450722a9a77e5-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"712c8f5d07bf42a0955450722a9a77e5-ao-2-A.svg\" />",
+                "<img src=\"712c8f5d07bf42a0955450722a9a77e5-ao-O.svg\" />"
+            ],
+            "guid": "M6*gT|m6>O",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "712c8f5d07bf42a0955450722a9a77e5-ao-3",
+                "",
+                "<img src=\"tmped71akp8.png\" />",
+                "<img src=\"712c8f5d07bf42a0955450722a9a77e5-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"712c8f5d07bf42a0955450722a9a77e5-ao-3-A.svg\" />",
+                "<img src=\"712c8f5d07bf42a0955450722a9a77e5-ao-O.svg\" />"
+            ],
+            "guid": "N2]r5^frs:",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Offset only has a meaning for a specific {{c1::partition}}.<div><br></div><div>E.g. offset 3 in partition 0 {{c1::doesn't represent the same data}} as offset 3 in partition 1.</div>",
+                ""
+            ],
+            "guid": "bp-Uw7ZmTe",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Order is guaranteed {{c1::only within a partition (not across partitions)}}",
+                ""
+            ],
+            "guid": "F#.&^rlajn",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Data is kept only for a {{c1::limited time (default is one week)&nbsp;}}<div><br></div><div>Offsets {{c1::continually incrementing; they don't reset to 0.}}</div>",
+                ""
+            ],
+            "guid": "bo%]}wHgE]",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Once data is written to a partition, {{c1::it cannot be changed (immutability)}}",
+                ""
+            ],
+            "guid": "n;t2@$+Lyt",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Data is assigned {{c1::randomly}}&nbsp;to a partition {{c1::<span style=\"font-weight: 600; background-color: rgb(251, 243, 219);\">unless a key is provided</span>.}}",
+                ""
+            ],
+            "guid": "yeuV7bn?4:",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A Kafka cluster is comprised of {{c1::multiple brokers (servers)&nbsp;}}<div><br></div><div>Each broker is identified with its {{c1::ID (integer)&nbsp;}}</div>",
+                ""
+            ],
+            "guid": "y1]{x|=4/@",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Each broker contains certain topic {{c1::partitions}}",
+                ""
+            ],
+            "guid": "cYCZiVF%F}",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "After connecting to {{c1::any broker}} (called a bootstrap broker), you will be connected to an entire cluster.",
+                ""
+            ],
+            "guid": "ivpi^2m1N9",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good number to get started is {{c1::3 brokers}}, but some big clusters have 100 brokers.",
+                ""
+            ],
+            "guid": "z^!5J(L:Z{",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "e4cf4a274b34490b8d5d63e3ca874c99-ao-1",
+                "",
+                "<img src=\"tmp6q41qy1d.png\" />",
+                "<img src=\"e4cf4a274b34490b8d5d63e3ca874c99-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e4cf4a274b34490b8d5d63e3ca874c99-ao-1-A.svg\" />",
+                "<img src=\"e4cf4a274b34490b8d5d63e3ca874c99-ao-O.svg\" />"
+            ],
+            "guid": "v@_<vlX7A/",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "e4cf4a274b34490b8d5d63e3ca874c99-ao-2",
+                "",
+                "<img src=\"tmp6q41qy1d.png\" />",
+                "<img src=\"e4cf4a274b34490b8d5d63e3ca874c99-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e4cf4a274b34490b8d5d63e3ca874c99-ao-2-A.svg\" />",
+                "<img src=\"e4cf4a274b34490b8d5d63e3ca874c99-ao-O.svg\" />"
+            ],
+            "guid": "KyPUJWu8(V",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Topics should have a replication factor {{c1::&gt; 1 (usually between 2 and 3)}}",
+                ""
+            ],
+            "guid": "vepD4&xY+J",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "13cec30c8c3b459ab8e47368d291fd32-ao-1",
+                "",
+                "<img src=\"tmpzyt57y1n.png\" />",
+                "<img src=\"13cec30c8c3b459ab8e47368d291fd32-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"13cec30c8c3b459ab8e47368d291fd32-ao-1-A.svg\" />",
+                "<img src=\"13cec30c8c3b459ab8e47368d291fd32-ao-O.svg\" />"
+            ],
+            "guid": "N/2D?-3_M2",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "13cec30c8c3b459ab8e47368d291fd32-ao-2",
+                "",
+                "<img src=\"tmpzyt57y1n.png\" />",
+                "<img src=\"13cec30c8c3b459ab8e47368d291fd32-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"13cec30c8c3b459ab8e47368d291fd32-ao-2-A.svg\" />",
+                "<img src=\"13cec30c8c3b459ab8e47368d291fd32-ao-O.svg\" />"
+            ],
+            "guid": "q~H[M7L/!c",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>At any time {{c1::only one}} broker can be a leader for a given partition&nbsp;<br></div><div><br></div><div>Only that leader can {{c1::receive and serve data for a partition&nbsp;}}</div><div>The other brokers will {{c1::synchronize}} the data&nbsp;</div><div>Therefore, each partition has one leader and multiple {{c1::ISR (in-sync replica)}}</div>",
+                ""
+            ],
+            "guid": "jl.vYoo*og",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2bf4e1588e2846d9b43daf816207c55f-ao-1",
+                "",
+                "<img src=\"tmp5gewdh_y.png\" />",
+                "<img src=\"2bf4e1588e2846d9b43daf816207c55f-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2bf4e1588e2846d9b43daf816207c55f-ao-1-A.svg\" />",
+                "<img src=\"2bf4e1588e2846d9b43daf816207c55f-ao-O.svg\" />"
+            ],
+            "guid": "zFEapK/Tsx",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2bf4e1588e2846d9b43daf816207c55f-ao-2",
+                "",
+                "<img src=\"tmp5gewdh_y.png\" />",
+                "<img src=\"2bf4e1588e2846d9b43daf816207c55f-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2bf4e1588e2846d9b43daf816207c55f-ao-2-A.svg\" />",
+                "<img src=\"2bf4e1588e2846d9b43daf816207c55f-ao-O.svg\" />"
+            ],
+            "guid": "PJr3Y{L7N-",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Kafka Use Cases</b><div><br></div><div>{{c1::Messaging - Kafka works well as a replacement for a more traditional message broker. Message brokers are used for a variety of reasons (to decouple processing from data producers, to buffer unprocessed messages, etc). In comparison to most messaging systems Kafka has better throughput, built-in partitioning, replication, and fault-tolerance which makes it a good solution for large scale message processing applications.}}</div><div><br></div><div>{{c2::Website Activity Tracking - The original use case for Kafka was to be able to rebuild a user activity tracking pipeline as a set of real-time publish-subscribe feeds. This means site activity (page views, searches, or other actions users may take) is published to central topics with one topic per activity type. These feeds are available for subscription for a range of use cases including real-time processing, real-time monitoring, and loading into Hadoop or offline data warehousing systems for offline processing and reporting.}}</div><div><br></div><div>{{c3::Metrics - Kafka is often used for operational monitoring data. This involves aggregating statistics from distributed applications to produce centralized feeds of operational data.}}</div><div><br></div><div>{{c4::Log Aggregation - Many people use Kafka as a replacement for a log aggregation solution. Log aggregation typically collects physical log files off servers and puts them in a central place (a file server or HDFS perhaps) for processing. Kafka abstracts away the details of files and gives a cleaner abstraction of log or event data as a stream of messages. This allows for lower-latency processing and easier support for multiple data sources and distributed data consumption. In comparison to log-centric systems like Scribe or Flume, Kafka offers equally good performance, stronger durability guarantees due to replication, and much lower end-to-end latency.}}</div><div><br></div><div>{{c5::Stream Processing - Many users of Kafka process data in processing pipelines consisting of multiple stages, where raw input data is consumed from Kafka topics and then aggregated, enriched, or otherwise transformed into new topics for further consumption or follow-up processing. For example, a processing pipeline for recommending news articles might crawl article content from RSS feeds and publish it to an \"articles\" topic; further processing might normalize or deduplicate this content and publish the cleansed article content to a new topic; a final processing stage might attempt to recommend this content to users. Such processing pipelines create graphs of real-time data flows based on the individual topics. Starting in 0.10.0.0, a light-weight but powerful stream processing library called&nbsp;<a href=\"https://kafka.apache.org/documentation/streams\">Kafka Streams</a>&nbsp;is available in Apache Kafka to perform such data processing as described above. Apart from Kafka Streams, alternative open source stream processing tools include&nbsp;<a href=\"https://storm.apache.org/\">Apache Storm</a>&nbsp;and&nbsp;<a href=\"http://samza.apache.org/\">Apache Samza</a>.}}<br></div><div><br></div><div>{{c6::Event Sourcing -&nbsp;<a href=\"http://martinfowler.com/eaaDev/EventSourcing.html\">Event sourcing</a>&nbsp;is a style of application design where state changes are logged as a time-ordered sequence of records. Kafka's support for very large stored log data makes it an excellent backend for an application built in this style.}}<br></div><div><br></div><div>{{c7::Commit Log - Kafka can serve as a kind of external commit-log for a distributed system. The log helps replicate data between nodes and acts as a re-syncing mechanism for failed nodes to restore their data. The&nbsp;<a href=\"https://kafka.apache.org/documentation.html#compaction\">log compaction</a>&nbsp;feature in Kafka helps support this usage. In this usage Kafka is similar to&nbsp;<a href=\"https://bookkeeper.apache.org/\">Apache BookKeeper</a>&nbsp;project.}}<br></div>",
+                ""
+            ],
+            "guid": "Ef)??>LBfW",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        }
+    ]
+}

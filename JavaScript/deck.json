@@ -1,0 +1,1098 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "941306bc-6aed-11eb-a470-acde48001122",
+    "deck_config_uuid": "87b04ac0-6aec-11eb-a470-acde48001122",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "87b04ac0-6aec-11eb-a470-acde48001122",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "0ce58e0442b24edd9b179ca1d6709682-ao-1-A.svg",
+        "0ce58e0442b24edd9b179ca1d6709682-ao-1-Q.svg",
+        "0ce58e0442b24edd9b179ca1d6709682-ao-O.svg",
+        "68747470733a2f2f692e696d6775722e636f6d2f465347354b33462e706e67.png",
+        "68747470733a2f2f692e696d6775722e636f6d2f4e31386f5267642e706e67.png",
+        "68747470733a2f2f692e696d6775722e636f6d2f544d4c314d62532e706e67.png",
+        "68747470733a2f2f692e696d6775722e636f6d2f6b6f356b3066732e706e67.png",
+        "68747470733a2f2f692e696d6775722e636f6d2f73596a63734d542e706e67.png",
+        "6f0f525f52094eb28bf739169d463320-ao-1-A.svg",
+        "6f0f525f52094eb28bf739169d463320-ao-1-Q.svg",
+        "6f0f525f52094eb28bf739169d463320-ao-2-A.svg",
+        "6f0f525f52094eb28bf739169d463320-ao-2-Q.svg",
+        "6f0f525f52094eb28bf739169d463320-ao-3-A.svg",
+        "6f0f525f52094eb28bf739169d463320-ao-3-Q.svg",
+        "6f0f525f52094eb28bf739169d463320-ao-O.svg",
+        "paste-021fd7648f78525d852067eebd64861aa34ddaa1.jpg",
+        "paste-09f8ba6dfb8bf24e5ce92079bf61116ad144679b.jpg",
+        "paste-11d3071f5227b298c5c454831c256e1d3240aa30.jpg",
+        "paste-183ca47bcf681de7a419ba7068afb8ad765ad3a7.jpg",
+        "paste-37a9eea544c37dfd175b73835dc0c5e19453b36d.jpg",
+        "paste-49c09e741f460da85eaaaea6cf738ab429ee0a02.jpg",
+        "paste-4c69dba85d642c807033d11500d87ec38ab4720b.jpg",
+        "paste-560f8eeef5f85db95c36994251c86c4270100548.jpg",
+        "paste-59ce0ac0ecc7c1c9f774e7536b3fa63634386448.jpg",
+        "paste-5e2896b3daf2a9440dcb7043013c47a4ef8f9395.jpg",
+        "paste-601ee02ba8111a72d81572150b176fd9e4aca870.jpg",
+        "paste-62edd32f82b722cbc024f2a4dea2913bd317e95f.jpg",
+        "paste-72fdc26bbde238c4f059cb73d116869165c9a7ff.jpg",
+        "paste-7b4f02916bdbf2064ee6b3ecfa41dd39ba33bd7d.jpg",
+        "paste-7fb7ed41d821f5857be4cf91155270ff0321a12f.jpg",
+        "paste-8c33fe5c309e181bf3ed12f886c7c0c2f01f0aec.jpg",
+        "paste-95fdc0c87d4ef2a48f14b396a5d2f4c33ed6fd3e.jpg",
+        "paste-966c3025de896375d29a61c11b4760f3ca84e65e.jpg",
+        "paste-980aee41bbd7f99d84a3211be7d71b88af6c8260.jpg",
+        "paste-9e4ae7ae589424f7564acbbf983b7f84b86900ed.jpg",
+        "paste-a5f9d6e1b98bc46cb68fdff1d73a776667205357.jpg",
+        "paste-a6310b803fdc5d7b5e9506d39179871b5b550fe5.jpg",
+        "paste-aad9730db9694d9b2d9546062ffbc25aea081fb1.jpg",
+        "paste-ab4987fd496cf84fbcea03ec59896e7c92af8b36.jpg",
+        "paste-b126b88b633a5b926ed6f9d871c3be39a09154e2.jpg",
+        "paste-c0c7bd28476db63e937b6fe26743260086284ffc.jpg",
+        "paste-c518a0ec73ca6b5f462e747031fec6742780ca14.jpg",
+        "paste-cac6620e799c8d4670fe323095b739ae1cebfc84.jpg",
+        "paste-cc29ba10ddf388581300bba20be71876a17ceec9.jpg",
+        "paste-cffa4fa588bc43d584d3d47dcf07c4264730a918.jpg",
+        "paste-da15ded838cab9251680b4d34b54c22e689e5364.jpg",
+        "paste-dabaa1b1a8fc26795e065069f1651f2b9e9c2eb4.jpg",
+        "paste-dcbdc9e29d7c7550f6494039118c507d17c3f1ce.jpg",
+        "paste-ea034757543aec68bf02b0701286746c011ad1e0.jpg",
+        "paste-fd2597c2e604db93eaf3b7ceedf25e118156e8e5.jpg",
+        "paste-fe5b64e5090fae868cec95e3c95571145bdd5622.jpg",
+        "paste-ff95ec2fd0767c2ef4df3f21a0d88260630c50c8.jpg",
+        "tmp44e6hztk.png",
+        "tmpm6mgxi1j.png"
+    ],
+    "name": "JavaScript",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: left;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "perform-auto-markdown": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: left;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does \"new\" do in JavaScript?<div><br></div><div>1. {{c1::Creates a brand new empty object}}<div>2. This newly created object gets linked to the constructor object through the {{c1::__proto__}} property.&nbsp;</div><div>3. This newly created object gets passed in as the {{c1::\"this\" context}} to the function call.</div><div>4. If that function does not already return it's own object, the \"new\" keyword implies a {{c1::\"return this;\"}}.</div></div>",
+                ""
+            ],
+            "guid": "q#0Mw|C%v-",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "__proto__<div><br></div><div>A link to the next prototype in the {{c1::prototype chain}}.&nbsp;</div><div><br></div><div>New objects will use this link to {{c1::\"go up\" the prototype chain}} to access methods defined on the next prototype.&nbsp;</div>",
+                ""
+            ],
+            "guid": "Fop7]V40W3",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "prototype<div><br></div><div>This property is an {{c1::object}}, which is commonly used to store methods.</div><div><br></div><div><img src=\"paste-c0c7bd28476db63e937b6fe26743260086284ffc.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "D{UH#j{XF=",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rules of \"this\"<div><br></div><div>1. \"new\" keyword - if the \"new\" keyword is used when calling the function, \"this\" inside the function {{c1::is a brand new object}}.</div><div>2. If \"call\", \"apply\", or \"bind\" are used to call a function, \"this\" inside the function is {{c1::the object that is passed as an argument}}.</div><div>3. If a function is called as a method (dot notation) \"this\" is {{c1::the object ot the left of the dot}}.</div><div>4. If a function is invoked as a free function invocation, meaning it was invoked without any conditions present above, \"this\" {{c1::is the global object}}.</div><div>5. If mutliple rules apply, {{c1::the rule that is higher wins}}.</div><div>6. Arrow functions ignore all rules and it's \"this\" will be the value of {{c1::its surrounding scope at time its created}}.&nbsp;</div>",
+                ""
+            ],
+            "guid": "leLS+k]]GO",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Object.create()<div><br></div><div>Creates a new object {{c1::using an existing object}} as the prototype of the newly created object.</div><div><br></div><div>Object.create(proto [, propertiesObject])&nbsp;</div><div>Where proto is the object which should be the prototype of the newly-created object.&nbsp;</div>",
+                ""
+            ],
+            "guid": "OdG#9e4ZBs",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-183ca47bcf681de7a419ba7068afb8ad765ad3a7.jpg\">",
+                "Answer: D<div>Within the function, we first declare the&nbsp;<code>name</code>&nbsp;variable with the&nbsp;<code>var</code>&nbsp;keyword. This means that the variable gets hoisted (memory space is set up during the creation phase) with the default value of&nbsp;<code>undefined</code>, until we actually get to the line where we define the variable. We haven't defined the variable yet on the line where we try to log the&nbsp;<code>name</code>&nbsp;variable, so it still holds the value of&nbsp;<code>undefined</code>.</div><div><br></div><div>Variables with the&nbsp;<code>let</code>&nbsp;keyword (and&nbsp;<code>const</code>) are hoisted, but unlike&nbsp;<code>var</code>, <b>don't get&nbsp;<i>initialized</i></b>. They are not accessible before the line we declare (initialize) them. This is called the \"<b>temporal dead zone</b>\". When we try to access the variables before they are declared, JavaScript throws a&nbsp;<code>ReferenceError</code>.</div>"
+            ],
+            "guid": "hYU=[W9BES",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-ab4987fd496cf84fbcea03ec59896e7c92af8b36.jpg\">",
+                "Answer: C<div>Because of the event queue in JavaScript, the&nbsp;<code>setTimeout</code>&nbsp;callback function is called&nbsp;<em>after</em>&nbsp;the loop has been executed. Since the variable&nbsp;<code>i</code>&nbsp;in the first loop was declared using the&nbsp;<code>var</code>&nbsp;keyword, this value was global. During the loop, we incremented the value of&nbsp;<code>i</code>&nbsp;by&nbsp;<code>1</code>&nbsp;each time, using the unary operator&nbsp;<code>++</code>. By the time the&nbsp;<code>setTimeout</code>&nbsp;callback function was invoked,&nbsp;<code>i</code>&nbsp;was equal to&nbsp;<code>3</code>&nbsp;in the first example.</div><div><br></div><div>In the second loop, the variable&nbsp;<code>i</code>&nbsp;was declared using the&nbsp;<code>let</code>&nbsp;keyword: variables declared with the&nbsp;<code>let</code>&nbsp;(and&nbsp;<code>const</code>) keyword are block-scoped (a block is anything between&nbsp;<code>{ }</code>). During each iteration,&nbsp;<code>i</code>&nbsp;will have a new value, and each value is scoped inside the loop.</div>"
+            ],
+            "guid": "ryCY&2_HEY",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-fe5b64e5090fae868cec95e3c95571145bdd5622.jpg\">",
+                "Answer: B<div>Note that the value of&nbsp;<code>diameter</code>&nbsp;is a regular function, whereas the value of&nbsp;<code>perimeter</code>&nbsp;is an arrow function.</div><div><br></div><div>With arrow functions, the&nbsp;<code>this</code>&nbsp;keyword refers to its current surrounding scope, unlike regular functions! This means that when we call&nbsp;<code>perimeter</code>, it doesn't refer to the shape object, but to its surrounding scope (window for example).</div><div><br></div><div>There is no value&nbsp;<code>radius</code>&nbsp;on that object, which returns&nbsp;<code>NaN</code>.</div>"
+            ],
+            "guid": "lJQ+uv|4B;",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-fd2597c2e604db93eaf3b7ceedf25e118156e8e5.jpg\">",
+                "Answer: A<div>The unary plus tries to convert an operand to a number.&nbsp;<code>true</code>&nbsp;is&nbsp;<code>1</code>, and&nbsp;<code>false</code>&nbsp;is&nbsp;<code>0</code>.</div><div>The string&nbsp;<code>'Lydia'</code>&nbsp;is a truthy value. What we're actually asking, is \"is this truthy value falsy?\". This returns&nbsp;<code>false</code>.</div>"
+            ],
+            "guid": "ly|l-Nigu.",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-7b4f02916bdbf2064ee6b3ecfa41dd39ba33bd7d.jpg\">",
+                "Answer: A<div>In JavaScript, all objects interact by&nbsp;<em>reference</em>&nbsp;when setting them equal to each other.</div><div>First, variable&nbsp;<code>c</code>&nbsp;holds a value to an object. Later, we assign&nbsp;<code>d</code>&nbsp;with the same reference that&nbsp;<code>c</code>&nbsp;has to the object.</div><a href=\"https://camo.githubusercontent.com/7fa22323daec0bc9742948c600eb9d951d28488132dcfb47e181d8b0a92b5f6e/68747470733a2f2f692e696d6775722e636f6d2f6b6f356b3066732e706e67\"><img src=\"68747470733a2f2f692e696d6775722e636f6d2f6b6f356b3066732e706e67.png\"></a><span style=\"color: rgb(201, 209, 217);\"></span><div>When you change one object, you change all of them.</div>"
+            ],
+            "guid": "PW2drpk5#^",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-601ee02ba8111a72d81572150b176fd9e4aca870.jpg\">",
+                "Answer: C<div><code>new Number()</code>&nbsp;is a built-in function constructor. Although it looks like a number, it's not really a number: it has a bunch of extra features and is an object.</div><div><br></div><div>When we use the&nbsp;<code>==</code>&nbsp;operator, it only checks whether it has the same&nbsp;<em>value</em>. They both have the value of&nbsp;<code>3</code>, so it returns&nbsp;<code>true</code>.</div><div><br></div><div>However, when we use the&nbsp;<code>===</code>&nbsp;operator, both value&nbsp;<em>and</em>&nbsp;type should be the same. It's not:&nbsp;<code>new Number()</code>&nbsp;is not a number, it's an&nbsp;<strong>object</strong>. Both return&nbsp;<code>false.</code></div>"
+            ],
+            "guid": "cAMvMB]1Z7",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-cffa4fa588bc43d584d3d47dcf07c4264730a918.jpg\">",
+                "Answer: D<div>The&nbsp;<code>colorChange</code>&nbsp;function is static. Static methods are designed to live only on the constructor in which they are created, and cannot be passed down to any children. Since&nbsp;<code>freddie</code>&nbsp;is a child, the function is not passed down, and not available on the&nbsp;<code>freddie</code>&nbsp;instance: a&nbsp;<code>TypeError</code>&nbsp;is thrown.</div>"
+            ],
+            "guid": "PwG*&|fKF%",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-dcbdc9e29d7c7550f6494039118c507d17c3f1ce.jpg\">",
+                "Answer: A<div>This is possible in JavaScript, because functions are objects! (Everything besides primitive types are objects)</div><div><br></div><div>A function is a special type of object. The code you write yourself isn't the actual function. The function is an object with properties. This property is invocable.</div>"
+            ],
+            "guid": "zs0dW3vSr@",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-ff95ec2fd0767c2ef4df3f21a0d88260630c50c8.jpg\">",
+                "Answer: A<div>In JavaScript, functions are objects, and therefore, the method&nbsp;<code>getFullName</code>&nbsp;gets added to the constructor function object itself. For that reason, we can call&nbsp;<code>Person.getFullName()</code>, but&nbsp;<code>member.getFullName</code>&nbsp;throws a&nbsp;<code>TypeError</code>.</div><div><br></div><div>If you want a method to be available to all object instances, you have to add it to the prototype property:</div><div><br></div><div><img src=\"paste-a5f9d6e1b98bc46cb68fdff1d73a776667205357.jpg\"><br></div>"
+            ],
+            "guid": "K[Jde`9j+v",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-a6310b803fdc5d7b5e9506d39179871b5b550fe5.jpg\">",
+                "Answer: A<div>For&nbsp;<code>sarah</code>, we didn't use the&nbsp;<code>new</code>&nbsp;keyword. When using&nbsp;<code>new</code>,&nbsp;<code>this</code>&nbsp;refers to the new empty object we create. However, if you don't add&nbsp;<code>new</code>,&nbsp;<code>this</code>&nbsp;refers to the&nbsp;<strong>global object</strong>!</div><div><br></div><div>We said that&nbsp;<code>this.firstName</code>&nbsp;equals&nbsp;<code>\"Sarah\"</code>&nbsp;and&nbsp;<code>this.lastName</code>&nbsp;equals&nbsp;<code>\"Smith\"</code>. What we actually did, is defining&nbsp;<code>global.firstName = 'Sarah'</code>&nbsp;and&nbsp;<code>global.lastName = 'Smith'</code>.&nbsp;<code>sarah</code>&nbsp;itself is left&nbsp;<code>undefined</code>, since we don't return a value from the&nbsp;<code>Person</code>&nbsp;function.</div>"
+            ],
+            "guid": "K_Nbkf9%67",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-49c09e741f460da85eaaaea6cf738ab429ee0a02.jpg\">",
+                "Answer: D<div>During the&nbsp;<strong>capturing</strong>&nbsp;phase, the event goes through the ancestor elements down to the target element. It then reaches the&nbsp;<strong>target</strong>&nbsp;element, and&nbsp;<strong>bubbling</strong>&nbsp;begins.</div><a href=\"https://camo.githubusercontent.com/5fd2d347d044150e4ae35091622f0628f0eb7893966f03c8955ca271f3153e47/68747470733a2f2f692e696d6775722e636f6d2f4e31386f5267642e706e67\"><img src=\"68747470733a2f2f692e696d6775722e636f6d2f4e31386f5267642e706e67.png\"></a>"
+            ],
+            "guid": "z$T7d?<~-/",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "All objects have prototypes, except for the&nbsp;{{c1::base object}}. The base object is the object created by the user, or an object that is created using the&nbsp;{{c1::new}}&nbsp;keyword. The base object has access to some methods and properties, such as&nbsp;.toString. This is the reason why you can use built-in JavaScript methods! All of such methods are available on the prototype. Although JavaScript can't find it directly on your object, it goes down the prototype chain and finds it there, which makes it accessible for you.",
+                ""
+            ],
+            "guid": "nFj]F<l5TA",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-11d3071f5227b298c5c454831c256e1d3240aa30.jpg\">",
+                "Answer: C<div><br><div>JavaScript is a&nbsp;<strong>dynamically typed language</strong>: we don't specify what types certain variables are. Values can automatically be converted into another type without you knowing, which is called&nbsp;<em>implicit type coercion</em>.&nbsp;<strong>Coercion</strong>&nbsp;is converting from one type into another.</div><div><br></div><div>In this example, JavaScript converts the number&nbsp;<code>1</code>&nbsp;into a string, in order for the function to make sense and return a value. During the addition of a numeric type (<code>1</code>) and a string type (<code>'2'</code>), the number is treated as a string. We can concatenate strings like&nbsp;<code>\"Hello\" + \"World\"</code>, so what's happening here is&nbsp;<code>\"1\" + \"2\"</code>&nbsp;which returns&nbsp;<code>\"12\"</code>.</div></div>"
+            ],
+            "guid": "x~4K!s./+;",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-dabaa1b1a8fc26795e065069f1651f2b9e9c2eb4.jpg\">",
+                "Answer: C<div>The&nbsp;<strong>postfix</strong>&nbsp;unary operator&nbsp;<code>++</code>:</div><ol><li>Returns the value (this returns&nbsp;<code>0</code>)</li><li>Increments the value (number is now&nbsp;<code>1</code>)</li></ol><div>The&nbsp;<strong>prefix</strong>&nbsp;unary operator&nbsp;<code>++</code>:</div><ol><li>Increments the value (number is now&nbsp;<code>2</code>)</li><li>Returns the value (this returns&nbsp;<code>2</code>)</li></ol><div>This returns&nbsp;<code>0 2 2</code>.</div>"
+            ],
+            "guid": "Fn2PTY$2tT",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-37a9eea544c37dfd175b73835dc0c5e19453b36d.jpg\">",
+                "Answer: C<div>When testing equality, primitives are compared by their&nbsp;<em>value</em>, while objects are compared by their&nbsp;<em>reference</em>. JavaScript checks if the objects have a reference to the same location in memory.</div><div><br></div><div>The two objects that we are comparing don't have that: the object we passed as a parameter refers to a different location in memory than the object we used in order to check equality.</div><div><br></div><div>This is why both&nbsp;<code>{ age: 18 } === { age: 18 }</code>&nbsp;and&nbsp;<code>{ age: 18 } == { age: 18 }</code>&nbsp;return&nbsp;<code>false</code>.</div>"
+            ],
+            "guid": "gEp`w^-VP*",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-da15ded838cab9251680b4d34b54c22e689e5364.jpg\">",
+                "Answer: C<div>The rest parameter (<code>...args</code>) lets us \"collect\" all remaining arguments into an array. An array is an object, so&nbsp;<code>typeof args</code>&nbsp;returns&nbsp;<code>\"object\"</code></div>"
+            ],
+            "guid": "JHgW(N3;%F",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-cac6620e799c8d4670fe323095b739ae1cebfc84.jpg\">",
+                "Answer: C<div>With&nbsp;<code>\"use strict\"</code>, you can make sure that you don't accidentally declare global variables. We never declared the variable&nbsp;<code>age</code>, and since we use&nbsp;<code>\"use strict\"</code>, it will throw a reference error. If we didn't use&nbsp;<code>\"use strict\"</code>, it would have worked, since the property&nbsp;<code>age</code>&nbsp;would have gotten added to the global object.</div>"
+            ],
+            "guid": "Ir~s[3t9fB",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-59ce0ac0ecc7c1c9f774e7536b3fa63634386448.jpg\">",
+                "Answer: B<div>The data stored in&nbsp;<code>sessionStorage</code>&nbsp;is removed after closing the&nbsp;<em>tab</em>.</div><div>If you used&nbsp;<code>localStorage</code>, the data would've been there forever, unless for example&nbsp;<code>localStorage.clear()</code>&nbsp;is invoked.</div>"
+            ],
+            "guid": "yJToNX/4We",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-8c33fe5c309e181bf3ed12f886c7c0c2f01f0aec.jpg\">",
+                "Answer: C<div>All object keys (excluding Symbols) are strings under the hood, even if you don't type it yourself as a string. This is why&nbsp;<code>obj.hasOwnProperty('1')</code>&nbsp;also returns true.</div><div>It doesn't work that way for a set. There is no&nbsp;<code>'1'</code>&nbsp;in our set:&nbsp;<code>set.has('1')</code>&nbsp;returns&nbsp;<code>false</code>. It has the numeric type&nbsp;<code>1</code>,&nbsp;<code>set.has(1)</code>&nbsp;returns&nbsp;<code>true</code>.</div>"
+            ],
+            "guid": "sI_A0QUS_C",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-021fd7648f78525d852067eebd64861aa34ddaa1.jpg\">",
+                "Answer: C<div>If you have two keys with the same name, the key will be replaced. It will still be in its first position, but with the last specified value.</div>"
+            ],
+            "guid": "N20GedB-|U",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-560f8eeef5f85db95c36994251c86c4270100548.jpg\">",
+                "Answer: A<div>The base execution context is the global execution context: it's what's accessible everywhere in your code.</div>"
+            ],
+            "guid": "rJ(XPZRUe3",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-62edd32f82b722cbc024f2a4dea2913bd317e95f.jpg\">",
+                "Answer: B<div>Object keys are automatically converted into strings. We are trying to set an object as a key to object&nbsp;<code>a</code>, with the value of&nbsp;<code>123</code>.</div><div><br></div><div>However, when we stringify an object, it becomes&nbsp;<code>\"[object Object]\"</code>. So what we are saying here, is that&nbsp;<code>a[\"[object Object]\"] = 123</code>. Then, we can try to do the same again.&nbsp;<code>c</code>&nbsp;is another object that we are implicitly stringifying. So then,&nbsp;<code>a[\"[object Object]\"] = 456</code>.</div><div><br></div><div>Then, we log&nbsp;<code>a[b]</code>, which is actually&nbsp;<code>a[\"[object Object]\"]</code>. We just set that to&nbsp;<code>456</code>, so it returns&nbsp;<code>456</code>.</div>"
+            ],
+            "guid": "yX]nSLE_~&",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-4c69dba85d642c807033d11500d87ec38ab4720b.jpg\">",
+                "Answer: C<div>The deepest nested element that caused the event is the target of the event. You can stop bubbling by&nbsp;<code>event.stopPropagation</code></div>"
+            ],
+            "guid": "eWHDsMVhhh",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-c518a0ec73ca6b5f462e747031fec6742780ca14.jpg\">",
+                "Answer: A<div>If we click&nbsp;<code>p</code>, we see two logs:&nbsp;<code>p</code>&nbsp;and&nbsp;<code>div</code>. During event propagation, there are 3 phases: capturing, target, and bubbling. By default, event handlers are executed in the bubbling phase (unless you set&nbsp;<code>useCapture</code>&nbsp;to&nbsp;<code>true</code>). It goes from the deepest nested element outwards.</div>"
+            ],
+            "guid": "j+!{Xh7Ns#",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-09f8ba6dfb8bf24e5ce92079bf61116ad144679b.jpg\">",
+                "Answer: D<div>With both, we can pass the object to which we want the&nbsp;<code>this</code>&nbsp;keyword to refer to. However,&nbsp;<code>.call</code>&nbsp;is also&nbsp;<em>executed immediately</em>!</div><div><br></div><div><code>.bind.</code>&nbsp;returns a&nbsp;<em>copy</em>&nbsp;of the function, but with a bound context! It is not executed immediately.</div>"
+            ],
+            "guid": "O?pCeI]:hw",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-980aee41bbd7f99d84a3211be7d71b88af6c8260.jpg\">",
+                "Answer: B<div>The&nbsp;<code>sayHi</code>&nbsp;function returns the returned value of the immediately invoked function expression (IIFE). This function returned&nbsp;<code>0</code>, which is type&nbsp;<code>\"number\"</code>.</div><div><br></div><div>FYI: there are only 7 built-in types:&nbsp;<code>null</code>,&nbsp;<code>undefined</code>,&nbsp;<code>boolean</code>,&nbsp;<code>number</code>,&nbsp;<code>string</code>,&nbsp;<code>object</code>, and&nbsp;<code>symbol</code>.&nbsp;<code>\"function\"</code>&nbsp;is not a type, since functions are objects, it's of type&nbsp;<code>\"object\"</code>.</div>"
+            ],
+            "guid": "Q5s9%mjZV1",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-9e4ae7ae589424f7564acbbf983b7f84b86900ed.jpg\">",
+                "Answer: A<div>There are 8 falsy values:</div><ul><li><code>undefined</code></li><li><code>null</code></li><li><code>NaN</code></li><li><code>false</code></li><li><code>''</code>&nbsp;(empty string)</li><li><code>0</code></li><li><code>-0</code></li><li><code>0n</code>&nbsp;(BigInt(0))</li></ul><div>Function constructors, like&nbsp;<code>new Number</code>&nbsp;and&nbsp;<code>new Boolean</code>&nbsp;are truthy.</div>"
+            ],
+            "guid": "Clb7Om8,`y",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-b126b88b633a5b926ed6f9d871c3be39a09154e2.jpg\">",
+                "Answer: C<div>When you set a value to an element in an array that exceeds the length of the array, JavaScript creates something called \"empty slots\". These actually have the value of&nbsp;<code>undefined</code>, but you will see something like:</div><div><code>[1, 2, 3, 7 x empty, 11]</code></div><div>depending on where you run it (it's different for every browser, node, etc.)</div>"
+            ],
+            "guid": "f:{9Xr1UyY",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-72fdc26bbde238c4f059cb73d116869165c9a7ff.jpg\">",
+                "Answer: A<div>The&nbsp;<code>catch</code>&nbsp;block receives the argument&nbsp;<code>x</code>. This is not the same&nbsp;<code>x</code>&nbsp;as the variable when we pass arguments. This variable&nbsp;<code>x</code>&nbsp;is block-scoped.</div><div><br></div><div>Later, we set this block-scoped variable equal to&nbsp;<code>1</code>, and set the value of the variable&nbsp;<code>y</code>. Now, we log the block-scoped variable&nbsp;<code>x</code>, which is equal to&nbsp;<code>1</code>.</div><div><br></div><div>Outside of the&nbsp;<code>catch</code>&nbsp;block,&nbsp;<code>x</code>&nbsp;is still&nbsp;<code>undefined</code>, and&nbsp;<code>y</code>&nbsp;is&nbsp;<code>2</code>. When we want to&nbsp;<code>console.log(x)</code>&nbsp;outside of the&nbsp;<code>catch</code>&nbsp;block, it returns&nbsp;<code>undefined</code>, and&nbsp;<code>y</code>&nbsp;returns&nbsp;<code>2</code>.</div>"
+            ],
+            "guid": "k^t*twc;o{",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-95fdc0c87d4ef2a48f14b396a5d2f4c33ed6fd3e.jpg\">",
+                "Answer: C<div>Regular functions cannot be stopped mid-way after invocation. However, a generator function can be \"stopped\" midway, and later continue from where it stopped. Every time a generator function encounters a&nbsp;<code>yield</code>&nbsp;keyword, the function yields the value specified after it. Note that the generator function in that case doesn’t&nbsp;<em>return</em>&nbsp;the value, it&nbsp;<em>yields</em>&nbsp;the value.</div><div><br></div><div>First, we initialize the generator function with&nbsp;<code>i</code>&nbsp;equal to&nbsp;<code>10</code>. We invoke the generator function using the&nbsp;<code>next()</code>&nbsp;method. The first time we invoke the generator function,&nbsp;<code>i</code>&nbsp;is equal to&nbsp;<code>10</code>. It encounters the first&nbsp;<code>yield</code>&nbsp;keyword: it yields the value of&nbsp;<code>i</code>. The generator is now \"paused\", and&nbsp;<code>10</code>&nbsp;gets logged.</div><div><br></div><div>Then, we invoke the function again with the&nbsp;<code>next()</code>&nbsp;method. It starts to continue where it stopped previously, still with&nbsp;<code>i</code>&nbsp;equal to&nbsp;<code>10</code>. Now, it encounters the next&nbsp;<code>yield</code>&nbsp;keyword, and yields&nbsp;<code>i * 2</code>.&nbsp;<code>i</code>&nbsp;is equal to&nbsp;<code>10</code>, so it returns&nbsp;<code>10 * 2</code>, which is&nbsp;<code>20</code>. This results in&nbsp;<code>10, 20</code>.</div>"
+            ],
+            "guid": "IK}j;/>1WN",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-ea034757543aec68bf02b0701286746c011ad1e0.jpg\">",
+                "Answer: B<div>When we pass multiple promises to the&nbsp;<code>Promise.race</code>&nbsp;method, it resolves/rejects the&nbsp;<em>first</em>&nbsp;promise that resolves/rejects. To the&nbsp;<code>setTimeout</code>&nbsp;method, we pass a timer: 500ms for the first promise (<code>firstPromise</code>), and 100ms for the second promise (<code>secondPromise</code>). This means that the&nbsp;<code>secondPromise</code>&nbsp;resolves first with the value of&nbsp;<code>'two'</code>.&nbsp;<code>res</code>&nbsp;now holds the value of&nbsp;<code>'two'</code>, which gets logged.</div>"
+            ],
+            "guid": "g>[J&/JTe=",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-cc29ba10ddf388581300bba20be71876a17ceec9.jpg\">",
+                "Answer: D<div>First, we declare a variable&nbsp;<code>person</code>&nbsp;with the value of an object that has a&nbsp;<code>name</code>&nbsp;property.</div><a href=\"https://camo.githubusercontent.com/6f38c1e88aba48a5e18362d81794a95ab64774d227682448a78582a8aa3ae229/68747470733a2f2f692e696d6775722e636f6d2f544d4c314d62532e706e67\"><img src=\"68747470733a2f2f692e696d6775722e636f6d2f544d4c314d62532e706e67.png\"></a><span style=\"color: rgb(201, 209, 217);\"></span><div>Then, we declare a variable called&nbsp;<code>members</code>. We set the first element of that array equal to the value of the&nbsp;<code>person</code>&nbsp;variable. Objects interact by&nbsp;<em>reference</em>&nbsp;when setting them equal to each other. When you assign a reference from one variable to another, you make a&nbsp;<em>copy</em>&nbsp;of that reference. (note that they don't have the&nbsp;<em>same</em>&nbsp;reference!)</div><a href=\"https://camo.githubusercontent.com/a2aff47ba86b7282bd649d2c63f9edbf8b68e6d3d49330afd50b969d219df54f/68747470733a2f2f692e696d6775722e636f6d2f465347354b33462e706e67\"><img src=\"68747470733a2f2f692e696d6775722e636f6d2f465347354b33462e706e67.png\"></a><span style=\"color: rgb(201, 209, 217);\"></span><div>Then, we set the variable&nbsp;<code>person</code>&nbsp;equal to&nbsp;<code>null</code>.</div><a href=\"https://camo.githubusercontent.com/fc32426b0075e5ba126cef4178e8f15bf6aa5e116982ba75b4d55b659958f703/68747470733a2f2f692e696d6775722e636f6d2f73596a63734d542e706e67\"><img src=\"68747470733a2f2f692e696d6775722e636f6d2f73596a63734d542e706e67.png\"></a><span style=\"color: rgb(201, 209, 217);\"></span><div>We are only modifying the value of the&nbsp;<code>person</code>&nbsp;variable, and not the first element in the array, since that element has a different (copied) reference to the object. The first element in&nbsp;<code>members</code>&nbsp;still holds its reference to the original object. When we log the&nbsp;<code>members</code>&nbsp;array, the first element still holds the value of the object, which gets logged.</div>"
+            ],
+            "guid": "z,>sQWP10P",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-5e2896b3daf2a9440dcb7043013c47a4ef8f9395.jpg\">",
+                "Answer: B<div>With a&nbsp;<code>for-in</code>&nbsp;loop, we can iterate through object keys, in this case&nbsp;<code>name</code>&nbsp;and&nbsp;<code>age</code>. Under the hood, object keys are strings (if they're not a Symbol). On every loop, we set the value of&nbsp;<code>item</code>&nbsp;equal to the current key it’s iterating over. First,&nbsp;<code>item</code>&nbsp;is equal to&nbsp;<code>name</code>, and gets logged. Then,&nbsp;<code>item</code>&nbsp;is equal to&nbsp;<code>age</code>, which gets logged.</div>"
+            ],
+            "guid": "kxAr~q$`W{",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Both&nbsp;<code>for...in</code>&nbsp;and&nbsp;<code>for...of</code>&nbsp;statements iterate over something. The main difference between them is in what they iterate over.</div><div><br></div><div>The&nbsp;<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in\"><code>{{c1::for...in}}</code></a>&nbsp;statement iterates over the&nbsp;<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties\">enumerable properties</a>&nbsp;of an object, in an arbitrary order.</div><div>The&nbsp;<code>{{c1::for...of}}</code>&nbsp;statement iterates over values that the&nbsp;<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators#Iterables\">iterable object</a>&nbsp;defines to be iterated over.</div>",
+                ""
+            ],
+            "guid": "o|?A#rXhhh",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "6f0f525f52094eb28bf739169d463320-ao-1",
+                "",
+                "<img src=\"tmpm6mgxi1j.png\" />",
+                "<img src=\"6f0f525f52094eb28bf739169d463320-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6f0f525f52094eb28bf739169d463320-ao-1-A.svg\" />",
+                "<img src=\"6f0f525f52094eb28bf739169d463320-ao-O.svg\" />"
+            ],
+            "guid": "g5A;^D{@07",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "6f0f525f52094eb28bf739169d463320-ao-2",
+                "",
+                "<img src=\"tmpm6mgxi1j.png\" />",
+                "<img src=\"6f0f525f52094eb28bf739169d463320-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6f0f525f52094eb28bf739169d463320-ao-2-A.svg\" />",
+                "<img src=\"6f0f525f52094eb28bf739169d463320-ao-O.svg\" />"
+            ],
+            "guid": "P.h6^[MAsY",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "6f0f525f52094eb28bf739169d463320-ao-3",
+                "",
+                "<img src=\"tmpm6mgxi1j.png\" />",
+                "<img src=\"6f0f525f52094eb28bf739169d463320-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6f0f525f52094eb28bf739169d463320-ao-3-A.svg\" />",
+                "<img src=\"6f0f525f52094eb28bf739169d463320-ao-O.svg\" />"
+            ],
+            "guid": "uNX%Q:xRD)",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-966c3025de896375d29a61c11b4760f3ca84e65e.jpg\">",
+                "Answer: C<div>When mapping over the array, the value of&nbsp;<code>num</code>&nbsp;is equal to the element it’s currently looping over. In this case, the elements are numbers, so the condition of the if statement&nbsp;<code>typeof num === \"number\"</code>&nbsp;returns&nbsp;<code>true</code>. The map function creates a new array and inserts the values returned from the function.</div><div><br></div><div>However, we don’t return a value. When we don’t return a value from the function, the function returns&nbsp;<code>undefined</code>. For every element in the array, the function block gets called, so for each element we return&nbsp;<code>undefined</code>.</div>"
+            ],
+            "guid": "ic?)DpD%a[",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "javascript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h2>Promise Object</h2><div>The Promise object can be viewed as:</div><pre><code><div><span style=\"color: rgb(78, 201, 176);\">Promise</span> = {\n  [[PromiseState]]: {{c1::<span style=\"color: rgb(214, 157, 133);\">\"pending\"</span> | <span style=\"color: rgb(214, 157, 133);\">\"fulfilled\"</span> | <span style=\"color: rgb(214, 157, 133);\">\"rejected\"</span>}},\n  <span style=\"color: rgb(156, 220, 254);\">value</span>: <span style=\"color: rgb(86, 156, 214);\">undefined</span>,\n  {{c1::onFulfillment}}: [callback1, callback2, ...],\n  {{c1::onRejection}}: [rejectCallback1, ...]\n}\n</div></code></pre><div>The Promise object also includes the&nbsp;<code>{{c1::.then()}}</code>&nbsp;method.</div>",
+                ""
+            ],
+            "guid": "yob#C!T$|v",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h3><code>then()</code>&nbsp;method</h3><div>Takes {{c1::2 arguments}}.</div><ol><li>The first argument is a function to call when the promise is {{c1::fulfilled}}. Any additional data related to the asynchronous operation is {{c1::passed to this fulfillment function}}.</li><li>The second argument is a function to call when the promise is {{c1::rejected}}. Similar to the fulfillment function, the rejection function is passed {{c1::any additional data related to the rejection}}.</li></ol><div><strong>Note</strong>: Any object that implements the&nbsp;<code>then()</code>&nbsp;method as described in the preceding paragraph is called a \"{{c1::thenable}}\". All promises are {{c1::thenables}}, but all {{c1::thenables}} are not promises.</div>",
+                ""
+            ],
+            "guid": "x4Emr~7ni8",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><b>Create a promise that resolves immediately</b></div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> promise = <span style=\"color: rgb(86, 156, 214);\">new</span> <span style=\"color: rgb(78, 201, 176);\">Promise</span>({{c1::<span style=\"color: rgb(86, 156, 214);\">function</span>(resolve, reject)}}<span style=\"color: rgb(220, 220, 220);\"> </span>{\n  {{c1::resolve}}(<span style=\"color: rgb(214, 157, 133);\">\"I'm immediately resolved and will be the 'result' value.\"</span>);\n});\n\npromise.{{c1::then}}(<span style=\"color: rgb(220, 220, 220);\">(result) =&gt;</span> <span style=\"color: rgb(78, 201, 176);\">console</span>.log(result));</div></code></pre>",
+                ""
+            ],
+            "guid": "FmjU#j<x,}",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h3><code>catch()</code>&nbsp;method</h3><div>The&nbsp;<code>catch()</code>&nbsp;method behaves the same as&nbsp;<code>then()</code>&nbsp;when only a rejection handler is passed. For example, the following&nbsp;<code>catch()</code>&nbsp;and&nbsp;<code>then()</code>&nbsp;calls are functionally equivalent:</div><pre><code><div>promise.{{c1::catch}}(<span style=\"color: rgb(220, 220, 220);\"><span style=\"color: rgb(86, 156, 214);\">function</span>(err) </span>{\n  <span style=\"color: rgb(78, 201, 176);\">console</span>.error(err.message);\n});\n\n<span style=\"color: rgb(87, 166, 74); font-style: italic;\">// is the same as:</span>\n\npromise.then({{c1::<span style=\"color: rgb(86, 156, 214);\">null</span>, <span style=\"color: rgb(220, 220, 220);\"><span style=\"color: rgb(86, 156, 214);\">function</span>(err) </span>{\n  <span style=\"color: rgb(78, 201, 176);\">console</span>.log(err.message);\n}}});\n</div></code></pre><div><strong>Note</strong>: If you don't attach a rejection handler to a promise, all failures will happen {{c1::silently}}. Always attach a rejection handler, even if the handler just logs the failure.</div>",
+                ""
+            ],
+            "guid": "uJmO@UL384",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h2>Promise Constructor</h2><div>New promsies are created using the&nbsp;<code>Promise</code>&nbsp;constructor. This constructor accepts {{c1::a single argument}}: a function called the {{c1::executor}}, which contains the code to initialize the promise.</div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> p = <span style=\"color: rgb(86, 156, 214);\">new</span> <span style=\"color: rgb(78, 201, 176);\">Promise</span>(<span style=\"color: rgb(87, 166, 74); font-style: italic;\">/* executor function */</span>);</div></code></pre>",
+                ""
+            ],
+            "guid": "OR+Rp~7`2s",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h3>Executor function</h3><div>The executor is passed {{c1::two functions}} named&nbsp;{{c1::<code>resolve()</code>&nbsp;and&nbsp;<code>reject()</code>}}&nbsp;as arguments.</div><div><br></div><div>The&nbsp;<code>resolve()</code>&nbsp;function is called when the executor has finished successfully to signal that the promise is ready to be resolved, whereas the&nbsp;<code>reject()</code>&nbsp;function indicates that the executor has failed.</div><div><br></div><div>Example:</div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> fs = <span style=\"color: rgb(78, 201, 176);\">require</span>(<span style=\"color: rgb(214, 157, 133);\">'fs'</span>);\n<span style=\"color: rgb(220, 220, 220);\"><span style=\"color: rgb(86, 156, 214);\">function</span> readFile(filename) </span>{\n  <span style=\"color: rgb(86, 156, 214);\">return</span> {{c1::<span style=\"color: rgb(86, 156, 214);\">new</span> <span style=\"color: rgb(78, 201, 176);\">Promise</span>(<span style=\"color: rgb(220, 220, 220);\"><span style=\"color: rgb(86, 156, 214);\">function</span>(resolve, reject) </span>{}}\n    fs.readFile(filename, { <span style=\"color: rgb(156, 220, 254);\">encoding</span>: <span style=\"color: rgb(214, 157, 133);\">'utf8'</span> }, <span style=\"color: rgb(220, 220, 220);\"><span style=\"color: rgb(86, 156, 214);\">function</span>(err, contents) </span>{\n      <span style=\"color: rgb(86, 156, 214);\">if</span> (err) {\n        {{c1::reject(err);\n        <span style=\"color: rgb(86, 156, 214);\">return</span>;}}\n      }\n      {{c1::resolve(contents);}}\n    });\n  });\n}\n<span style=\"color: rgb(86, 156, 214);\">let</span> promise = readFile(<span style=\"color: rgb(214, 157, 133);\">'example.txt'</span>);\n<span style=\"color: rgb(87, 166, 74); font-style: italic;\">// listen for both fulfillment and rejection</span>\npromise.{{c1::then}}(<span style=\"color: rgb(220, 220, 220);\"><span style=\"color: rgb(86, 156, 214);\">function</span>(contents) </span>{\n  <span style=\"color: rgb(78, 201, 176);\">console</span>.log(contents);\n}, <span style=\"color: rgb(220, 220, 220);\"><span style=\"color: rgb(86, 156, 214);\">function</span>(err) </span>{\n  <span style=\"color: rgb(78, 201, 176);\">console</span>.error(err.message);\n});\n</div></code></pre><div><strong>Note</strong>: The executor runs {{c1::immediately}} when&nbsp;<code>readFile()</code>&nbsp;is called. When either&nbsp;<code>resolve()</code>&nbsp;or&nbsp;<code>reject()</code>&nbsp;is called inside the executor, a {{c1::job is added to the job queue}} to resolve the promise.</div>",
+                ""
+            ],
+            "guid": "N2m8HRb|iU",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Example:</div><pre><code><span style=\"color: rgb(86, 156, 214);\">let</span> promise = <span style=\"color: rgb(86, 156, 214);\">new</span> <span style=\"color: rgb(78, 201, 176);\">Promise</span>(<span style=\"color: rgb(220, 220, 220);\"><span style=\"color: rgb(86, 156, 214);\">function</span>(resolve, reject) </span>{\n  <span style=\"color: rgb(78, 201, 176);\">console</span>.log(<span style=\"color: rgb(214, 157, 133);\">'Promise'</span>);\n  resolve();\n});\npromise.then(<span style=\"color: rgb(220, 220, 220);\"><span style=\"color: rgb(86, 156, 214);\">function</span>() </span>{\n  <span style=\"color: rgb(78, 201, 176);\">console</span>.log(<span style=\"color: rgb(214, 157, 133);\">'Resolved'</span>);\n});\n<span style=\"color: rgb(78, 201, 176);\">console</span>.log(<span style=\"color: rgb(214, 157, 133);\">'Hi'</span>);\n<span style=\"color: rgb(87, 166, 74); font-style: italic;\">// logs</span>\n{{c1::<span style=\"color: rgb(87, 166, 74); font-style: italic;\">// Promise</span>\n<span style=\"color: rgb(87, 166, 74); font-style: italic;\">// Hi</span>\n<span style=\"color: rgb(87, 166, 74); font-style: italic;\">// Resolved</span>}}<br></code></pre>",
+                ""
+            ],
+            "guid": "qWK>BkN*Qt",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h2>Chaining Promises</h2><h2><code>Promise.all()</code></h2><div>Takes an {{c1::array of promises}} and creates a {{c1::promise}} that fulfills when all of them successfully complete. You get an {{c1::array}} of results (whatever the promises fulfilled to) in the {{c1::same order}} as the promises you passed in.</div>",
+                ""
+            ],
+            "guid": "O-2*#W$?SX",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>All&nbsp;<code>then</code>&nbsp;does, is take the argument (a function definition) and add it to the Promise object's {{c1::onFulfillment}} array of callback functions.</div><div><br></div><div><code>catch</code>&nbsp;will add its argument(s) to the&nbsp;<code>{{c1::onRejection}}</code>&nbsp;array.&nbsp;</div><div><br></div><div>Also a {{c1::second optional argument}} to&nbsp;<code>then</code>&nbsp;will be added to the&nbsp;<code>onRejection</code>&nbsp;array.</div>",
+                ""
+            ],
+            "guid": "I/{NQ71!%v",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h3>Example&nbsp;</h3><div>Wrap the&nbsp;<code>readystatechange</code>&nbsp;event in a promise.</div><pre><code><div><span style=\"color: rgb(220, 220, 220);\"><span style=\"color: rgb(86, 156, 214);\">function</span> ready() </span>{\n  <span style=\"color: rgb(86, 156, 214);\">return</span> <span style=\"color: rgb(86, 156, 214);\">new</span> <span style=\"color: rgb(78, 201, 176);\">Promise</span>(<span style=\"color: rgb(220, 220, 220);\">(resolve, reject) =&gt;</span> {\n    <span style=\"color: rgb(220, 220, 220);\"><span style=\"color: rgb(86, 156, 214);\">function</span> checkState() </span>{\n      <span style=\"color: rgb(86, 156, 214);\">if</span> (<span style=\"color: rgb(78, 201, 176);\">document</span>.readyState !== <span style=\"color: rgb(214, 157, 133);\">'loading'</span>) {\n        resolve();\n      }\n    }\n    <span style=\"color: rgb(78, 201, 176);\">document</span>.addEventListener(<span style=\"color: rgb(214, 157, 133);\">'readystatechange'</span>, checkState);\n    checkState(); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// this will perform the check if 'readystatechange' is loading before this code happens to run</span>\n  });\n};\n\n<span style=\"color: rgb(220, 220, 220);\"><span style=\"color: rgb(86, 156, 214);\">function</span> wrapperResolved() </span>{\n  <span style=\"color: rgb(86, 156, 214);\">let</span> completion = <span style=\"color: rgb(78, 201, 176);\">document</span>.querySelector(<span style=\"color: rgb(214, 157, 133);\">'.complection'</span>);\n  completion.innerHTML = <span style=\"color: rgb(214, 157, 133);\">'Resolved!'</span>;\n}\n\nready().then(wrapperResolved);</div></code></pre><div><br></div><div>What happens here?</div><div><br></div><div>{{c1::JavaScript will execute the ready function, which will return a new promise. Before returning, it will add an event listener and invoke the checkState function. Then it will return the promise object back to global. It will then process the then method, adding wrapperResolved to the onFulfillment array of the promise object.&nbsp;}}</div>",
+                ""
+            ],
+            "guid": "b}_7+>S$>O",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does an async function return?<div><br></div><div>{{c1::A promise.&nbsp;}}</div>",
+                ""
+            ],
+            "guid": "hWI|I8d`:~",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "arr.splice()<div><br></div><div>Does it change the original array? {{c1::Yes}}</div><div>What does it return? {{c1::An array of the deleted items}}</div><div><br></div><div>Syntax</div><div><pre>{{c1::<span style=\"color: rgb(0, 69, 139);\">let</span> arrDeletedItems <span style=\"color: rgb(33, 33, 33);\">=</span> arr<span style=\"color: rgb(153, 153, 153);\">.</span><span style=\"color: rgb(181, 66, 72);\">splice</span><span style=\"color: rgb(153, 153, 153);\">(</span>start<span style=\"color: rgb(153, 153, 153);\">[</span><span style=\"color: rgb(153, 153, 153);\">,</span> deleteCount<span style=\"color: rgb(153, 153, 153);\">[</span><span style=\"color: rgb(153, 153, 153);\">,</span> item1<span style=\"color: rgb(153, 153, 153);\">[</span><span style=\"color: rgb(153, 153, 153);\">,</span> item2<span style=\"color: rgb(153, 153, 153);\">[</span><span style=\"color: rgb(153, 153, 153);\">,</span> <span style=\"color: rgb(33, 33, 33);\">...</span><span style=\"color: rgb(153, 153, 153);\">]</span><span style=\"color: rgb(153, 153, 153);\">]</span><span style=\"color: rgb(153, 153, 153);\">]</span><span style=\"color: rgb(153, 153, 153);\">]</span><span style=\"color: rgb(153, 153, 153);\">)</span>}}<br></pre></div>",
+                ""
+            ],
+            "guid": "n!P2Wx(R6:",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0ce58e0442b24edd9b179ca1d6709682-ao-1",
+                "",
+                "<img src=\"tmp44e6hztk.png\" />",
+                "<img src=\"0ce58e0442b24edd9b179ca1d6709682-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0ce58e0442b24edd9b179ca1d6709682-ao-1-A.svg\" />",
+                "<img src=\"0ce58e0442b24edd9b179ca1d6709682-ao-O.svg\" />"
+            ],
+            "guid": "p=Q]ak`j:%",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To test strict equality in Jest, use {{c1::.toBe()}}",
+                "toBe uses Object.is()"
+            ],
+            "guid": "O!T&Wz<*P%",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To test the value of an object in Jest, use {{c1::.toEqual()}}",
+                ""
+            ],
+            "guid": "cki=(R1tU4",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Testing truthiness in Jest<div><br></div><div><ul><li><code>{{c1::toBeNull}}</code>&nbsp;matches only&nbsp;<code>null</code></li><li><code>{{c1::toBeUndefined}}</code>&nbsp;matches only&nbsp;<code>undefined</code></li><li><code>{{c1::toBeDefined}}</code>&nbsp;is the opposite of&nbsp;<code>toBeUndefined</code></li><li><code>{{c1::toBeTruthy}}</code>&nbsp;matches anything that an&nbsp;<code>if</code>&nbsp;statement treats as true</li><li><code>{{c1::toBeFalsy}}</code>&nbsp;matches anything that an&nbsp;<code>if</code>&nbsp;statement treats as false</li></ul></div>",
+                ""
+            ],
+            "guid": "O*|qyIN]>3",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Testing falsiness in Jest<div><br></div><div>{{c1::<div>Use .not or .toBeFalsy()</div><div>.not.toBeTruthy()</div>}}<br></div>",
+                ""
+            ],
+            "guid": "Jx<vPFH{Xa",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To test whether an array contains a value in Jest, use<div>{{c1::<div><br></div><div>toContain();</div><div><br></div><div>expect(shoppingList).toContain('milk');</div>}}<br></div>",
+                ""
+            ],
+            "guid": "qxPYj+nnoW",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To check a string in Jest, use<div><br></div><div>{{c1::toMatch()}}</div>",
+                "<img src=\"paste-aad9730db9694d9b2d9546062ffbc25aea081fb1.jpg\">"
+            ],
+            "guid": "y[L~?J(qRU",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To test numbers in Jest, use<div><br></div><div>{{c1::<div>.toBeGreaterThan()</div><div>.toBeGreaterThanOrEqual()</div><div>.toBeLessThan()</div><div>.toBeLessThanOrEqual()</div><div><br></div><div>.toBe is equivalent to .toEqual for numbers.</div><div><br></div><div>use .toBeCloseTo() for floating point numbers</div>}}<br></div>",
+                "<img src=\"paste-7fb7ed41d821f5857be4cf91155270ff0321a12f.jpg\">"
+            ],
+            "guid": "CPZDsAFc^I",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        }
+    ]
+}

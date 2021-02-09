@@ -1,0 +1,490 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "87b01f28-6aec-11eb-a470-acde48001122",
+    "deck_config_uuid": "87b04ac0-6aec-11eb-a470-acde48001122",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "87b04ac0-6aec-11eb-a470-acde48001122",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "0c873a925f0343c397c039d287dbb735-ao-1-A.svg",
+        "0c873a925f0343c397c039d287dbb735-ao-1-Q.svg",
+        "0c873a925f0343c397c039d287dbb735-ao-2-A.svg",
+        "0c873a925f0343c397c039d287dbb735-ao-2-Q.svg",
+        "0c873a925f0343c397c039d287dbb735-ao-O.svg",
+        "26493c894a8a45ea9c57b5f97f4beb82-ao-1-A.svg",
+        "26493c894a8a45ea9c57b5f97f4beb82-ao-1-Q.svg",
+        "26493c894a8a45ea9c57b5f97f4beb82-ao-2-A.svg",
+        "26493c894a8a45ea9c57b5f97f4beb82-ao-2-Q.svg",
+        "26493c894a8a45ea9c57b5f97f4beb82-ao-3-A.svg",
+        "26493c894a8a45ea9c57b5f97f4beb82-ao-3-Q.svg",
+        "26493c894a8a45ea9c57b5f97f4beb82-ao-O.svg",
+        "a092862082e04f158392c9cb05cf8f51-ao-1-A.svg",
+        "a092862082e04f158392c9cb05cf8f51-ao-1-Q.svg",
+        "a092862082e04f158392c9cb05cf8f51-ao-O.svg",
+        "tmp5cwz0gy_.png",
+        "tmp6h_3p0_4.png",
+        "tmpobvgw7b0.png"
+    ],
+    "name": "Algorithms",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: left;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: left;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "perform-auto-markdown": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "In-order traversal (recursively)",
+                "var inorderTraversal = function(root) {<div>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp; const result = [];<br>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp; const recurse = (node) =&gt; {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if (node === null) return;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if (node.left) {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recurse(node.left);<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; result.push(node.val);<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if (node.right) {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recurse(node.right);<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }<br>&nbsp;&nbsp;&nbsp; }<br>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp; recurse(root);<br>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp; return result;<br>};</div>"
+            ],
+            "guid": "q+zsrb{K;m",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "Algorithms"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mergesort<div><br></div><div>const mergeSort = arr =&gt; {</div><div>&nbsp; if ({{c1::arr.length &lt;=1}}) return arr;</div><div>&nbsp; let mid = {{c1::Math.floor(arr.length / 2)}};</div><div>&nbsp; let left = {{c1::mergeSort(arr.slice(0, mid))}};</div><div>&nbsp; let right = {{c1::mergeSort(arr.slice(mid))}};</div><div>&nbsp; return merge(left, right);</div><div>}</div><div><br></div><div>const merge = (arr1, arr2) =&gt; {</div><div>&nbsp; let sorted = [];</div><div>&nbsp; while({{c1::arr1.length &amp;&amp; arr2.length}}) {</div><div>&nbsp; &nbsp; if (arr1[0] &lt; arr2[0]) sorted.push(arr1.shift());</div><div>&nbsp; &nbsp; else sorted.push(arr2.shift());</div><div>&nbsp; return {{c1::[...sorted, ...arr1, ...arr2]}};</div><div>}</div><div><br></div><div><br></div><div>Time: O(n log n)</div><div>Space: {{c1::O(n)}}</div><div>Not an in-place sort.</div>",
+                ""
+            ],
+            "guid": "kxc)9nbNF/",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "Algorithms"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Insertion sort<div><br></div><div>- In iteration i, swap a[i] with each larger entry to its left</div><div>- Entries at left of pointer (including pointer) are in {{c1::ascending order}}.</div><div><br></div><div>function insertionSort(a) {</div><div>&nbsp; const n = a.length;</div><div>&nbsp; for ({{c1::let i = 1; i &lt; n; i++}}) {</div><div>&nbsp; &nbsp; const key = a[i];</div><div>&nbsp; &nbsp; let j = {{c1::i - 1}};</div><div>&nbsp; &nbsp; while (j &gt;= 0 &amp;&amp; {{c1::a[j] &gt; key}}) {</div><div>&nbsp; &nbsp; &nbsp; {{c1::a[j+1]}} = a[j];</div><div>&nbsp; &nbsp; &nbsp; j = j - 1;</div><div>&nbsp; &nbsp; }</div><div>&nbsp; &nbsp; {{c1::a[j+1] = key;}}</div><div>&nbsp; }</div><div>&nbsp; return a;</div><div>}</div><div><br></div><div>- For partially sorted arrays insertion sort runs in {{c1::linear}} time.</div><div>- Insertion sort is about {{c1::twice as fast}} as selection sort.&nbsp;</div><div><br></div>",
+                ""
+            ],
+            "guid": "jZ<Kaqw.g?",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "Algorithms"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mergesort plan:<div><br></div><div>1. Divide array into {{c1::two halves}}</div><div>2. {{c1::Recursively}} sort each half</div><div>3. {{c1::Merge}} two halves</div><div><br></div><div>Time complexity: {{c1::O(n log n)}}</div><div>Space complexity: {{c1::O(n)}}</div>",
+                ""
+            ],
+            "guid": "h_g)_xKQ3w",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a092862082e04f158392c9cb05cf8f51-ao-1",
+                "",
+                "<img src=\"tmpobvgw7b0.png\" />",
+                "<img src=\"a092862082e04f158392c9cb05cf8f51-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a092862082e04f158392c9cb05cf8f51-ao-1-A.svg\" />",
+                "<img src=\"a092862082e04f158392c9cb05cf8f51-ao-O.svg\" />"
+            ],
+            "guid": "sMlJ$?Ug{",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0c873a925f0343c397c039d287dbb735-ao-1",
+                "",
+                "<img src=\"tmp6h_3p0_4.png\" />",
+                "<img src=\"0c873a925f0343c397c039d287dbb735-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0c873a925f0343c397c039d287dbb735-ao-1-A.svg\" />",
+                "<img src=\"0c873a925f0343c397c039d287dbb735-ao-O.svg\" />"
+            ],
+            "guid": "KRF^C-gwWf",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0c873a925f0343c397c039d287dbb735-ao-2",
+                "",
+                "<img src=\"tmp6h_3p0_4.png\" />",
+                "<img src=\"0c873a925f0343c397c039d287dbb735-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0c873a925f0343c397c039d287dbb735-ao-2-A.svg\" />",
+                "<img src=\"0c873a925f0343c397c039d287dbb735-ao-O.svg\" />"
+            ],
+            "guid": "zQ~MkWRs:r",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sorting algorithms stability:<div><br></div><div>Insertion sort is {{c1::stable.}}</div><div>Selection sort is {{c1::not stable.}}</div><div>Shellsort is {{c1::not stable.}}</div><div>Mergesort is {{c1::stable.}}</div><div>Quicksort is {{c1::not stable.}}</div>",
+                ""
+            ],
+            "guid": "r%NwV=wG)W",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "26493c894a8a45ea9c57b5f97f4beb82-ao-1",
+                "",
+                "<img src=\"tmp5cwz0gy_.png\" />",
+                "<img src=\"26493c894a8a45ea9c57b5f97f4beb82-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"26493c894a8a45ea9c57b5f97f4beb82-ao-1-A.svg\" />",
+                "<img src=\"26493c894a8a45ea9c57b5f97f4beb82-ao-O.svg\" />"
+            ],
+            "guid": "C7#tLU9sC`",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "26493c894a8a45ea9c57b5f97f4beb82-ao-2",
+                "",
+                "<img src=\"tmp5cwz0gy_.png\" />",
+                "<img src=\"26493c894a8a45ea9c57b5f97f4beb82-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"26493c894a8a45ea9c57b5f97f4beb82-ao-2-A.svg\" />",
+                "<img src=\"26493c894a8a45ea9c57b5f97f4beb82-ao-O.svg\" />"
+            ],
+            "guid": "I4*|yrRyGA",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "26493c894a8a45ea9c57b5f97f4beb82-ao-3",
+                "",
+                "<img src=\"tmp5cwz0gy_.png\" />",
+                "<img src=\"26493c894a8a45ea9c57b5f97f4beb82-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"26493c894a8a45ea9c57b5f97f4beb82-ao-3-A.svg\" />",
+                "<img src=\"26493c894a8a45ea9c57b5f97f4beb82-ao-O.svg\" />"
+            ],
+            "guid": "v1TmTl`O;}",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        }
+    ]
+}

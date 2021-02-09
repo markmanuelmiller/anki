@@ -1,0 +1,3172 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "5a9582fc-6aed-11eb-a470-acde48001122",
+    "deck_config_uuid": "87b04ac0-6aec-11eb-a470-acde48001122",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "87b04ac0-6aec-11eb-a470-acde48001122",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "0690cfc928c5412f8fb12ac467b8dc6d-ao-1-A.svg",
+        "0690cfc928c5412f8fb12ac467b8dc6d-ao-1-Q.svg",
+        "0690cfc928c5412f8fb12ac467b8dc6d-ao-2-A.svg",
+        "0690cfc928c5412f8fb12ac467b8dc6d-ao-2-Q.svg",
+        "0690cfc928c5412f8fb12ac467b8dc6d-ao-3-A.svg",
+        "0690cfc928c5412f8fb12ac467b8dc6d-ao-3-Q.svg",
+        "0690cfc928c5412f8fb12ac467b8dc6d-ao-4-A.svg",
+        "0690cfc928c5412f8fb12ac467b8dc6d-ao-4-Q.svg",
+        "0690cfc928c5412f8fb12ac467b8dc6d-ao-O.svg",
+        "119607dc038f431f9f3c5ca6f21ed7f7-ao-1-A.svg",
+        "119607dc038f431f9f3c5ca6f21ed7f7-ao-1-Q.svg",
+        "119607dc038f431f9f3c5ca6f21ed7f7-ao-O.svg",
+        "12f254f1c2ff456a8cf5c6fbce127998-ao-1-A.svg",
+        "12f254f1c2ff456a8cf5c6fbce127998-ao-1-Q.svg",
+        "12f254f1c2ff456a8cf5c6fbce127998-ao-2-A.svg",
+        "12f254f1c2ff456a8cf5c6fbce127998-ao-2-Q.svg",
+        "12f254f1c2ff456a8cf5c6fbce127998-ao-3-A.svg",
+        "12f254f1c2ff456a8cf5c6fbce127998-ao-3-Q.svg",
+        "12f254f1c2ff456a8cf5c6fbce127998-ao-O.svg",
+        "2f54704406db41568bd5ecb484b3db5c-ao-1-A.svg",
+        "2f54704406db41568bd5ecb484b3db5c-ao-1-Q.svg",
+        "2f54704406db41568bd5ecb484b3db5c-ao-2-A.svg",
+        "2f54704406db41568bd5ecb484b3db5c-ao-2-Q.svg",
+        "2f54704406db41568bd5ecb484b3db5c-ao-3-A.svg",
+        "2f54704406db41568bd5ecb484b3db5c-ao-3-Q.svg",
+        "2f54704406db41568bd5ecb484b3db5c-ao-O.svg",
+        "4818404343af40b9b03837a653896350-ao-1-A.svg",
+        "4818404343af40b9b03837a653896350-ao-1-Q.svg",
+        "4818404343af40b9b03837a653896350-ao-2-A.svg",
+        "4818404343af40b9b03837a653896350-ao-2-Q.svg",
+        "4818404343af40b9b03837a653896350-ao-3-A.svg",
+        "4818404343af40b9b03837a653896350-ao-3-Q.svg",
+        "4818404343af40b9b03837a653896350-ao-4-A.svg",
+        "4818404343af40b9b03837a653896350-ao-4-Q.svg",
+        "4818404343af40b9b03837a653896350-ao-O.svg",
+        "4e128a1b9deb438fb77dcb4f81077107-ao-1-A.svg",
+        "4e128a1b9deb438fb77dcb4f81077107-ao-1-Q.svg",
+        "4e128a1b9deb438fb77dcb4f81077107-ao-2-A.svg",
+        "4e128a1b9deb438fb77dcb4f81077107-ao-2-Q.svg",
+        "4e128a1b9deb438fb77dcb4f81077107-ao-3-A.svg",
+        "4e128a1b9deb438fb77dcb4f81077107-ao-3-Q.svg",
+        "4e128a1b9deb438fb77dcb4f81077107-ao-4-A.svg",
+        "4e128a1b9deb438fb77dcb4f81077107-ao-4-Q.svg",
+        "4e128a1b9deb438fb77dcb4f81077107-ao-5-A.svg",
+        "4e128a1b9deb438fb77dcb4f81077107-ao-5-Q.svg",
+        "4e128a1b9deb438fb77dcb4f81077107-ao-6-A.svg",
+        "4e128a1b9deb438fb77dcb4f81077107-ao-6-Q.svg",
+        "4e128a1b9deb438fb77dcb4f81077107-ao-O.svg",
+        "787d5440770447edb7ebe0812cf7d099-ao-1-A.svg",
+        "787d5440770447edb7ebe0812cf7d099-ao-1-Q.svg",
+        "787d5440770447edb7ebe0812cf7d099-ao-2-A.svg",
+        "787d5440770447edb7ebe0812cf7d099-ao-2-Q.svg",
+        "787d5440770447edb7ebe0812cf7d099-ao-3-A.svg",
+        "787d5440770447edb7ebe0812cf7d099-ao-3-Q.svg",
+        "787d5440770447edb7ebe0812cf7d099-ao-O.svg",
+        "94d1f3c1d4bf4498b30a358ec42224fe-ao-1-A.svg",
+        "94d1f3c1d4bf4498b30a358ec42224fe-ao-1-Q.svg",
+        "94d1f3c1d4bf4498b30a358ec42224fe-ao-O.svg",
+        "bbc6f4e08bff42c1b5a71e89c40ee864-ao-1-A.svg",
+        "bbc6f4e08bff42c1b5a71e89c40ee864-ao-1-Q.svg",
+        "bbc6f4e08bff42c1b5a71e89c40ee864-ao-2-A.svg",
+        "bbc6f4e08bff42c1b5a71e89c40ee864-ao-2-Q.svg",
+        "bbc6f4e08bff42c1b5a71e89c40ee864-ao-3-A.svg",
+        "bbc6f4e08bff42c1b5a71e89c40ee864-ao-3-Q.svg",
+        "bbc6f4e08bff42c1b5a71e89c40ee864-ao-4-A.svg",
+        "bbc6f4e08bff42c1b5a71e89c40ee864-ao-4-Q.svg",
+        "bbc6f4e08bff42c1b5a71e89c40ee864-ao-5-A.svg",
+        "bbc6f4e08bff42c1b5a71e89c40ee864-ao-5-Q.svg",
+        "bbc6f4e08bff42c1b5a71e89c40ee864-ao-O.svg",
+        "be12788d250a41f49e9cb0e04e595229-ao-1-A.svg",
+        "be12788d250a41f49e9cb0e04e595229-ao-1-Q.svg",
+        "be12788d250a41f49e9cb0e04e595229-ao-2-A.svg",
+        "be12788d250a41f49e9cb0e04e595229-ao-2-Q.svg",
+        "be12788d250a41f49e9cb0e04e595229-ao-3-A.svg",
+        "be12788d250a41f49e9cb0e04e595229-ao-3-Q.svg",
+        "be12788d250a41f49e9cb0e04e595229-ao-O.svg",
+        "c87aa59ee49d4246b81371e9b3f0bddf-ao-1-A.svg",
+        "c87aa59ee49d4246b81371e9b3f0bddf-ao-1-Q.svg",
+        "c87aa59ee49d4246b81371e9b3f0bddf-ao-2-A.svg",
+        "c87aa59ee49d4246b81371e9b3f0bddf-ao-2-Q.svg",
+        "c87aa59ee49d4246b81371e9b3f0bddf-ao-3-A.svg",
+        "c87aa59ee49d4246b81371e9b3f0bddf-ao-3-Q.svg",
+        "c87aa59ee49d4246b81371e9b3f0bddf-ao-4-A.svg",
+        "c87aa59ee49d4246b81371e9b3f0bddf-ao-4-Q.svg",
+        "c87aa59ee49d4246b81371e9b3f0bddf-ao-O.svg",
+        "d08be43a43af47bea5f34cfda94e8cde-ao-1-A.svg",
+        "d08be43a43af47bea5f34cfda94e8cde-ao-1-Q.svg",
+        "d08be43a43af47bea5f34cfda94e8cde-ao-O.svg",
+        "main-qimg-21a541d2fbf5437d6ecb6b882801d7dd.png",
+        "paste-00b69c16f5c318a4196e365d1365a6a30ee98c6d.jpg",
+        "paste-079328d6a56fe9147840c343e356bfcc8509bb35.jpg",
+        "paste-2cdfb56dbaa0732c019fa800054b6efa75c0f91d.jpg",
+        "paste-368d10c2e71a1aa1c9a0808a731184f4900d3223.jpg",
+        "paste-5015d30b842599d5744f2f220369ca64cc1dfb84.jpg",
+        "paste-52c7f6d2f662ddf324e7e726d371c9321b7fd0d4.jpg",
+        "paste-609e2799cb11c016dd0060abdad4aca57ffe7007.jpg",
+        "paste-6740c01f0d55f10157a8c31decc9e57154e503d6.jpg",
+        "paste-7aa2afa20b8a824c610cd2831a243c585af5c3ca.jpg",
+        "paste-a721ec1ba3333198c7ef1f389d5a84af61fa1583.jpg",
+        "paste-be8057c6728f783746c0d10089320548a9f6f5e5.jpg",
+        "paste-bf6fa43077f63981a3061093688c437a798218f6.jpg",
+        "paste-c812b298c5cd2462d7ac77da76e9cddf6c289091.jpg",
+        "paste-f77fe537aafb15895008bd057e6f41416ae56f39.jpg",
+        "paste-f86ae100110b171b7f2cf13622000ed7974c166b.jpg",
+        "tmp07w_wyrp.png",
+        "tmp2hf5ror2.png",
+        "tmp7ooh7fh6.png",
+        "tmp8u9d43he.png",
+        "tmp_mvan9c9.png",
+        "tmpcjfu1krj.png",
+        "tmpgwcr0tdz.png",
+        "tmpl033y_g4.png",
+        "tmpmje9k0b2.png",
+        "tmpnk_cd38w.png",
+        "tmpuc6tnycl.png",
+        "tmpzlyzlgue.png"
+    ],
+    "mid": 1611776200369,
+    "name": "Software Engineering",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: left;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: left;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "perform-auto-markdown": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (type in the answer)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{Front}}\n\n<hr id=answer>\n\n{{type:Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}\n\n{{type:Back}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which variables are evaluated on the last line of code:<div><br></div><div>const i = \"hi\";</div><div>const j = \"goodbye\";</div><div><br></div><div>const b = {i: j};</div>",
+                "Only j is evaluated. i is not evaluted.&nbsp;"
+            ],
+            "guid": "nJ:Emql,M{",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::SOAP}} worked well as a method for client/server communication but not everyone liked it due to it's rigid schema requirements.&nbsp;",
+                ""
+            ],
+            "guid": "gkQpMDo}bT",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "___ was invented due to the problems found client libraries, like them being hard to maintain and patch, open to security vulnerabilities. Also what if you aren't on a browser? You need a client library and you're responsible for this.<div><br></div><div>It's based on ____.<br><div><br></div><div>One client and protocol to rule them all - it should do everything that ____ does, that ____ does, that ____ does, etc.<br><div><br></div><div>Now there is one client library for popular languages maintained by ____.&nbsp;</div><div><br></div><div>The message format is a ____ ____.</div></div></div>",
+                "gRPC HTTP/2 WebSockets REST GraphQL Google protocol buffer"
+            ],
+            "guid": "Ee@d!MYEQb",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gRPC Modes:<div><br></div><div>____ RPC for request/response</div><div><br></div><div>____ ____ RPC when client expects a stream from the server, where client listens for an \"on data\" event.</div><div><br></div><div>____ ____ RPC when server expects a stream from the client. Often used when ____ large files. Server can optionally respond.</div><div><br></div><div>____ ____ RPC when both client and server can stream to each other (think chatting or gaming).</div>",
+                "Unary Server streaming client streaming bidirectional streaming"
+            ],
+            "guid": "etrGAHvI3P",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pros of gRPC:<div><br></div><div>____ and ____ - everything is binary format with protobuf - the slimmest format possible. HTTP/2 also compresses it even further. The most compact, the faster.</div><div><br></div><div>____ client library per language. Every language you use will have a similar gRPC client library maintained by Google/Open Source community.</div><div><br></div><div>____ ____ (upload) - server side streaming offers the ability to provide a progress bar for uploads. This was harder with REST (fetching/polling).</div><div><br></div><div>____ request (HTTP/2) - with HTTP/2 you can do this.</div><div><br></div><div>____ and ____ - all the benefits (compact, push, streaming, compression).</div>",
+                "Fast compact one Progress feedback Cancel HTTP/2 protobuf"
+            ],
+            "guid": "hTAMj).7Z",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cons of gRPC:<div><br></div><div>____ - with REST you can just send unformatted JSON, you don't need to maintain a schema.&nbsp;</div><div><br></div><div>____ client - need to make sure you're updating your client.&nbsp;</div><div><br></div><div>____ - layer 7 proxies that need to \"look\", there's no way the proxy can work (nginx just added support for gRPC). Layer 4 proxy works with gRPC (tunnels the request).&nbsp;</div><div><br></div><div>Still ____&nbsp; (support) - if you have a bug, you might not be able to google it.&nbsp;</div><div><br></div><div>____ ____ - it doesn't use the HTTP error codes (just like GraphQL). You have to build your own error handling.&nbsp;</div><div><br></div><div>No ____ ____ support - there are some hacks by using proxies.&nbsp;</div><div><br></div><div>____ (pub/sub) - if you have many microservices, what happens if one request is taking too long? All of this has to be managed. With pub/sub the client/server is \"stateless-ey\". If you message reaches the queue, you're good to go. The subscriber is responsible to connect. There is a decoupling between the two.<br></div>",
+                "Schema Thick Proxies young Error handling native browser Timeouts"
+            ],
+            "guid": "QHCH(L7&Wa",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "___ is an open-standard authorization protocol or framework that describes how unrelated servers and services can safely allow ____ access to their assets without actually sharing ____.&nbsp;",
+                "OAuth authenticated credentials"
+            ],
+            "guid": "jx7-&nAD:$",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "OAuth is about how to ____ ____ ____ and ____ ____ ____ ____ ____.",
+                "get a token how to use a token"
+            ],
+            "guid": "Bt/>KRKP&t",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "____ replaces the ____ antipattern with a ____ protocol that's simultaneously more secure and more usable.",
+                "OAuth password-sharing delegation"
+            ],
+            "guid": "tMw_Zj=$9D",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "With OAuth, the application requests authorization from the owner of the resource and receives ____ that it can use to access the resource.",
+                "tokens"
+            ],
+            "guid": "xC2dtX+Uz!",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "HTTP is a ____ protocol for trasmitting hypermedia documents, which follows a classical ____ model. HTTP is a ____ protocol.<div><br></div><div>Though often used on a TCP/IP layer, it can be used on any ____ transport layer.</div>",
+                "application-layer client-server stateless reliable"
+            ],
+            "guid": "QZ&CB&><Sn",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "HTTP is ____ but not ____. There is no link between two requests. HTTP ____ allow for use of ____ ____",
+                "stateless sessionless cookies stateful sessions"
+            ],
+            "guid": "M-Ao,d{+Og",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "HTTP/____ introduced ____ and ____ connections - the underlying ____ connection can be partially controlled using the ____ header.<div><br></div><div>HTTP/____ went a step further by ____ messages of a single connection.</div>",
+                "1.1 pipelining persistent TCP Connection 2 multiplexing"
+            ],
+            "guid": "GI(OaOju9q",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What can be controlled by HTTP?<div><br></div><div>How documents are ____.</div><div><br></div><div>Relaxing the ____ ____.</div><div><br></div><div>____</div><div><br></div><div>____ and tunneling - servers or clients are often located on intranets and hide their true IP address from other computers.</div><div><br></div><div>____ - using HTTP ____ allow you to link requests with the state of the server.</div>",
+                "cahced origin constraint authentication proxy sessions cookies"
+            ],
+            "guid": "uqts$H8m22",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An example HTTP ____ to MDN:<div><br></div><div>____ / HTTP/1.1</div><div>____: developer.mozilla.org</div><div>____: fr</div>",
+                "request GET Host Accept-Language"
+            ],
+            "guid": "ySR(2-ksU}",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An example HTTP ____ sent by the server:<div><br></div><div>HTTP/1.1 ____ ok</div><div>Date: ...</div><div>____: Apache</div><div>Last-Modified: ...</div><div>____: 29342</div><div>____: text/html</div><div><br></div><div>____</div>",
+                "response 200 Server Content-Length Content-Type body"
+            ],
+            "guid": "JG()eo(B=}",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "____ architecture consists of collections of ____, ____ services.<div><br></div><div>Each service implements a ____ business capability.</div>",
+                "Microservices light-weight loosely-coupled single"
+            ],
+            "guid": "Ig6_@B6FBr",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Benefits of Microservices:<div><div><ul><li><strong>____ scaling</strong> - Microservice architecture supports <strong>Scale Cube</strong> concept described in the book The Art of Scalability.\n<ul>\n<li>When developing microservices to achieve functional decomposition, the application automatically scales via Y axis.</li>\n<li>When the consumption is high, microservices can scale via X axis by cloning with more CPU and memory.</li>\n<li>For distributing data across multiple machines, large databases can be separated (sharding) into smaller, faster, more easily managed parts enabling Z axis scaling.</li>\n</ul>\n</li>\n<li><strong>Independent ____ and ____</strong> - Bug fixes and feature releases are more manageable and less risky with microservices. You can update a service without redeploying the entire application, and roll back or roll forward an update if something goes wrong.</li>\n<li><strong>Independent ____</strong> - Each service has its own codebase, which is developed, tested, and deployed by a small focused team. Developers can focus on one service and relatively-small scope only. This results in enhanced productivity, project velocity, continuous innovation, and quality at source.</li>\n<li><strong>Graceful degradation</strong> - If a service goes down, its impact won't propagate to the rest of the application and result in a catastrophic failure of the system, allowing a certain degree of anti-fragility to manifest.</li>\n<li><strong>____ governance</strong> - Developers are free to pick the technology stacks and make design standards and implementation decisions that are best suited for their service. Teams do not have to get penalized due to past technology decisions.</li></ul></div></div>",
+                "Independent releases deployments development&nbsp;Decentralized"
+            ],
+            "guid": "j7&;-s7=WW",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "____ ____&nbsp;acts as a ____<strong>&nbsp;entry point for all clients</strong> as well as an ____<strong>&nbsp;service for exposing&nbsp;</strong>____<strong>&nbsp;to the outside world as managed APIs</strong>.&nbsp;<div><br></div><div>It sounds like a reverse proxy, but also has additional responsibilities like <strong>simple load-balancing,&nbsp;</strong>____<strong>&nbsp;&amp;&nbsp;</strong>____<strong>, failure handling, auditing,&nbsp;</strong>____<strong>&nbsp;translations,</strong> and <strong>routing</strong>.</div>",
+                "API Gateway single edge microservices authentication authorization protocol"
+            ],
+            "guid": "k@1..<8S0Z",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>For different parts of the application to communicate with each other irrespective of sequence of messages (asynchronous) or what language they use (language agnostic), ____ ____ can be used. Most of these support ____, ____, point-to-point, and request-response messaging.</div><div><br></div>\n<div>Some allow client side to communicate with corresponding server nodes using the same ____ ____, which is a cool feature loved by full-stack teams.</div>",
+                "event bus publish/subscribe distributed event bus"
+            ],
+            "guid": "cXtItH/h3T",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Transactions are often composed of multiple statements. ____ guarantees that each transaction is treated as a____ \"unit\", which either ____ completely, or ____&nbsp;completely: if any of the statements constituting a transaction fails to complete, the entire ____ fails and the database is left ____.&nbsp;<div><br></div><div>The transaction cannot be observed to be in progress by another database client. At one moment in time, it has ____ yet happened and at the next it has ____&nbsp;____&nbsp;in whole.&nbsp;</div><div><br></div><div>Example&nbsp;</div><div><br></div><div>Transferring money from account A to account B. It consists of two operations, withdrawing the money from account A and saving it to account B. Performing these operations in an ____ transaction ensures that the database remains in a ____ state, that is money is neither debited nor credited if either of those two operations fail.</div>",
+                "Atomicity single succeeds fails transaction unchanged not already occurred atomic consistent"
+            ],
+            "guid": "uiM`Gd&yow",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "____ ensures that a transaction can only bring the database from one ____ ____ to another, maintaining database ____: any data written to the database must be valid according to all defined rules including ____, ____, ____, and any combination thereof.&nbsp;<div><br></div><div>This prevents database corruption by an illegal transaction, but does not guarantee that a transaction is ____.&nbsp;</div><div><br></div><div>____ demands that the data must meet all validation rules.&nbsp;</div><div><br></div><div><br></div><div>Example:</div><div><br></div><div>The validation requirement for transferring funds is that A + B = 100.&nbsp;</div><div>All validation rules must be checked to ensure consistency.&nbsp;</div><div>Assume that a transaction attempts to subtract 10 from A without altering B.&nbsp;</div><div>Because consistency is checked after every transaction, it is known that A + B = 100 before the transaction beings.&nbsp;</div><div>If the transaction removes 10 from A successfully, atomicity will be achieved.&nbsp;</div><div>However a validation check will show that A + B = 90, which is inconsistent with the rules of the database.&nbsp;</div><div>The entire transaction must be cancelled and the affected rows rolled back to their pre-transaction state.&nbsp;</div><div>Another constraint could be, A and B must be integers. If the value for A is 13.5, the transaction will be cancelled.&nbsp;</div><div>Another example would be with integrity constraints, which would not allow us to delete a row in one table whose primary key is referred to by at least one foreign key in other tables.</div>",
+                "Consistency valid state invariants constraints cascades triggers correct Consistency"
+            ],
+            "guid": "z$<Y62~5d{",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Transactions are often executed concurrently (e.g., multiple transactions reading and writing to a table at the same time).____ ensures that ____&nbsp;execution of transactions leaves the database in the ____&nbsp;____&nbsp;that would have been obtained if the transactions were executed ____.&nbsp;<div><br></div><div>Depending on the methods, the effects of an incomplete transaction might not even be visible to other transactions.</div>",
+                "Isolation concurrent same state sequentially"
+            ],
+            "guid": "ryc4^IJ|f>",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "____ guarantees that once a transaction has been committed, it will remain committed even in the case of a ____&nbsp;____. This usually means that completed ____&nbsp;(or their effects) are recorded in ____ memory.&nbsp;<div><br></div><div>Example&nbsp;</div><div>Failure: consider a transaction that transfers 10 from A to B. First it removes 10 from A, then it adds 10 to B. At this point the user is told the transaction was successful. However, the changes are still queued in the disk buffer waiting to be committed to disk. Power fails and the changes are lost, but the user assumes that the changes persist.</div>",
+                "Durability system failure transactions non-volatile"
+            ],
+            "guid": "i8:%&f`1_C",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "____ ____ involves downtime while ____ ____ is often easier to scale dynamically by adding more ____ into the existing ____.",
+                "Vertical scaling horizontal scaling machines pool"
+            ],
+            "guid": "L@KP[[-=va",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "____ is the capability of a system, process or a network to ____ and manage ____ demand.&nbsp;<div><br></div><div>Any ____ system that can continuously evolve in order to support the growing amount of work is considered to be ____.</div>",
+                "Scalability grow increased distributed scalable"
+            ],
+            "guid": "HKB{byA$qd",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "By definition, ____ is the ____ a system will fail in a given period.&nbsp;<div><br></div><div>In simple terms, a distributed system is considered ____ if it keeps delivering its services even when one or several of its software or hardware components fail.&nbsp;</div><div><br></div><div>This represents one of the main characteristics of any ____ ____, since in such systems any failing machine can always be replaced by another healthy one, ensuring the completion of the requested task.</div>",
+                "reliability probability reliable distributed system"
+            ],
+            "guid": "nv]VLm:b+d",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "By definition, ____ is the time a system remains ____ to perform its required function in a specific period. It is a simple measure of the ____ of time that a system, service, or a machine remains operational under normal conditions.&nbsp;<div><br></div><div>Example: an aircraft that can be flown for many hours a month without much downtime can be said to have a ____ ____, and other logistics considerations.&nbsp;</div><div><br></div><div>____ is ____ over time considering the full range of possible real-world conditions that can occur.&nbsp;</div>",
+                "availability operational percentage high availability Reliability availability"
+            ],
+            "guid": "kbC#HXLR!Y",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To understand how to measure the ____ of a distributed system, let's assume we have an operation that runs in a distributed manner and delivers a set of items as results.&nbsp;<div><br></div><div>Two standard measures of its ____ are:&nbsp;</div><div>____ ____ (or ____) that denotes the delay to obtain the first item&nbsp;</div><div><br></div><div>____ (or ____) which denotes the number of items delivered in a given time unit (e.g., a second)&nbsp;</div><div><br></div><div>The two measures correspond to the following unit costs:&nbsp;</div><div>Number of messages globally sent by the nodes of the system regardless of the message size.&nbsp;</div><div>Size of messages representing the volume of data exchanges.&nbsp;</div><div><br></div><div>The complexity of operations supported by distributed data structures (e.g., searching for a specific key in a distributed index) can be characterized as a function of one of these cost units.</div>",
+                "efficiency efficiency Response time latency Throughput bandwidth"
+            ],
+            "guid": "f-9d1>G9B>",
+            "note_model_uuid": "5a95d69e-6aed-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Authentication}} is the process of {{c1::verifying}} a client is who they claim to be.&nbsp;<div>{{c1::Authorization}} is the process of {{c1::granting}} a client access to a protected resource&nbsp;</div><div><br></div><div>Authentication = {{c1::login &amp; password}}&nbsp;</div><div>Authorization = {{c1::permissions}}&nbsp;</div><div><br></div><div>{{c1::Authorization}} requires {{c1::authentication}}</div>",
+                ""
+            ],
+            "guid": "mc|T(9,N[d",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Cookies}} are commonly used to persist authentication.",
+                ""
+            ],
+            "guid": "bCH*V|GDO[",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If a domain has a {{c1::cookie}}, it is sent with {{c1::every}} HTTP request to the server.&nbsp;<div><br></div><div>When sent it is placed in a header called \"{{c1::Cookie}}\"&nbsp;</div><div><br></div><div>{{c1::AJAX}} calls include the cookie.</div>",
+                ""
+            ],
+            "guid": "hUgQ:Cp$if",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>How Cookies are Created</b><div><br></div><div>The server sends a \"{{c1::Set-Cookie}}\" header in an HTTP {{c1::response}}&nbsp;</div><div><br></div><div>Message:</div><div><br></div><div>HTTP/2.0 200 OK&nbsp;</div><div>{{c1::Set-Cookie}}: id=a3fWa;<br></div><div><br></div><div>By something like:</div><div><br></div><div>res.{{c1::cookie}}('id', 'a3fWa');<br></div>",
+                ""
+            ],
+            "guid": "glB{884AAY",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Once the {{c1::cookie}} exists on the client, it's sent back to the server with {{c1::every}} HTTP request.",
+                ""
+            ],
+            "guid": "FGT}7)KcB*",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Types of Cookies:</b><div><br></div><div>{{c1::Persistent}}: Cookies (also called tracking cookies), persist for longer than the browsing session.&nbsp;</div><div><br></div><div>{{c1::Secure}}: Can only be transferred over HTTPS. Prevents against person-in-the-middle attacks.&nbsp;</div><div><br></div><div>{{c1::HttpOnly}}: Can only be transferred via HTTP and HTTPS, cannot be accessed by JavaScript. Prevents against XSS attacks.<br></div>",
+                ""
+            ],
+            "guid": "Az$SspFriE",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Unit}} tests focus on a {{c1::single}} piece of code and should be {{c1::small}}, {{c1::fast}}, and test {{c1::one}} concept (which may include {{c1::multiple}} assertions).<div><br></div><div>They are designed to test your application {{c1::logic}}.</div><div><br></div><div>They should not access {{c1::dependencies}} (file system, database, HTTP server).</div>",
+                ""
+            ],
+            "guid": "DW0jAeW+ns",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Unit tests}} are very good at {{c1::quickly}} determining when specific pieces of {{c1::logic}} are broken or do not work, but {{c1::integration tests}} test to make sure {{c1::your application actually works}} (dependencies, DB connection, variable environments, etc.).",
+                ""
+            ],
+            "guid": "fCWR_1JR!&",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Integration tests}} test {{c1::multiple}} parts together. They depend on multiple {{c1::controllers, modules, and/or functions}}.<div><br></div><div>Example: when I hit a certain HTTP route, does that send me back what I need and store necessary info in the database?</div>",
+                ""
+            ],
+            "guid": "uF*}*c{/hS",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::End-to-end tests}} test a {{c1::large}} part or the {{c1::entirety}} of an application.<div><br></div><div>Example: when I click a button and then hover over a specific section, do I see the correct data on the screen?</div>",
+                ""
+            ],
+            "guid": "AJpc=2d@jq",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c1::goal}} of testing is to get as close as possible to {{c1::100% code coverage}}.<div><br></div><div>Code coverage analyzes every {{c1::code path}} (think if/else statements).</div>",
+                ""
+            ],
+            "guid": "c#/@0bg8<{",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Test-Driven Development process:<div><br></div><div>1. Add tests</div><div>2. See tests {{c1::fail}}</div><div>3. {{c1::Write code}}</div><div>4. Run tests</div><div>5. {{c1::Refactor}}</div><div>6. Repeat</div>",
+                ""
+            ],
+            "guid": "kJxCR=w5c=",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tell me about yourself",
+                "..."
+            ],
+            "guid": "p-bn_1K8iS",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What's your greatest weakness?",
+                "..."
+            ],
+            "guid": "hK*5uC9;tH",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What makes you unique?",
+                "..."
+            ],
+            "guid": "uwuU6B@kXS",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tell me about a difficult time and how you approached it?",
+                "..."
+            ],
+            "guid": "J:vnk8(%|,",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do you like working in teams?",
+                "..."
+            ],
+            "guid": "vO!/~#RKd%",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is your preferred style of management?",
+                "..."
+            ],
+            "guid": "g#N,qe7K^)",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What's your culture like?",
+                "..."
+            ],
+            "guid": "hp&&E`;==s",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "HTTP Message Components<div><br></div><div>Request</div><div>&lt;{{c1::method}}&gt; &lt;{{c1::request-URL}}&gt; &lt;version&gt;</div><div>&lt;headers&gt;</div><div><br></div><div>&lt;body&gt;</div><div><br></div><div>Response</div><div>&lt;{{c1::version}}&gt; &lt;{{c1::status}}&gt; &lt;reason phrase&gt;</div><div>&lt;headers&gt;</div><div><br></div><div>&lt;body&gt;</div><div><br></div><div>Notes: the first line is called the {{c1::\"start line\"}}.</div>",
+                ""
+            ],
+            "guid": "qH)X,f[e&T",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Atomicity}} requires that a transaction be {{c1::\"all or nothing\"}}. If one part fails, the whole transaction fails and db state is {{c1::unchanged}}.&nbsp;",
+                ""
+            ],
+            "guid": "[bv:{g?dV",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<p data-original-markdown=\"e3tjMTo6Q29uc2lzdGVuY3l9fTogYW55IGRhdGEgd3JpdHRlbiB0byB0aGUgZGF0YWJhc2UgbXVzdCBiZSB2YWxpZCBhY2NvcmRpbmcgdG8ge3tjMTo6aW1wbGVtZW50YXRpb24gcnVsZXN9fSAoY29uc3RyYWludHMsIGNhc2NhZGVzLCB0cmlnZ2VycywgZXRjLikuIFRoaXMgcHJldmVudHMge3tjMTo6ZGF0YWJhc2UgY29ycnVwdGlvbn19IGJ5IGFuIGlsbGVnYWwgdHJhbnNhY3Rpb24sIGJ1dCBkb2VzIG5vdCBndWFyYW50ZWUgdGhhdCBhIHRyYW5zYWN0aW9uIGlzIGNvcnJlY3Qu\">{{c1::Consistency}}: any data written to the database must be valid according to {{c1::implementation rules}} (constraints, cascades, triggers, etc.). This prevents {{c1::database corruption}} by an illegal transaction, but does not guarantee that a transaction is correct.</p>",
+                ""
+            ],
+            "guid": "euix@)x4jR",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<p data-original-markdown=\"QmluYXJ5IHNlYXJjaDxkaXY+PGJyPjwvZGl2PjxkaXY+ZnVuY3Rpb24gYmluYXJ5U2VhcmNoKGFycmF5LCBrZXkpIHs8L2Rpdj48ZGl2PiZuYnNwOyBsZXQgbG8gPSAwOzwvZGl2PjxkaXY+Jm5ic3A7IGxldCBoaSA9IGFycmF5Lmxlbmd0aCAtIDE7PC9kaXY+PGRpdj4mbmJzcDsgd2hpbGUgKHt7YzE6OmxvICZsdDs9IGhpfX0pIHs8L2Rpdj48ZGl2PiZuYnNwOyAmbmJzcDsgbGV0IG1pZCA9IHt7YzE6OihoaSAtIGxvKSAvIDJ9fTs8L2Rpdj48ZGl2PiZuYnNwOyAmbmJzcDsgaWYgKGtleSAmbHQ7IGFycmF5W21pZF0pIHt7YzE6OmhpID0gbWlkIC0gMTt9fTwvZGl2PjxkaXY+Jm5ic3A7ICZuYnNwOyBlbHNlIGlmIChrZXkgJmd0OyBhcnJheVttaWRdKSB7e2MxOjpsbyA9IG1pZCArIDE7fX08L2Rpdj48ZGl2PiZuYnNwOyAmbmJzcDsgZWxzZSByZXR1cm4gbWlkOzwvZGl2PjxkaXY+Jm5ic3A7IH08L2Rpdj48ZGl2PiZuYnNwOyByZXR1cm4gLTE7PC9kaXY+PGRpdj59PC9kaXY+\">{{c1::Isolation}} is all about {{c1::concurrency}} control. Concurrent execution of transactions result in a state that would be obtained if they were to run {{c1::one after another}}. Depending on the method used, the effects of an incomplete transaction might not even be {{c1::visible}} to other transactions.</p>",
+                ""
+            ],
+            "guid": "EA1RSd4LC7",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<p data-original-markdown=\"e3tjMTo6RHVyYWJpbGl0eX19OiBvbmNlIGEgdHJhbnNhY3Rpb24gaXMge3tjMTo6Y29tbWl0dGVkfX0sIGl0IHdpbGwgcmVtYWluIHNvLCBldmVuIGlmIHRoZXJlIGlzIGEgY3Jhc2ggb3IgcG93ZXIgbG9zcy4gVGhpcyB1c3VhbGx5IG1lYW5zIHRoYXQge3tjMTo6Y29tcGxldGVkIHRyYW5zYWN0aW9uc319IGFyZSByZWNvcmRlZCBpbiBub24tdm9sYXRpbGUgbWVtb3J5LiZuYnNwOw==\">{{c1::Durability}}: once a transaction is {{c1::committed}}, it will remain so, even if there is a crash or power loss. This usually means that {{c1::completed transactions}} are recorded in non-volatile memory. </p>",
+                ""
+            ],
+            "guid": "L%R))VssOJ",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Binary search<div><br></div><div>function binarySearch(array, key) {</div><div>&nbsp; let lo = 0;</div><div>&nbsp; let hi = array.length - 1;</div><div>&nbsp; while ({{c1::lo &lt;= hi}}) {</div><div>&nbsp; &nbsp; let mid = {{c1::(hi - lo) / 2}};</div><div>&nbsp; &nbsp; if (key &lt; array[mid]) {{c1::hi = mid - 1;}}</div><div>&nbsp; &nbsp; else if (key &gt; array[mid]) {{c1::lo = mid + 1;}}</div><div>&nbsp; &nbsp; else return mid;</div><div>&nbsp; }</div><div>&nbsp; return -1;</div><div>}</div>",
+                ""
+            ],
+            "guid": "xpRmBE2*jU",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>HTTP functions as a {{c1::request-response}} protocol in the {{c1::client-server}} computing model.<br></div>",
+                ""
+            ],
+            "guid": "Ob1bri41)<",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<p data-original-markdown=\"QSB7e2MxOjpkZWNsYXJhdGlvbn19IGlzIGEgc3RhdGVtZW50IGRlc2NyaWJpbmcgYW4gaWRlbnRpZmllciwgc3VjaCBhcyB0aGUgbmFtZSBvZiBhIHZhcmlhYmxlIG9yIGEgZnVuY3Rpb24uPGRpdj48YnI+PC9kaXY+PGRpdj57e2MxOjpEZWNsYXJhdGlvbn19IG9mIGEgdmFyaWFibGUgaXMgZm9yIGluZm9ybWluZyB0byB0aGUgY29tcGlsZXIgdGhlIGZvbGxvd2luZyBpbmZvcm1hdGlvbjo8L2Rpdj48ZGl2Pi0ge3tjMTo6bmFtZX19IG9mIHRoZSB2YXJpYWJsZTwvZGl2PjxkaXY+LSB7e2MxOjp0eXBlfX0gb2YgdmFsdWUgaXQgaG9sZHM8L2Rpdj48ZGl2Pi0ge3tjMTo6aW5pdGlhbCB2YWx1ZX19LCBpZiBhbnk8L2Rpdj48ZGl2Pi0gdHlwZSB7e2MxOjpzaWduYXR1cmV9fSAoZm9yIGZ1bmN0aW9ucyk8L2Rpdj4=\">If a system is {{c1::reliable}} it is {{c1::available}}. However if a system is {{c1::available}}, it is not necessarily {{c1::reliable}}. </p>",
+                ""
+            ],
+            "guid": "s|D%U&3K7K",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<p data-original-markdown=\"QSBkaXN0cmlidXRlZCBzeXN0ZW0gaXMgY29uc2lkZXJlZCB7e2MxOjpyZWxpYWJsZX19IGlmIGl0IGtlZXBzIGRlbGl2ZXJpbmcgaXRzIHNlcnZpY2VzIGV2ZW4gd2hlbiB7e2MxOjpvbmUgb3Igc2V2ZXJhbH19IG9mIGl0cyBzb2Z0d2FyZSBvciBoYXJkd2FyZSBjb21wb25lbnRzIGZhaWwuJm5ic3A7\">A {{c1::declaration}} is a statement describing an identifier, such as the name of a variable or a function.</p>\n<p>{{c1::Declaration}} of a variable is for informing to the compiler the following information:\n- {{c1::name}} of the variable\n- {{c1::type}} of value it holds\n- {{c1::initial value}}, if any\n- type {{c1::signature}} (for functions)</p>",
+                ""
+            ],
+            "guid": "cEn{aKrqT.",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A distributed system is considered {{c1::reliable}} if it keeps delivering its services even when {{c1::one or several}} of its software or hardware components fail.&nbsp;",
+                ""
+            ],
+            "guid": "eOB~un2im<",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Reliability is achieved through {{c1::redundancy}}.&nbsp;",
+                ""
+            ],
+            "guid": "LS`df5HQ_@",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<p data-original-markdown=\"QSB7e2MxOjpoZXVyaXN0aWN9fSBpcyBhbnkgYXBwcm9hY2ggdG8gcHJvYmxlbSBzb2x2aW5nIHRoYXQgZW1wbG95cyBhIHByYWN0aWNhbCBtZXRob2QgdGhhdCBpcyBub3QgZ3VhcmFudGVlZCB0byBiZSB7e2MxOjpvcHRpbWFsfX0sIHBlcmZlY3QsIG9yIHJhdGlvbmFsLCBidXQgaXMgc3VmZmljaWVudCBmb3IgcmVhY2hpbmcgYW4gaW1tZWRpYXRlIHNob3J0LXRlcm0gZ29hbCBvciB7e2MxOjphcHByb3hpbWF0aW9ufX0uPGRpdj48YnI+PC9kaXY+PGRpdj57e2MxOjpIZXVyaXN0aWNzfX0gY2FuIGJlIG1lbnRhbCBzaG9ydGN1dHMgdGhhdCBlYXNlIHRoZSBjb2duaXRpdmUgbG9hZCBvZiBtYWtpbmcgZGVjaXNpb25zLjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+RXhhbXBsZXM6IHRyaWFsIGFuZCBlcnJvciwgYSBydWxlIG9mIHRodW1iLCBvciBhbiBlZHVjYXRlZCBndWVzcy48L2Rpdj4=\">2 sets are {{c1::disjoint}} if they have {{c1::no element in common}}.</p>\n<p>2 disjoint sets are sets whose {{c1::intersection}} is the empty set.</p>\n<p>A {1, 2, 3}\nB {4, 5, 6}</p>",
+                ""
+            ],
+            "guid": "ewK6}D;D<G",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c1::heuristic}} is any approach to problem solving that employs a practical method that is not guaranteed to be {{c1::optimal}}, perfect, or rational, but is sufficient for reaching an immediate short-term goal or {{c1::approximation}}.<div><br></div><div>{{c1::Heuristics}} can be mental shortcuts that ease the cognitive load of making decisions.</div><div><br></div><div>Examples: trial and error, a rule of thumb, or an educated guess.</div>",
+                ""
+            ],
+            "guid": "wRR&L^dMP5",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<p data-original-markdown=\"T3JkZXJzIG9mIE1hZ25pdHVkZTxkaXY+PGJyPjwvZGl2PjxkaXY+QW4gYXBwcm94aW1hdGlvbiBvZiB0aGUge3tjMTo6bG9nYXJpdGhtfX0gb2YgYSB2YWx1ZSByZWxhdGl2ZSB0byBzb21lIGNvbnRleHR1YWxseSB1bmRlcnN0b29kIHJlZmVyZW5jZSB2YWx1ZSwgdXN1YWxseSB0ZW4sIGludGVycHJldGVkIGFzIHRoZSBiYXNlIG9mIHRoZSBsb2dhcml0aG0gYW5kIHRoZSByZXByZXNlbnRhdGl2ZSBvZiB2YWx1ZXMgb2YgbWFnbml0dWRlIG9uZS4mbmJzcDs8L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PjxpbWcgc3JjPSJwYXN0ZS01MmM3ZjZkMmY2NjJkZGYzMjRlN2U3MjZkMzcxYzkzMjFiN2ZkMGQ0LmpwZyI+PGJyPjwvZGl2Pg==\">Two events are {{c1::mutually exclusive}} or disjoint if they cannot both occur at the {{c1::same}} time.</p>\n<p>A clear example is the set of outcomes of a single coin toss, which can result in either heads or tails, but not both. </p>",
+                ""
+            ],
+            "guid": "opB&OKP:HI",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Orders of Magnitude<div><br></div><div>An approximation of the {{c1::logarithm}} of a value relative to some contextually understood reference value, usually ten, interpreted as the base of the logarithm and the representative of values of magnitude one.&nbsp;</div><div><br></div><div><img src=\"paste-52c7f6d2f662ddf324e7e726d371c9321b7fd0d4.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "dmdQ_3_q.4",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<p data-original-markdown=\"MiBzdGFuZGFyZCBtZWFzdXJlcyBvZiBkaXN0cmlidXRlZC1zeXN0ZW1zIHt7YzE6OmVmZmljaWVuY3l9fSBhcmU6PGRpdj4mbmJzcDsgMSkge3tjMTo6cmVzcG9uc2UgdGltZSBvciBsYXRlbmN5fX0gLSBkZW5vdGVzIHRoZSBkZWxheSB0byBvYnRhaW4gZmlyc3QgaXRlbTwvZGl2PjxkaXY+Jm5ic3A7IDIpIHt7YzE6OnRocm91Z2hwdXQgb3IgYmFuZHdpZHRofX0gLSBkZW5vdGVzIG51bWJlciBvZiBpdGVtcyBkZWxpdmVyZWQgaW4gYSBnaXZlbiB0aW1lIHVuaXQgKGUuZy4sIGEgc2Vjb25kKTwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+MiBtZWFzdXJlcyBjb3JyZXNwb25kIHRvIHRoZSBmb2xsb3dpbmcgdW5pdCBjb3N0czo8L2Rpdj48ZGl2PiZuYnNwOyAxKSBudW1iZXIgb2YgbWVzc2FnZXMgZ2xvYmFsbHkgc2VudCBieSB0aGUgbm9kZXMgb2YgdGhlIHN5c3RlbSByZWdhcmRsZXNzIG9mIHRoZSB7e2MxOjptZXNzYWdlIHNpemV9fTwvZGl2PjxkaXY+Jm5ic3A7IDIpIHt7YzE6OnNpemUgb2YgbWVzc2FnZXN9fSByZXByZXNlbnRpbmcgdGhlIHZvbHVtZSBvZiBkYXRhIGV4Y2hhbmdlcy4mbmJzcDs8L2Rpdj4=\">2 standard measures of distributed-systems {{c1::efficiency}} are:\n  1) {{c1::response time or latency}} - denotes the delay to obtain first item\n  2) {{c1::throughput or bandwidth}} - denotes number of items delivered in a given time unit (e.g., a second)</p>\n<p>2 measures correspond to the following unit costs:\n  1) number of messages globally sent by the nodes of the system regardless of the {{c1::message size}}\n  2) {{c1::size of messages}} representing the volume of data exchanges. </p>",
+                ""
+            ],
+            "guid": "h98~Vg9xV1",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<p data-original-markdown=\"e3tjMTo6RW5jYXBzdWxhdGlvbn19IC0gdGhlIGJ1bmRsaW5nIG9mIGRhdGEgd2l0aCB0aGUgbWV0aG9kcyB0aGF0IG9wZXJhdGUgb24gdGhhdCBkYXRhLCBvciB0aGUgcmVzdHJpY3Rpbmcgb2YgZGlyZWN0IGFjY2VzcyB0byBzb21lIG9mIGFuIG9iamVjdCdzIGNvbXBvbmVudHMuJm5ic3A7PGRpdj48YnI+PC9kaXY+PGRpdj5UaGlzIGlzIHVzZWQgdG8ge3tjMTo6aGlkZX19IHRoZSB2YWx1ZXMgb3Igc3RhdGUgb2YgYSBzdHJ1Y3R1cmVkIGRhdGEgb2JqZWN0IGluc2lkZSBhIGNsYXNzLCBwcmV2ZW50aW5nIHVuYXV0aG9yaXplZCBwYXJ0aWVzIGRpcmVjdCBhY2Nlc3MgdG8gdGhlbS48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj4=\">{{c1::Encapsulation}} - the bundling of data with the methods that operate on that data, or the restricting of direct access to some of an object's components. </p>\n<p>This is used to {{c1::hide}} the values or state of a structured data object inside a class, preventing unauthorized parties direct access to them.</p>",
+                "<img src=\"paste-7aa2afa20b8a824c610cd2831a243c585af5c3ca.jpg\">"
+            ],
+            "guid": "Hf[Q[,:PZq",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<p data-original-markdown=\"e3tjMTo6TW9kdWxhciBwcm9ncmFtbWluZ319IGlzIGEgc29mdHdhcmUgZGVzaWduIHRlY2huaXF1ZSB0aGF0IGVtcGhhc2l6ZXMgc2VwYXJhdGluZyB0aGUge3tjMTo6ZnVuY3Rpb25hbGl0eX19IG9mIGEgcHJvZ3JhbSBpbnRvIHt7YzE6OmluZGVwZW5kZW50fX0sIGludGVyY2hhbmdlYWJsZSBtb2R1bGVzLCBzdWNoIHRoYXQgZWFjaCBjb250YWlucyBldmVyeXRoaW5nIG5lY2Vzc2FyeSB0byBleGVjdXRlIG9ubHkge3tjMTo6b25lfX0gYXNwZWN0IG9mIHRoZSBkZXNpcmVkIGZ1bmN0aW9uYWxpdHkuPGRpdj48YnI+PC9kaXY+PGRpdj5UaGUgdGVybSB7e2MxOjpwYWNrYWdlfX0gb3IgYXNzZW1ibHkgaXMgc29tZXRpbWVzIHVzZWQgaW5zdGVhZCBvZiBtb2R1bGUuJm5ic3A7PC9kaXY+\">{{c1::Modular programming}} is a software design technique that emphasizes separating the {{c1::functionality}} of a program into {{c1::independent}}, interchangeable modules, such that each contains everything necessary to execute only {{c1::one}} aspect of the desired functionality.</p>\n<p>The term {{c1::package}} or assembly is sometimes used instead of module. </p>",
+                ""
+            ],
+            "guid": "i-9|Rkk%%m",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Idempotence}} is the property of certain operations in mathematics whereby they can be applied {{c1::multiple times}} without changing the {{c1::result}} beyond the initial application.<div><br></div><div>A function with side effects is idempotent if the system state remains the {{c1::same}} after {{c1::one or several calls}}.</div><div><br></div><div>A {{c1::pure}} function is idempotent.</div><div><br></div><div>Examples:</div><div>- a function looking up a customers name and address in a DB is typically idempotent, since it will not cause the DB to change.</div><div><br></div><div>- HTTP verbs: {{c1::GET, PUT, DELETE (POST is not)}}</div><div><br></div><div>- In event stream processing, idempotence refers to the ability of a system to produce the same outcome, even if the same file, event or message is received more than once.&nbsp;</div>",
+                ""
+            ],
+            "guid": "c]%`]*|/eL",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Operands}} are the objects that are manipulated.<div><br></div><div>{{c1::Expressions}} consist of {{c1::operands}} and operators.</div><div><br></div><div>Expression: x + 5&nbsp;</div><div>- x and 5 are the {{c1::operands}}</div><div>- + is the {{c1::operator}}</div><div><br></div><div>Operand is the part of a computer instruction which specifies what data is to be {{c1::manipulated or operated on}}, while at the same time representing the data itself.&nbsp;</div>",
+                ""
+            ],
+            "guid": "k:2@A-rxa9",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4e128a1b9deb438fb77dcb4f81077107-ao-1",
+                "",
+                "<img src=\"tmpgwcr0tdz.png\" />",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-1-A.svg\" />",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-O.svg\" />"
+            ],
+            "guid": "qANV#b5Lmh",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4e128a1b9deb438fb77dcb4f81077107-ao-2",
+                "",
+                "<img src=\"tmpgwcr0tdz.png\" />",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-2-A.svg\" />",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-O.svg\" />"
+            ],
+            "guid": "No4^tL:JiH",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4e128a1b9deb438fb77dcb4f81077107-ao-3",
+                "",
+                "<img src=\"tmpgwcr0tdz.png\" />",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-3-A.svg\" />",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-O.svg\" />"
+            ],
+            "guid": "gQRIL^VrIY",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4e128a1b9deb438fb77dcb4f81077107-ao-4",
+                "",
+                "<img src=\"tmpgwcr0tdz.png\" />",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-4-A.svg\" />",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-O.svg\" />"
+            ],
+            "guid": "pB*7XX?h#g",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4e128a1b9deb438fb77dcb4f81077107-ao-5",
+                "",
+                "<img src=\"tmpgwcr0tdz.png\" />",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-5-A.svg\" />",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-O.svg\" />"
+            ],
+            "guid": "MQIi^au%4$",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4e128a1b9deb438fb77dcb4f81077107-ao-6",
+                "",
+                "<img src=\"tmpgwcr0tdz.png\" />",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-6-A.svg\" />",
+                "<img src=\"4e128a1b9deb438fb77dcb4f81077107-ao-O.svg\" />"
+            ],
+            "guid": "F{+b_dQ2/w",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Best Sum<div><br></div><div><br></div><div>const bestSum = (targetSum, numbers, memo={}) =&gt; {</div><div>&nbsp; {{c1::if (targetSum in memo) return memo[targetSum];}}</div><div>&nbsp; if (targetSum === 0) {{c1::return [];}}</div><div>&nbsp; if (targetSum &lt; 0) return null;</div><div>&nbsp;&nbsp;</div><div>&nbsp; let shortest = null;</div><div>&nbsp; for (let num of numbers) {</div><div>&nbsp; &nbsp; const remainder = targetSum - num;</div><div>&nbsp; &nbsp; if (result !== null) {</div><div>&nbsp; &nbsp; &nbsp; const combination = [...result, num];</div><div>&nbsp; &nbsp; &nbsp; if (shortest === null || {{c1::combination.length &lt; shortest.length}}) shortest = combination;</div><div>&nbsp; &nbsp; }</div><div>&nbsp; }</div><div>&nbsp; {{c1::memo[targetSum] = shortest;}}</div><div>&nbsp; return shortest;</div><div>}</div><div><br></div>",
+                ""
+            ],
+            "guid": "i9J$W;Jj`0",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>{{c1::REST}}&nbsp;is very flexible where JSON is used a lot. The barrier to entry is almost nothing and is currently the most popular form of client/server communication.&nbsp;</div><div><br></div><div>It stands for {{c1::Representational State Transfer}}&nbsp;and is by far the most standardized way of structirng the web APIs for requests.</div><div><br></div><div>They follow the {{c1::request/response}}&nbsp;model where every message from the server&nbsp;is the response&nbsp;to a message from the client.</div><div>In general, this method uses {{c1::HTTP}}&nbsp;as its transport protocol.</div>",
+                ""
+            ],
+            "guid": "wO<5`[=5zO",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<p data-original-markdown=\"PHNwYW4gc3R5bGU9ImNvbG9yOiByZ2IoNDAsIDQwLCA0MSk7Ij5BJm5ic3A7PC9zcGFuPnt7YzE6OuKAnGNvZGUgcGF0aOKAnX19PHNwYW4gc3R5bGU9ImNvbG9yOiByZ2IoNDAsIDQwLCA0MSk7Ij4mbmJzcDtpcyB0aGUgc2V0IG9mIHNwZWNpZmljIGluc3RydWN0aW9ucyB0aGF0IGFyZSBhY3R1YWxseSBleGVjdXRlZCBkdXJpbmcgYSBzaW5nbGUgcnVuIG9mIGEgcHJvZ3JhbSBvciBwcm9ncmFtIGZyYWdtZW50Ljwvc3Bhbj4=\">A {{c1::“code path”}} is the set of specific instructions that are actually executed during a single run of a program or program fragment.</p>",
+                "<div><span style=\"color: rgb(40, 40, 41);\">A single execution of the program will take a particular path through this flowchart:</span><br></div><img src=\"main-qimg-21a541d2fbf5437d6ecb6b882801d7dd.png\">"
+            ],
+            "guid": "QMk@&QWw%$",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Data Definition Language (DDL)}} is a standard for commands that define the different structures in a database.&nbsp;<div><br></div><div>Statements create, modify, and remove database objects such as tables, indexes, and users.&nbsp;</div><div><br></div><div>Common statements are CREATE, ALTER, and DROP.</div>",
+                ""
+            ],
+            "guid": "G0qy1B:`cq",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The 3 Laws of TDD<div><br><div><ol>\n<li>You may not write {{c1::production code}} until you have written a failing unit test.</li>\n<li>You may not write more of a {{c1::unit test}} than is sufficient to fail, and not compiling is failing.</li>\n<li>You may not write more {{c1::production code}} than is sufficient to pass the currently failing test.</li></ol></div></div>",
+                ""
+            ],
+            "guid": "d<t!3varFD",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "testing"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An {{c1::API}} is a set of {{c1::definitions}} and {{c1::protocols}} for building and integrating application software.&nbsp;<div><br></div><div>It's sometimes referred to as a {{c1::contract}} between an information provider and an information user - establishing the content required from the consumer (the call) and the content required by the producer (the response).</div>",
+                ""
+            ],
+            "guid": "bVtb%/))Ar",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When a client request is made via a {{c1::RESTful}} API, it transfers a {{c1::representation}} of the state of the resource to the requester or {{c1::endpoint}}.&nbsp;<div><br></div><div>This information, or {{c1::representation}}, is delivered in one of several formats via {{c1::HTTP}}: JSON, HTML, plain text, etc.</div>",
+                ""
+            ],
+            "guid": "Fa2:P%9~.T",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Headers}} and parameters are also important in the HTTP methods of a {{c1::RESTful}} API HTTP request, as they contain important identifier information as to the request's metadata, {{c1::authorization}}, {{c1::uniform resource identifier (URI)}}, {{c1::caching}}, {{c1::cookies}}, and more.<div><br></div><div>&nbsp;There are request headers and response headers, each with their own HTTP connection information and status codes.</div>",
+                ""
+            ],
+            "guid": "H5$AVcMmLc",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In order for an API to be considered RESTful, it has to conform to these criteria:&nbsp;<div><br></div><div>A {{c1::client-server}} architecture made up of clients, servers, and resources, with requests managed through {{c1::HTTP}}&nbsp;</div><div><br></div><div>{{c1::Stateless}} client-server communication, meaning no client information is {{c1::stored}} between get requests and each request is {{c1::separate}} and unconnected.&nbsp;</div><div><br></div><div>{{c1::Cacheable}} data that streamlines client-server interactions.&nbsp;</div><div><br></div><div>A uniform interface between components so that information is transferred in a standard form. This requires that:&nbsp;</div><div>- resources requests are identifiable and separate from the representations sent to the client&nbsp;</div><div><br></div><div>- resources can be m{{c1::anipulated}} by the client via the representation they receive because the representation contains enough information to do so.&nbsp;</div><div><br></div><div>- self-descriptive messages returned to the client have enough information to describe how the client should process it.&nbsp;</div><div><br></div><div>- hypertext/hypermedia is available, meaning that after accessing a resource the client should be able to use hyperlinks to find all other currently available actions they can take.&nbsp;</div><div><br></div><div>A layer system that organizes each type of server (those responsible for security, load-balance, etc.) involved the retrieval of requested information into {{c1::hierarchies}}, invisible to the client.</div>",
+                ""
+            ],
+            "guid": "EiZUkzs>8I",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "rest"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Though the {{c1::REST}} API has these criteria to conform to, it is still considered {{c1::easier to use}} than a prescribed protocol like {{c1::SOAP}} (Simple Object Access Protocol), which has specific requirements like XML messaging, and built-in security and transaction compliance that make it {{c1::slower and heavier}}.",
+                ""
+            ],
+            "guid": "d4^DbofA6|",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "REST is a set of {{c1::guidelines}} that can be implemented as needed, making REST APIs {{c1::faster}} and more {{c1::lightweight}}, with increased {{c1::scalability}}.",
+                ""
+            ],
+            "guid": "m0W]7+v{e-",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(41, 41, 41);\">Everything on the internet is considered a resource, has a&nbsp;</span>{{c1::<span style=\"color: rgb(41, 41, 41);\">location&nbsp;</span><strong>(URL)</strong>}}<strong>&nbsp;</strong><span style=\"color: rgb(41, 41, 41);\">and a corresponding&nbsp;</span>{{c1::<span style=\"color: rgb(41, 41, 41);\">identifier&nbsp;</span><strong>(URI)</strong>}}<strong>.</strong>",
+                ""
+            ],
+            "guid": "eW:_B!;MUP",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::PUT}} requests are used to update an entire resource while {{c1::PATCH}} requests are used to provide a minor update (like one field).&nbsp;<div><br></div><div>{{c1::PUT}} is required to be idempotent while {{c1::PATCH}} is not required to be idempotent.&nbsp;</div><div><br></div><div>If a resource doesn't exist, PUT will {{c1::create it}} while PATCH will {{c1::ignore it}}.&nbsp;</div>",
+                ""
+            ],
+            "guid": "pi*spXq>.p",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "be12788d250a41f49e9cb0e04e595229-ao-1",
+                "",
+                "<img src=\"tmpl033y_g4.png\" />",
+                "<img src=\"be12788d250a41f49e9cb0e04e595229-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"be12788d250a41f49e9cb0e04e595229-ao-1-A.svg\" />",
+                "<img src=\"be12788d250a41f49e9cb0e04e595229-ao-O.svg\" />"
+            ],
+            "guid": "kqP/{(Qgo7",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "be12788d250a41f49e9cb0e04e595229-ao-2",
+                "",
+                "<img src=\"tmpl033y_g4.png\" />",
+                "<img src=\"be12788d250a41f49e9cb0e04e595229-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"be12788d250a41f49e9cb0e04e595229-ao-2-A.svg\" />",
+                "<img src=\"be12788d250a41f49e9cb0e04e595229-ao-O.svg\" />"
+            ],
+            "guid": "x9,F,YK_5q",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "be12788d250a41f49e9cb0e04e595229-ao-3",
+                "",
+                "<img src=\"tmpl033y_g4.png\" />",
+                "<img src=\"be12788d250a41f49e9cb0e04e595229-ao-3-Q.svg\">",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"be12788d250a41f49e9cb0e04e595229-ao-3-A.svg\" />",
+                "<img src=\"be12788d250a41f49e9cb0e04e595229-ao-O.svg\" />"
+            ],
+            "guid": "Mv+!_L{9NZ",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "787d5440770447edb7ebe0812cf7d099-ao-1",
+                "",
+                "<img src=\"tmp07w_wyrp.png\" />",
+                "<img src=\"787d5440770447edb7ebe0812cf7d099-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"787d5440770447edb7ebe0812cf7d099-ao-1-A.svg\" />",
+                "<img src=\"787d5440770447edb7ebe0812cf7d099-ao-O.svg\" />"
+            ],
+            "guid": "yet,.a^zg+",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "787d5440770447edb7ebe0812cf7d099-ao-2",
+                "",
+                "<img src=\"tmp07w_wyrp.png\" />",
+                "<img src=\"787d5440770447edb7ebe0812cf7d099-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"787d5440770447edb7ebe0812cf7d099-ao-2-A.svg\" />",
+                "<img src=\"787d5440770447edb7ebe0812cf7d099-ao-O.svg\" />"
+            ],
+            "guid": "MSv;<,MbVd",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "787d5440770447edb7ebe0812cf7d099-ao-3",
+                "",
+                "<img src=\"tmp07w_wyrp.png\" />",
+                "<img src=\"787d5440770447edb7ebe0812cf7d099-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"787d5440770447edb7ebe0812cf7d099-ao-3-A.svg\" />",
+                "<img src=\"787d5440770447edb7ebe0812cf7d099-ao-O.svg\" />"
+            ],
+            "guid": "Q?JLc`p$+v",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which I/O in Node sets up a dedicated thread handled by libuv for doing a task and which one doesn't?<div><br></div><div>I/O through {{c1::fs}} sets up a dedicated thread</div><div><br></div><div>I/O through {{c1::network or socket}} does not - it relies on OS to handle this.</div>",
+                ""
+            ],
+            "guid": "QCrp|f|/$:",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "node"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c1::thread}} is a computers ability to focus on a task.&nbsp;<div><br></div><div>We are not responsible on either side (node or libuv) for having a thread dedicated to awaiting an {{c1::inbound message}}. This is handled by the operating system.</div>",
+                ""
+            ],
+            "guid": "baT:_:@R[;",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Because there is so much variety of how OS's handle {{c1::file access}}, libuv handles the setting up of a thread that brings that data into Node.",
+                ""
+            ],
+            "guid": "cE}MM}!;=4",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The default batch size in Node is {{c1::64 kb}} and is referred to as the {{c1::high watermark}}.",
+                ""
+            ],
+            "guid": "kHvz{,k`nL",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "c87aa59ee49d4246b81371e9b3f0bddf-ao-1",
+                "",
+                "<img src=\"tmp8u9d43he.png\" />",
+                "<img src=\"c87aa59ee49d4246b81371e9b3f0bddf-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c87aa59ee49d4246b81371e9b3f0bddf-ao-1-A.svg\" />",
+                "<img src=\"c87aa59ee49d4246b81371e9b3f0bddf-ao-O.svg\" />"
+            ],
+            "guid": "N(YxS$hn>p",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "c87aa59ee49d4246b81371e9b3f0bddf-ao-2",
+                "",
+                "<img src=\"tmp8u9d43he.png\" />",
+                "<img src=\"c87aa59ee49d4246b81371e9b3f0bddf-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c87aa59ee49d4246b81371e9b3f0bddf-ao-2-A.svg\" />",
+                "<img src=\"c87aa59ee49d4246b81371e9b3f0bddf-ao-O.svg\" />"
+            ],
+            "guid": "zMV.%47Gc-",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "c87aa59ee49d4246b81371e9b3f0bddf-ao-3",
+                "",
+                "<img src=\"tmp8u9d43he.png\" />",
+                "<img src=\"c87aa59ee49d4246b81371e9b3f0bddf-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c87aa59ee49d4246b81371e9b3f0bddf-ao-3-A.svg\" />",
+                "<img src=\"c87aa59ee49d4246b81371e9b3f0bddf-ao-O.svg\" />"
+            ],
+            "guid": "F6S{;vBc>a",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "c87aa59ee49d4246b81371e9b3f0bddf-ao-4",
+                "",
+                "<img src=\"tmp8u9d43he.png\" />",
+                "<img src=\"c87aa59ee49d4246b81371e9b3f0bddf-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c87aa59ee49d4246b81371e9b3f0bddf-ao-4-A.svg\" />",
+                "<img src=\"c87aa59ee49d4246b81371e9b3f0bddf-ao-O.svg\" />"
+            ],
+            "guid": "l}/wUi)=q-",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-079328d6a56fe9147840c343e356bfcc8509bb35.jpg\"><div><br></div><div>Output:</div><div><br></div><div>{{c1::<div>Me first</div><div>Hello&nbsp;</div><div>[first tweet]</div><div>Run me last</div>}}<br></div>",
+                ""
+            ],
+            "guid": "FA|.}A>,l<",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "All setTimeout does it tell you when the function will be put into the {{c1::timer queue}}, not when it will be run.",
+                ""
+            ],
+            "guid": "qa+@jb.VeX",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Most of Node (~95% of functions) will use the {{c1::I/O queue}}.&nbsp;<div>- Data from the filesystem</div><div>- Data from network socket.</div>",
+                ""
+            ],
+            "guid": "oG<hlc!>gp",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Node Queues<div><ol>\n<li>{{c1::Microtask Queue A (<code>process.nextTick()</code>)}}<br></li>\n<li>{{c1::Microtask Queue B (promises)}}</li>\n<li>{{c1::Timer Queue (min heap)}}</li>\n<li>{{c1::I/O Callback Queue}}</li>\n<li>{{c1::Check Queue (setImmediate)}}</li>\n<li>{{c1::Close}} Queue</li></ol></div>",
+                ""
+            ],
+            "guid": "BzFZM[zaMe",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Node Queue Order of Operations<div><ol>\n<li>Microtask Queue A (<code>process.nextTick()</code>)</li>\n<li>Microtask Queue B (promises)</li>\n<li>Timer Queue</li>\n<li>I/O Callback Queue</li>\n<li>Check Queue</li>\n<li>Close Queue</li></ol><div>MTQ A ⇒ MTQ B ⇒ TQ ⇒ {{c1::MTQ A ⇒ MTQ B ⇒ I/O CBQ ⇒ MTQ A ⇒ MTQ B ⇒ Check Q ⇒ MTQ A ⇒ MTQ B ⇒ Close Q ⇒ MTQ A ⇒ MTQ B ⇒ TQ ⇒ ...}}<br></div></div>",
+                ""
+            ],
+            "guid": "P*t%P8uVYs",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2f54704406db41568bd5ecb484b3db5c-ao-1",
+                "",
+                "<img src=\"tmpzlyzlgue.png\" />",
+                "<img src=\"2f54704406db41568bd5ecb484b3db5c-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2f54704406db41568bd5ecb484b3db5c-ao-1-A.svg\" />",
+                "<img src=\"2f54704406db41568bd5ecb484b3db5c-ao-O.svg\" />"
+            ],
+            "guid": "Q42Lh}8R@9",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2f54704406db41568bd5ecb484b3db5c-ao-2",
+                "",
+                "<img src=\"tmpzlyzlgue.png\" />",
+                "<img src=\"2f54704406db41568bd5ecb484b3db5c-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2f54704406db41568bd5ecb484b3db5c-ao-2-A.svg\" />",
+                "<img src=\"2f54704406db41568bd5ecb484b3db5c-ao-O.svg\" />"
+            ],
+            "guid": "fy~!eislS8",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2f54704406db41568bd5ecb484b3db5c-ao-3",
+                "",
+                "<img src=\"tmpzlyzlgue.png\" />",
+                "<img src=\"2f54704406db41568bd5ecb484b3db5c-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2f54704406db41568bd5ecb484b3db5c-ao-3-A.svg\" />",
+                "<img src=\"2f54704406db41568bd5ecb484b3db5c-ao-O.svg\" />"
+            ],
+            "guid": "dw>XwW}%xn",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the different levels of testing?<div><br></div><div>1. {{c1::Unit testing}}</div><div>2. {{c1::Integration testing}}</div><div>3. {{c1::System (end-to-end) testing}}</div><div>4. {{c1::Acceptance testing}}</div>",
+                ""
+            ],
+            "guid": "h8u[UK-;c=",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "testing"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Regression testing}} is used to verify that modifications in the software or the environment have not caused any unintended adverse side effects.",
+                ""
+            ],
+            "guid": "E&?&@|2=0H",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "testing"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Retesting}} is done to make sure that the bug is fixed and failed functionality is working.&nbsp;",
+                ""
+            ],
+            "guid": "bcG*O,EjC`",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "testing"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "12f254f1c2ff456a8cf5c6fbce127998-ao-1",
+                "",
+                "<img src=\"tmpmje9k0b2.png\" />",
+                "<img src=\"12f254f1c2ff456a8cf5c6fbce127998-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"12f254f1c2ff456a8cf5c6fbce127998-ao-1-A.svg\" />",
+                "<img src=\"12f254f1c2ff456a8cf5c6fbce127998-ao-O.svg\" />"
+            ],
+            "guid": "PEDU%(N/<a",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "12f254f1c2ff456a8cf5c6fbce127998-ao-2",
+                "",
+                "<img src=\"tmpmje9k0b2.png\" />",
+                "<img src=\"12f254f1c2ff456a8cf5c6fbce127998-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"12f254f1c2ff456a8cf5c6fbce127998-ao-2-A.svg\" />",
+                "<img src=\"12f254f1c2ff456a8cf5c6fbce127998-ao-O.svg\" />"
+            ],
+            "guid": "BV}~_<@A>P",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "12f254f1c2ff456a8cf5c6fbce127998-ao-3",
+                "",
+                "<img src=\"tmpmje9k0b2.png\" />",
+                "<img src=\"12f254f1c2ff456a8cf5c6fbce127998-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"12f254f1c2ff456a8cf5c6fbce127998-ao-3-A.svg\" />",
+                "<img src=\"12f254f1c2ff456a8cf5c6fbce127998-ao-O.svg\" />"
+            ],
+            "guid": "iz9@W+CGrG",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Clean tests follow 5 rules:<div><br></div><div>F - {{c1::Fast - tests should be fast}}</div><div>I - {{c1::Independent - tests should not depend on each other.&nbsp;}}</div><div>R - {{c1::Repeatable - tests should be repeatable in any environment.}}</div><div>S - {{c1::Self-Validating - tests should have a boolean output, they either pass or fail.}}</div><div>T - {{c1::Timely - tests need to be written in a timely fashion. Unit tests should be written before the production code that makes them pass.&nbsp;}}</div>",
+                ""
+            ],
+            "guid": "KIk-$}@d}~",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "testing"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Unit tests}} focus on a {{c1::single}} piece of code, usually a method or module, and test the {{c1::logic}}.<div><br></div><div>They should be small, fast, and test one concept that may include multiple {{c1::assertions}}.</div><div><br></div><div>They should not access {{c1::dependencies}}.&nbsp;</div>",
+                ""
+            ],
+            "guid": "l`jl^TC><H",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "testing"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Integration tests}} test multiple unit tests together. They depend on modules or functions and can access the database or network.&nbsp;",
+                ""
+            ],
+            "guid": "zEwaL*ah^y",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "testing"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>An {{c1::invariant}} is more \"conceptual\" than a variable. In general, it's a property of the program state that is always {{c1::true}}. A function or method that ensures that the invariant holds is said to maintain the {{c1::invariant}}.</div><div><br></div><div>For instance, a binary search tree might have the invariant that for every node, the key of the node's left child is less than the node's own key. A correctly written insertion function for this tree will maintain that invariant.</div><div><br></div><div>As you can tell, that's not the sort of thing you can store in a variable: it's more a statement&nbsp;<em>about</em>&nbsp;the program. By figuring out what sort of invariants your program should maintain, then reviewing your code to make sure that it actually maintains those invariants, you can avoid logical errors in your code.</div>",
+                ""
+            ],
+            "guid": "n+FMLNf9dN",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>In computer science, a predicate that, if true, will remain true throughout a specific sequence of operations, is called (an) {{c1::invariant}} to that sequence.<span style=\"color: rgb(32, 33, 34);\"><br></span></div><span style=\"color: rgb(32, 33, 34);\"><div><span style=\"color: rgb(32, 33, 34);\"><br></span></div></span><span style=\"color: rgb(32, 33, 34);\">It is a&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Logical_assertion\">logical assertion</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;that is&nbsp;</span>{{c1::always}}<span style=\"color: rgb(32, 33, 34);\">&nbsp;held to be true during a certain phase of execution.&nbsp;</span><div><span style=\"color: rgb(32, 33, 34);\"><br></span></div><div><span style=\"color: rgb(32, 33, 34);\">For example, a&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Loop_invariant\">loop invariant</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;is a condition that is true at the beginning and the end of every execution of a loop.</span></div>",
+                ""
+            ],
+            "guid": "ffFI?A;]?]",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Whether JavaScript is compiled or not is left up to the {{c1::implementation}}.<div><br></div><div>V8 increases performance by {{c1::compiling}} JavaScript to native machine code before executing it, versus executing bytecode or {{c1::interpreting}} it.&nbsp;</div>",
+                ""
+            ],
+            "guid": "c]~KP>uT/?",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is Mozilla Rhino?",
+                "Rhino is a JavaScript engine written fully in Java and managed by Mozilla.<div><br></div><div>It works in both compiled and interpreted mode.</div>"
+            ],
+            "guid": "L`<Q%G)zSR",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Apache Kafka is an {{c1::event streaming}} platform.<div><br></div><div>It can be used as a {{c1::message broker}}, log aggregator, and for {{c1::event sourcing}}, among many other use cases.</div>",
+                ""
+            ],
+            "guid": "E,tQ::_v:a",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c1::event loop}} allows Node.js to&nbsp;<b>perform&nbsp;</b>{{c1::non-blocking}}<b>&nbsp;I/O operations</b>, despite the fact that JavaScript is single-threaded.",
+                ""
+            ],
+            "guid": "seTnr0/;Fk",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An array containing the command line arguments for Node is {{c1::\"process.argv\"}}",
+                ""
+            ],
+            "guid": "L)&Vs@.!k5",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::http.createServer}} will return a new instance of http.Server.",
+                ""
+            ],
+            "guid": "pWbNt|kN[}",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(51, 51, 51);\">PM2 is a production&nbsp;</span>{{c1::process manager}}<span style=\"color: rgb(51, 51, 51);\">&nbsp;for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.</span>",
+                ""
+            ],
+            "guid": "hAN6p#tlEu",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Allocates a new&nbsp;Buffer with specific size. (NodeJS)<div><font color=\"#15309d\"><br></font></div><div><font color=\"#15309d\">const buf =&nbsp;</font>{{c1::Buffer.alloc(5)}}<font color=\"#15309d\">;&nbsp;</font><div><font color=\"#15309d\"><br></font></div><div><font color=\"#15309d\">console.log(buf); // Prints: &lt;Buffer 00 00 00 00 00&gt;</font></div></div>",
+                ""
+            ],
+            "guid": "et>wpy%3G:",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What's the difference between tilde(~) and caret(^) in package.json?<div><br></div><div>~version&nbsp;{{c1::\"Approximately equivalent to version\"}}<br><div>^version&nbsp;{{c1::\"Compatible with version\"&nbsp;}}<br></div><div><br></div><div><div>Using tilde (~) gives you bug fix releases and caret (^) gives you backwards compatible new functionality as well.</div><div><br></div><div>The problem is old versions usually don't receive bug fixes that much, so npm uses caret (^) as the default for&nbsp;--save.</div></div></div>",
+                ""
+            ],
+            "guid": "f;P6QE9N^t",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Duplex}}&nbsp;streams are streams that implement both the Readable and Writable interfaces.&nbsp;<div><br></div><div>Examples of&nbsp;{{c1::Duplex}}&nbsp;streams include: tcp sockets, zlib streams, crypto streams.</div>",
+                ""
+            ],
+            "guid": "DLbU:Ci60M",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(25, 24, 24); background-color: rgb(252, 252, 252);\">Express.js is a&nbsp;</span>{{c1::minimal}}<span style=\"color: rgb(25, 24, 24); background-color: rgb(252, 252, 252);\">&nbsp;and flexible web app&nbsp;</span><span style=\"color: rgb(25, 24, 24); background-color: rgb(252, 252, 252);\">framework for Node.js</span><div><br></div><div>Designed for building&nbsp;web applications&nbsp;and&nbsp;{{c1::APIs}}<br></div><div><br></div><div><div>Basically a wrapper of http module that is created for the ease of the developers in such a way that:</div>- They can set up {{c1::middlewares}} to respond to HTTP Requests (easily).</div><div>- They can {{c1::dynamically}} render HTML Pages based on passing arguments to templates.</div><div>- They can also define {{c1::routing}} easily.</div>",
+                ""
+            ],
+            "guid": "vwv%!tG3Je",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does Function.prototype.bind() do?<div><br></div><div>It {{c1::creates a new function}} that, when called, has its {{c1::this}}&nbsp;keyword set to the provided value.<br><div><br></div><div>Arrow functions do not change the {{c1::this}}&nbsp;pointer from their defining scope, so you may not need to use&nbsp;bind()&nbsp;as often:</div><div><br></div><div><span style=\"color: rgb(21, 48, 157);\">m.on('click', this.click.bind(this));</span><br></div><div><span style=\"color: rgb(21, 48, 157);\"><br></span></div><div>vs</div><div><span style=\"color: rgb(21, 48, 157);\"><br></span></div><div><span style=\"color: rgb(21, 48, 157);\">m.on</span><font color=\"#15309d\">('click', () =&gt; this.click());</font><span style=\"color: rgb(21, 48, 157);\"><br></span></div><div><font color=\"#15309d\"><br></font></div><div>vs&nbsp;</div><div><br></div><div><font color=\"#15309d\">var me = this;<br></font><span style=\"color: rgb(21, 48, 157);\">m.on</span><font color=\"#15309d\">('click', function() { me.click() });</font></div></div>",
+                ""
+            ],
+            "guid": "ur8OIAi7.R",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What would the following code do?<div><br><div><font color=\"#15309d\">const&nbsp;</font><span style=\"color: rgb(21, 48, 157);\">fn</span><font color=\"#15309d\">&nbsp;= () =&gt; ![typeof window, typeof document].includes('undefined');</font><br></div><div><font color=\"#15309d\"><br></font></div><div>Determines if the&nbsp;{{c1::current runtime environment is a browser}}&nbsp;so that front-end modules can run on the server (Node) without throwing errors.</div><div><br></div><div>Use Array.prototype.includes() on the typeof values of both window and document (globals usually only available in a browser environment unless they were explicitly defined), which will return true if one of them is undefined. typeof allows globals to be checked for existence without throwing a ReferenceError. If both of them are not undefined, then the current environment is assumed to be a browser.</div><div><br></div><div><font color=\"#15309d\">isBrowser(); // true (browser)&nbsp;</font></div><div><font color=\"#15309d\">isBrowser(); // false (Node)</font></div></div>",
+                ""
+            ],
+            "guid": "yk7K)t-:mA",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Creates a new URL object by parsing the input relative to the base. (NodeJS)<div><font color=\"#15309d\"><br></font></div><div><font color=\"#15309d\">const myURL =&nbsp;</font>{{c1::new URL('/foo', 'https://example.org/');&nbsp;}}<div><font color=\"#15309d\">// https://example.org/foo</font></div></div>",
+                ""
+            ],
+            "guid": "Dv28JrZ2DJ",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This handler is called when the promise is settled, whether fulfilled or rejected. (NodeJS)<div><br></div><div>{{c1::Promise.prototype.finally(onFinally)<br><div><br></div><div><font color=\"#15309d\">p.finally(function() {<br>&nbsp; // settled (fulfilled or rejected)<br>});</font></div>}}<br></div>",
+                ""
+            ],
+            "guid": "FH],kCD_3y",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "chmod is used to {{c1::change access permissions}}, <b>ch</b>ange <b>mod</b>e.",
+                "<div>chmod changes the permissions of each given file according to mode, where mode describes the permissions to modify.</div><div><br></div><div>Mode can be specified with octal numbers or with letters.&nbsp;</div><div><br></div><div>When chmod is applied to a directory:</div><div>read = list files in the directory</div><div>write = add new files to the directory</div><div>execute = access files in the directory</div><div><br></div><div><img src=\"paste-f86ae100110b171b7f2cf13622000ed7974c166b.jpg\"></div>"
+            ],
+            "guid": "J>l]~KXsg5",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "119607dc038f431f9f3c5ca6f21ed7f7-ao-1",
+                "",
+                "<img src=\"tmp_mvan9c9.png\" />",
+                "<img src=\"119607dc038f431f9f3c5ca6f21ed7f7-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"119607dc038f431f9f3c5ca6f21ed7f7-ao-1-A.svg\" />",
+                "<img src=\"119607dc038f431f9f3c5ca6f21ed7f7-ao-O.svg\" />"
+            ],
+            "guid": "z-x#7r2,gv",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d08be43a43af47bea5f34cfda94e8cde-ao-1",
+                "",
+                "<img src=\"tmp7ooh7fh6.png\" />",
+                "<img src=\"d08be43a43af47bea5f34cfda94e8cde-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d08be43a43af47bea5f34cfda94e8cde-ao-1-A.svg\" />",
+                "<img src=\"d08be43a43af47bea5f34cfda94e8cde-ao-O.svg\" />"
+            ],
+            "guid": "nw~Q(!4UvA",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Allow read permissions to everyone (using chmod):<div><br></div><div>{{c1::chmod a+r [filename]}}</div>",
+                ""
+            ],
+            "guid": "q,:;rwp33$",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Make a shell script executable by the user/owner<div><br></div><div>{{c1::chmod u+x [filename]}}</div>",
+                ""
+            ],
+            "guid": "nFPkM-]Kw3",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(32, 33, 34);\">The&nbsp;</span>{{c1::#!}}<span style=\"color: rgb(32, 33, 34);\">&nbsp;syntax used in scripts to indicate an interpreter for execution under UNIX / Linux operating systems.</span><div><span style=\"color: rgb(32, 33, 34);\"><br></span></div><div><span style=\"color: rgb(32, 33, 34);\">How to get bash to run a file with node?</span></div><div><span style=\"color: rgb(32, 33, 34);\"><br></span></div><div>{{c1::#!/usr/bin/env node}}<br></div>",
+                ""
+            ],
+            "guid": "LG<N235(2Q",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Node, fs methods (and many other I/O APIs) return a {{c1::binary buffer}} by default.<div><br></div><div>fs.readFileSync(filepath) will actually return the contents as a {{c1::binary buffer, not string text.&nbsp;}}</div>",
+                ""
+            ],
+            "guid": "Imlu?<+-_,",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "const contents = fs.readFileSync(filepath);<div>process.stdout.write(contents);</div><div><br></div><div>What will be displayed here?</div><div><br></div><div>{{c1::The contents represented as a string because we are passing the binary buffer directly to the shell, and the shell knows what to do with those bits so it translates it into characters.&nbsp;}}</div>",
+                ""
+            ],
+            "guid": "GE?TB_ZN*m",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "const contents = fs.readFileSync(filepath);<div>console.log(contents);</div><div><br></div><div>What will be displayed here?</div><div><br></div><div>{{c1::A binary buffer (&lt;Buffer 02 23 34 ..&gt;) because by the time this was sent to the shell, console.log had already stringified the buffer.&nbsp;}}</div>",
+                ""
+            ],
+            "guid": "Mtw?]=l$y8",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Copy a file in bash<div><br></div><div>{{c1::cp existing-file.txt new-file.txt}}</div>",
+                ""
+            ],
+            "guid": "HM]q?~`T,M",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "stream1.pipe(stream2)<div><br></div><div>In this case stream1 is a {{c1::readable}} stream</div><div>and stream2 is a {{c1::writeable}} stream.</div><div><br></div><div>pipe takes the streaming data from {{c1::stream1 and passes that to stream2.}}</div>",
+                ""
+            ],
+            "guid": "puD?xW)!`E",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do you access environment variables in Node?<div><br></div><div>{{c1::process.env.variableName}}</div>",
+                ""
+            ],
+            "guid": "jelLoS@do>",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pipe is a part of the {{c1::readable}} interface. You cannot pipe on a {{c1::writeable}} stream.",
+                ""
+            ],
+            "guid": "IbX6uzzfe[",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do you process standard input in Node?<div><br></div><div>{{c1::process.stdin.read}}</div>",
+                ""
+            ],
+            "guid": "MFR.5ij1r/",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do you process standard output in Node?<div><br></div><div>{{c1::process.stdout.write(contents)}}</div>",
+                ""
+            ],
+            "guid": "CiGp)NH7H~",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What happens in this statement?<div><br></div><div>const stream1; // readable</div><div>const stream2; // writeable</div><div><br></div><div>const stream3 = stream1.pipe(stream2);</div><div><br></div><div>{{c1::<div>readable = readable.pipe(writable)</div><div><br></div><div>stream3 will be a readable stream of what was piped from stream1 into stream2.</div><div><br></div><div>You can keep chaining (piping) these streams.</div>}}<br></div>",
+                ""
+            ],
+            "guid": "uyzUm1F#6b",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the following code doing?<div><br></div><div><img src=\"paste-00b69c16f5c318a4196e365d1365a6a30ee98c6d.jpg\"><br></div>",
+                "processFile receives an inStream which is immediately set to a variable called outStream.<div><br></div><div>We then create a new stream with the label upperStream and configure a Transform, which says, every time we receive a new chunk of data, we want to perform some custom processing.&nbsp;</div><div><br></div><div>That custom processing is taking the buffer chunk, encoding it as UTF-8 and upper casing the text. Then we wait 500 milliseconds to call our callback (cb) function.</div><div><br></div><div>Then we take outStream and assign it the returned result from taking outStream (which is our inStream) and piping that to our upperStream, which is where the logic is being performed.&nbsp;</div><div><br></div><div>Then we declare a new constant targetStream, and assign it to process.stdout.</div><div>Finally we take our outStream (readable stream) and we pipe the contents of this to our targetStream, which is process.stdout.</div><div><br></div><div>So every 500 milliseconds this function will process each chunk of data (roughly 65kb) and upper case it and send it to the console (stdout).</div>"
+            ],
+            "guid": "c#BdR*BX.t",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What will create a writable stream in Node?<div><br></div><div>{{c1::fs.createWriteStream(file);}}</div>",
+                ""
+            ],
+            "guid": "xIEBcFa9v:",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0690cfc928c5412f8fb12ac467b8dc6d-ao-1",
+                "",
+                "<img src=\"tmpuc6tnycl.png\" />",
+                "<img src=\"0690cfc928c5412f8fb12ac467b8dc6d-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0690cfc928c5412f8fb12ac467b8dc6d-ao-1-A.svg\" />",
+                "<img src=\"0690cfc928c5412f8fb12ac467b8dc6d-ao-O.svg\" />"
+            ],
+            "guid": "n>]@1kX=S=",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0690cfc928c5412f8fb12ac467b8dc6d-ao-2",
+                "",
+                "<img src=\"tmpuc6tnycl.png\" />",
+                "<img src=\"0690cfc928c5412f8fb12ac467b8dc6d-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0690cfc928c5412f8fb12ac467b8dc6d-ao-2-A.svg\" />",
+                "<img src=\"0690cfc928c5412f8fb12ac467b8dc6d-ao-O.svg\" />"
+            ],
+            "guid": "CPcLoj#Qq8",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0690cfc928c5412f8fb12ac467b8dc6d-ao-3",
+                "",
+                "<img src=\"tmpuc6tnycl.png\" />",
+                "<img src=\"0690cfc928c5412f8fb12ac467b8dc6d-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0690cfc928c5412f8fb12ac467b8dc6d-ao-3-A.svg\" />",
+                "<img src=\"0690cfc928c5412f8fb12ac467b8dc6d-ao-O.svg\" />"
+            ],
+            "guid": "Is=r/C3,%C",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0690cfc928c5412f8fb12ac467b8dc6d-ao-4",
+                "",
+                "<img src=\"tmpuc6tnycl.png\" />",
+                "<img src=\"0690cfc928c5412f8fb12ac467b8dc6d-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0690cfc928c5412f8fb12ac467b8dc6d-ao-4-A.svg\" />",
+                "<img src=\"0690cfc928c5412f8fb12ac467b8dc6d-ao-O.svg\" />"
+            ],
+            "guid": "MKc1.]N:@<",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is this function doing?<div><br></div><div><img src=\"paste-6740c01f0d55f10157a8c31decc9e57154e503d6.jpg\"><br></div>",
+                "It uses the \"zlib\" Node module to create gzip streams to both compress and decompress files."
+            ],
+            "guid": "oW=#@uhpK{",
+            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does putting \"async\" before a function make the function return?<div><br></div><div>{{c1::A promise}}</div>",
+                ""
+            ],
+            "guid": "ff|39k._xn",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "94d1f3c1d4bf4498b30a358ec42224fe-ao-1",
+                "",
+                "<img src=\"tmp2hf5ror2.png\" />",
+                "<img src=\"94d1f3c1d4bf4498b30a358ec42224fe-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"94d1f3c1d4bf4498b30a358ec42224fe-ao-1-A.svg\" />",
+                "<img src=\"94d1f3c1d4bf4498b30a358ec42224fe-ao-O.svg\" />"
+            ],
+            "guid": "c]+$6ZcT?3",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does util.promisify do in Node?<div><br></div><div>{{c1::You can pass a function that expects a callback to util.promisify, and Node will return a function that gives you promises.&nbsp;}}</div>",
+                "<img src=\"paste-368d10c2e71a1aa1c9a0808a731184f4900d3223.jpg\">"
+            ],
+            "guid": "eQxs]Fr2y,",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does res.writeHead() do in Node?<div><br></div><div>{{c1::It writes out the headers on the request object to be sent back to the client.&nbsp;}}</div>",
+                ""
+            ],
+            "guid": "CYm0l-f2*y",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does res.write() do in Node?<div><br></div><div>{{c1::This sends a chunk of the response body. This method may be called multiple times to provide successive parts of the body.}}<br></div>",
+                ""
+            ],
+            "guid": "C)aJ.&Di?-",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does res.end() do in Node?<div><br></div><div>{{c1::This method signals to the server that all of the response headers and body have been sent; that server should consider this message complete. The method,&nbsp;response.end(), MUST be called on each response.}}<br></div>",
+                ""
+            ],
+            "guid": "GT%!h!5mWp",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does req.url do in Node?<div><br></div><div>{{c1::Request URL string. This contains only the URL that is present in the actual HTTP request.}}<br></div>",
+                ""
+            ],
+            "guid": "l~`g_Kl^.n",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do you create a server in Node?<div><br></div><div>{{c1::<div>const server = http.createServer(app);</div><div><br></div><div>Where app is a function.</div>}}<br></div>",
+                ""
+            ],
+            "guid": "t5?{G2:#.n",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does app.get() do in express?<div><br></div><div>{{c1::It takes 2 arguments, a string for the route, and a function that is passed req and res, and is used for GET requests.}}</div>",
+                ""
+            ],
+            "guid": "zsa>yHGF9M",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does app.use() do in express?<div><br></div><div>{{c1::app.use() is typically used for all incoming requests to use a specific middleware.&nbsp;}}</div>",
+                ""
+            ],
+            "guid": "tjUg8Fmug8",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does express.static() do?<div><br></div><div>{{c1::...}}</div>",
+                ""
+            ],
+            "guid": "iX$6$_>2F]",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does child_process do in Node?<div><br></div><div>{{c1::...}}</div>",
+                ""
+            ],
+            "guid": "mYWssg@d6`",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "todo"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does child_process.spawn() do?<div><br></div><div>{{c1::...}}</div>",
+                ""
+            ],
+            "guid": "NW!04SI]8e",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "todo"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does process.exitCode do in Node?<div><br></div><div>{{c1::A number which will be the process exit code, when the process either exits gracefully, or is exited via&nbsp;process.exit()&nbsp;without specifying a code.}}<br></div>",
+                ""
+            ],
+            "guid": "frq-Z)U&H",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the following code doing?<div><br></div><div><img src=\"paste-be8057c6728f783746c0d10089320548a9f6f5e5.jpg\"><br></div><div><br></div><div>{{c1::Spinning up X number of child processes and waiting for all of them to be complete.}}</div>",
+                ""
+            ],
+            "guid": "EeMK{>*T(#",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A child process in Node has {{c1::limitations}} defined by the OS?",
+                ""
+            ],
+            "guid": "nn[pZ^oJa(",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": [
+                "todo"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bbc6f4e08bff42c1b5a71e89c40ee864-ao-1",
+                "",
+                "<img src=\"tmpcjfu1krj.png\" />",
+                "<img src=\"bbc6f4e08bff42c1b5a71e89c40ee864-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bbc6f4e08bff42c1b5a71e89c40ee864-ao-1-A.svg\" />",
+                "<img src=\"bbc6f4e08bff42c1b5a71e89c40ee864-ao-O.svg\" />"
+            ],
+            "guid": "hAy$%_jRF;",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bbc6f4e08bff42c1b5a71e89c40ee864-ao-2",
+                "",
+                "<img src=\"tmpcjfu1krj.png\" />",
+                "<img src=\"bbc6f4e08bff42c1b5a71e89c40ee864-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bbc6f4e08bff42c1b5a71e89c40ee864-ao-2-A.svg\" />",
+                "<img src=\"bbc6f4e08bff42c1b5a71e89c40ee864-ao-O.svg\" />"
+            ],
+            "guid": "E)B23{Blfu",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bbc6f4e08bff42c1b5a71e89c40ee864-ao-3",
+                "",
+                "<img src=\"tmpcjfu1krj.png\" />",
+                "<img src=\"bbc6f4e08bff42c1b5a71e89c40ee864-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bbc6f4e08bff42c1b5a71e89c40ee864-ao-3-A.svg\" />",
+                "<img src=\"bbc6f4e08bff42c1b5a71e89c40ee864-ao-O.svg\" />"
+            ],
+            "guid": "n5{e!EX6,&",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bbc6f4e08bff42c1b5a71e89c40ee864-ao-4",
+                "",
+                "<img src=\"tmpcjfu1krj.png\" />",
+                "<img src=\"bbc6f4e08bff42c1b5a71e89c40ee864-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bbc6f4e08bff42c1b5a71e89c40ee864-ao-4-A.svg\" />",
+                "<img src=\"bbc6f4e08bff42c1b5a71e89c40ee864-ao-O.svg\" />"
+            ],
+            "guid": "m4om6V-[QK",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bbc6f4e08bff42c1b5a71e89c40ee864-ao-5",
+                "",
+                "<img src=\"tmpcjfu1krj.png\" />",
+                "<img src=\"bbc6f4e08bff42c1b5a71e89c40ee864-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bbc6f4e08bff42c1b5a71e89c40ee864-ao-5-A.svg\" />",
+                "<img src=\"bbc6f4e08bff42c1b5a71e89c40ee864-ao-O.svg\" />"
+            ],
+            "guid": "b:c=5-!_c5",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Execution context - the {{c1::environment (scope)}} the current code is being evaluated in. Each execution context has it's own {{c1::variable scope}}.</div><div><br></div><div>Whenever a function is invoked, a new execution context is pushed onto the {{c1::call stack}} and a new {{c1::variable environment}} is created along with it.</div>",
+                ""
+            ],
+            "guid": "w}Z%--{S%m",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Phases of the Execution Context</b><div><br></div><div>An execution context can be divided into a {{c1::creation}} and {{c1::execution}} phase.&nbsp;</div><div><br></div><div>1) In the {{c1::creation}} phase, the interpreter will first initialize the {{c1::scope chain}}, then create a {{c1::variable object}} (also called an activation object) that is composed of all the variables, function declarations, and arguments defined inside the execution context. From there the value of&nbsp;{{c1::this}}&nbsp;is determined last.&nbsp;</div><div><br></div><div>2) Then in the {{c1::execution}} phase, code is {{c1::interpreted}} and {{c1::executed}}.</div>",
+                ""
+            ],
+            "guid": "niIZ/[,;DS",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><b>What happens during the creation phase of JavaScript?</b></div><div><br></div>1 - First, create the {{c1::scope chain}}<div><br></div><div>2 - Second, create a {{c1::variable object}} (known as the activation object) for all {{c1::variables}}, {{c1::function declarations}}, and {{c1::arguments}} defined in the execution context<div>During this part, we perform the following in order:</div><ol><li>{{c1::We create the arguments object, check the context for parameters, initialize the name and value and create a reference copy}}</li><li>{{c1::Scan the context for function declarations<ol><li>For each function found, create a property in the \"variableObject\" that is the exact function name, which has a reference pointer to the function in memory</li><li>If the function name exists already, the reference pointer value will be overwritten</li></ol>}}<br></li><li>{{c1::Scan the context for variable declarations<ol><li>For each variable declaration found, create a property in the \"variableObject\" that is the variable name, and initialize the value to \"undefined\".</li><li>If the variable name already exists in the \"variableObject\", do nothing and continue scanning (this is how arguments take precedence).</li></ol>}}<br></li></ol>3 - Third, determine the value of {{c1::\"this\"}}</div>",
+                "<img src=\"paste-609e2799cb11c016dd0060abdad4aca57ffe7007.jpg\">"
+            ],
+            "guid": "umse0W#iV?",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What happens during the execution phase of JavaScript?<div><br></div><div>{{c1::Assign values, references to functions, and interprets / executes the code line by line.}}<br></div>",
+                ""
+            ],
+            "guid": "n/K(&0<JFd",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4818404343af40b9b03837a653896350-ao-1",
+                "",
+                "<img src=\"tmpnk_cd38w.png\" />",
+                "<img src=\"4818404343af40b9b03837a653896350-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4818404343af40b9b03837a653896350-ao-1-A.svg\" />",
+                "<img src=\"4818404343af40b9b03837a653896350-ao-O.svg\" />"
+            ],
+            "guid": "c1TD|H_N6w",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4818404343af40b9b03837a653896350-ao-2",
+                "",
+                "<img src=\"tmpnk_cd38w.png\" />",
+                "<img src=\"4818404343af40b9b03837a653896350-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4818404343af40b9b03837a653896350-ao-2-A.svg\" />",
+                "<img src=\"4818404343af40b9b03837a653896350-ao-O.svg\" />"
+            ],
+            "guid": "kHzU8PYMx5",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4818404343af40b9b03837a653896350-ao-3",
+                "",
+                "<img src=\"tmpnk_cd38w.png\" />",
+                "<img src=\"4818404343af40b9b03837a653896350-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4818404343af40b9b03837a653896350-ao-3-A.svg\" />",
+                "<img src=\"4818404343af40b9b03837a653896350-ao-O.svg\" />"
+            ],
+            "guid": "A~3]72KPL3",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4818404343af40b9b03837a653896350-ao-4",
+                "",
+                "<img src=\"tmpnk_cd38w.png\" />",
+                "<img src=\"4818404343af40b9b03837a653896350-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4818404343af40b9b03837a653896350-ao-4-A.svg\" />",
+                "<img src=\"4818404343af40b9b03837a653896350-ao-O.svg\" />"
+            ],
+            "guid": "j+9$ZgxBf-",
+            "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c1::creation}} stage handles defining the names of the properties, but not assigning a value to them (done is execution phase), with the exception of {{c1::formal arguments}}. Once the creation stage has finished, the {{c1::thread of execution}} enters the function and the execution phase looks like this after the function has finished execution:<div><br></div><div><img src=\"paste-a721ec1ba3333198c7ef1f389d5a84af61fa1583.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "CT[IoQDle;",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-f77fe537aafb15895008bd057e6f41416ae56f39.jpg\"><div><br></div><div><div>The questions we can now answer are:</div><ol><li>Why can we access foo before we have declared it?<ul><li>{{c1::If we follow the creation stage, we know the variables have already been created before the activation / code execution stage. So as the function flow started executing, foo had already been defined in the activation object.}}</li></ul></li><li>Foo is declared twice, why is foo shown to be function and not undefined or string?<ul><li>{{c1::Even though foo is declared twice, we know from the creation stage that functions are created on the activation object before variables, and if the property name already exists on the activation object, we simply bypass the declaration.}}</li><li>{{c1::Therefore, a reference to function foo() is first created on the activation object, and when the interpreter gets to var foo, we already see the property name foo exists so the code does nothing and proceeds.}}</li></ul></li><li>Why is bar undefined?<ul><li>{{c1::bar is actually a variable that has a function assignment, and we know the variables are created in the creation stage but they are initialized with the value of undefined.}}</li></ul></li></ol></div>",
+                ""
+            ],
+            "guid": "iyo_gi=F[S",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>When does a function end?</b><div><br></div><div>When it encounters a {{c1::return statement}} or it encounters a {{c1::closing bracket&nbsp;}}}</div><div><br></div><div>When a function ends, the following happens</div><div>1. The local execution contexts pop off the execution stack</div><div><br></div><div>2. The functions send the return value back to the {{c1::calling context}}. The calling context is the execution context that called this function, it could be the global execution context or another local execution context. It is up to the calling execution context to deal with the reeturn value at that point. The returned value could be an object, an array, a function, a boolean, anything really. If the function has no return statement,&nbsp;{{c1::undefined}}&nbsp;is returned.</div><div><br></div><div>3. The local execution context is {{c1::destroyed}}. This is important. Destroyed. All the variables that were declared within the local execution context are {{c1::erased}}. They are no longer available. That's why they're called local variables.</div>",
+                ""
+            ],
+            "guid": "vp0CVmV:eM",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What easily shows that JavaScript is a compiled language?<div><br></div><div>{{c1::SyntaxErrors are an example of how JavaScript first compiles the language and then runs it. SyntaxErrors will pop up before it actually runs any code.}}<br></div>",
+                ""
+            ],
+            "guid": "e`h.;w:P8B",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><strong>Variables are not&nbsp;</strong>{{c1::values}}<strong>. Variables&nbsp;</strong>{{c1::point}}<strong>&nbsp;to values.</strong></div><div><strong><br></strong></div><div>The left side of an assignment must be a \"wire\".</div><div><br></div><div>The right side of an assignment must be an {{c1::expression}}. {{c1::Expressions are questions to JavaScript.}}</div>",
+                ""
+            ],
+            "guid": "htovsy(~LO",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h2>Reading a Value of a Variable</h2><div><code>console.log(pet);</code></div><div><code><br></code></div><div>We don't pass the&nbsp;<code>pet</code>&nbsp;variable to console.log. We pass the {{c1::value}} assigned at the&nbsp;<code>pet</code>&nbsp;variable.</div><div>We don't \"pass a variable\" but rather {{c1::\"pass a value\"}}.</div><div>Example</div><pre><code><div><span style=\"color: rgb(220, 220, 220);\"><span style=\"color: rgb(86, 156, 214);\">function</span> double(x) </span>{\n  x = x * <span style=\"color: rgb(184, 215, 163);\">2</span>;\n}\n\n<span style=\"color: rgb(86, 156, 214);\">let</span> money = <span style=\"color: rgb(184, 215, 163);\">10</span>;\ndouble(money);\n<span style=\"color: rgb(78, 201, 176);\">console</span>.log(money); <span style=\"font-family: Arial;\">{{c1::// 10}}</span>\n</div></code></pre><div><code>double(money);</code>&nbsp;first finds the value of&nbsp;<code>money</code>&nbsp;and passes the value to the function, not the variable.</div><div>Variables don't have types in JavaScript - only values do.</div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">null</span> = <span style=\"color: rgb(184, 215, 163);\">10</span>;\n<span style=\"color: rgb(78, 201, 176);\">console</span>.log(<span style=\"color: rgb(86, 156, 214);\">null</span>);\n</div></code></pre><div>This code produces an error because the left side of assignment must always be a \"wire\". Variables are \"wires\", so they can appear on the left side. A {{c1::literal}} like null is not a \"wire\", so trying to assign something to it is meaningless.</div>",
+                ""
+            ],
+            "guid": "ENNHHBqR$G",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h3>Undefined</h3><div>Undefined represents the concept of an {{c1::unintentionally missing value}}.</div><div>Undefined also commonly \"occurs naturally\". It shows up in some situations where JavaScript doesn't know what value you wanted. For example, if you {{c1::forget}} to assign a variable, it will point to undefined.</div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> mark;\n<span style=\"color: rgb(78, 201, 176);\">console</span>.log(mark); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// undefined</span>\n</div></code></pre><div>This is completely different from a {{c1::reference}} error</div><pre><code><div><span style=\"color: rgb(78, 201, 176);\">console</span>.log(mark); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// </span>{{c1::ReferenceError}}\n<span style=\"color: rgb(86, 156, 214);\">let</span> mark;</div></code></pre>",
+                ""
+            ],
+            "guid": "O;z-7sJB&=",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h3>Null</h3><div>You can think of&nbsp;<code>null</code>&nbsp;as&nbsp;<code>undefined</code>'s sister. It behaves very similarly.</div><div><br></div><div>Similarily to&nbsp;<code>undefined</code>,&nbsp;<strong><code>null</code>&nbsp;is the only value of its own type.</strong></div><div><strong><br></strong></div><div><code>console.log(typeof(null)); //&nbsp;</code>{{c1::<code>object</code>&nbsp;is a lie. Null is not an object. This is a bug.}}</div><div><br></div><div>In practice,&nbsp;<code>null</code>&nbsp;is used for {{c1::intentionally}} missing values. Why have both&nbsp;<code>null</code>&nbsp;and&nbsp;<code>undefined</code>? This could help you distinguish a coding mistake (which might result in undefined) from valid missing data (which you might express as&nbsp;<code>null</code>). However, this is only a convention, and JavaScript doesn't enforce this usage.</div>",
+                ""
+            ],
+            "guid": "lGr#G_rXf",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h3>Numbers</h3><div>So far we counted exactly four values:&nbsp;<code>null</code>,&nbsp;<code>undefined</code>,&nbsp;<code>true</code>, and&nbsp;<code>false</code>.</div><div><br></div><div>In our universe, there is exactly one number value for every {{c1::mathematical number}} that can be represented with 64-bit floating point math.</div><div><br></div><div>It is worth noting that floating point math includes a few special numbers. {{c1::<code>NaN</code>,&nbsp;<code>Infinity</code>,&nbsp;<code>-Infinity</code>, and&nbsp;<code>-0</code>.&nbsp;}}</div><div><br></div><div>They exist because sometimes we might execute operations like 1 / 0, and JavaScript needs to represent their result somehow.</div><div>Here's how special numbers may come up in our code:</div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> scale = <span style=\"color: rgb(184, 215, 163);\">0</span>;\n<span style=\"color: rgb(86, 156, 214);\">let</span> a = <span style=\"color: rgb(184, 215, 163);\">1</span> / scale; <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// Infinity</span>\n<span style=\"color: rgb(86, 156, 214);\">let</span> b = <span style=\"color: rgb(184, 215, 163);\">0</span> / scale; <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// NaN</span>\n<span style=\"color: rgb(86, 156, 214);\">let</span> c = -a; <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// -Infinity</span>\n<span style=\"color: rgb(86, 156, 214);\">let</span> d = <span style=\"color: rgb(184, 215, 163);\">1</span> / c; <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// -0</span></div></code></pre>",
+                ""
+            ],
+            "guid": "Aq<0mRNyJQ",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h3>Strings</h3><div>There are 3 ways to write strings in JavaScript (\", ', `).</div><div>An empty string is a string, too</div><pre><code><div><span style=\"color: rgb(78, 201, 176);\">console</span>.log(<span style=\"color: rgb(86, 156, 214);\">typeof</span> <span style=\"color: rgb(214, 157, 133);\">''</span>); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// \"string\"</span>\n</div></code></pre><div>All strings have a few built-in properties</div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> cat = <span style=\"color: rgb(214, 157, 133);\">'Cheshire'</span>;\n<span style=\"color: rgb(78, 201, 176);\">console</span>.log(cat.length); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// 8</span>\n<span style=\"color: rgb(78, 201, 176);\">console</span>.log(cat[<span style=\"color: rgb(184, 215, 163);\">0</span>]); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// 'C'</span>\n<span style=\"color: rgb(78, 201, 176);\">console</span>.log(cat[<span style=\"color: rgb(184, 215, 163);\">1</span>]); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// 'h'</span>\n</div></code></pre><div>This doesn't mean that strings are {{c1::objects}}. String properties are special and don't behave the way object properties do. For example, you can't assign anything to cat[0]. Strings are {{c1::primitives}}, and all primitives are {{c1::immutable}}.</div><div><br></div><div>In our universe, there is a distinct value for every conceivable string. In our mental model, each distinct string already exists.</div>",
+                ""
+            ],
+            "guid": "vVWf57OG%H",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h3>Objects</h3><div>This includes {{c1::arrays}}, {{c1::dates}}, {{c1::RegExps}}, and other non-primitive values.</div><pre><code><div><span style=\"color: rgb(78, 201, 176);\">console</span>.log(<span style=\"color: rgb(86, 156, 214);\">typeof</span> {}); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// \"object\"</span>\n<span style=\"color: rgb(78, 201, 176);\">console</span>.log(<span style=\"color: rgb(86, 156, 214);\">typeof</span> []); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// \"object\"</span>\n<span style=\"color: rgb(78, 201, 176);\">console</span>.log(<span style=\"color: rgb(86, 156, 214);\">typeof</span> <span style=\"color: rgb(86, 156, 214);\">new</span> <span style=\"color: rgb(78, 201, 176);\">Date</span>()); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// \"object\"</span>\n<span style=\"color: rgb(78, 201, 176);\">console</span>.log(<span style=\"color: rgb(86, 156, 214);\">typeof</span> /\\d+<span style=\"color: rgb(154, 83, 52);\">/); /</span><span style=\"color: rgb(154, 83, 52);\">/ \"object\"\nconsole.log(typeof Math); /</span><span style=\"color: rgb(154, 83, 52);\">/ \"object\"\n</span></div></code></pre><div>Unlike everything before, objects are&nbsp;{{c1::<em>not</em>&nbsp;primitive}}&nbsp;values. This also means that by default, they're {{c1::mutable}}. We can access their properties with&nbsp;<code>.</code>&nbsp;or&nbsp;<code>[]</code>:</div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> rapper = { <span style=\"color: rgb(156, 220, 254);\">name</span>: <span style=\"color: rgb(214, 157, 133);\">'Malicious'</span> };\nrapper.name = <span style=\"color: rgb(214, 157, 133);\">'Malice'</span>;\nrapper[<span style=\"color: rgb(214, 157, 133);\">'name'</span>] = <span style=\"color: rgb(214, 157, 133);\">'No Malice'</span>;</div></code></pre>",
+                ""
+            ],
+            "guid": "e@$M6$M5GW",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>We can make our own objects.</div><div><br></div><div>In our mental model, all of the primitive values we've discussed -&nbsp;<code>null</code>,&nbsp;<code>undefined</code>, booleans, numbers, and strings - have \"always existed\". We can't \"make\" a new string or a new number, we can only \"summon\" that value:</div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> sisters = <span style=\"color: rgb(184, 215, 163);\">3</span>;\n<span style=\"color: rgb(86, 156, 214);\">let</span> musketeers = <span style=\"color: rgb(184, 215, 163);\">3</span>;\n</div></code></pre><div>What makes objects different is that we can create more of them. Every time we use the {} object literal, we create a brand new object value:</div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> shrek = {};\n<span style=\"color: rgb(86, 156, 214);\">let</span> donkey = {};\n</div></code></pre><div>The same goes for arrays, dates, and any other object.</div><div>You {{c1::can't destroy}} an object that you've created:</div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> junk = {};\njunk = <span style=\"color: rgb(86, 156, 214);\">null</span>; <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// </span>{{c1::doesn't necessarily destory an object}}\n<span style=\"color: rgb(86, 156, 214);\">delete</span> junk; <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// </span><span style=\"font-family: Arial;\">{{c1::doesn't do anything (and errors in strict mode)}}</span>\n</div></code></pre><div>JavaScript is a {{c1::garbage-collected}} language. Practically, this means that values might eventually disappear from my universe if I can't reach them by following any wires from my code.</div><div><br></div><div>But JavaScript doesn't offer guarantees about {{c1::<em>when</em>&nbsp;that happens.}}</div><div><br></div><div>In my universe, objects and functions float closest to my code. This reminds me that I can manipulate them and even make more of them.</div>",
+                ""
+            ],
+            "guid": "m0YzT}{~GG",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h3>Functions</h3><pre><code><div><span style=\"color: rgb(86, 156, 214);\">for</span> (<span style=\"color: rgb(86, 156, 214);\">let</span> i = <span style=\"color: rgb(184, 215, 163);\">0</span>; i &lt; <span style=\"color: rgb(184, 215, 163);\">7</span>; i++) {\n  <span style=\"color: rgb(86, 156, 214);\">let</span> dwarf = {};\n  <span style=\"color: rgb(78, 201, 176);\">console</span>.log(dwarf);\n}\n</div></code></pre><div>This code creates {{c1::7 objects - one in each iteration of the loop.}}</div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">for</span> (<span style=\"color: rgb(86, 156, 214);\">let</span> i = <span style=\"color: rgb(184, 215, 163);\">0</span>; i &lt; <span style=\"color: rgb(184, 215, 163);\">7</span>; i++) {\n  <span style=\"color: rgb(86, 156, 214);\">let</span> dig = <span style=\"color: rgb(220, 220, 220);\"><span style=\"color: rgb(86, 156, 214);\">function</span> () </span>{\n    <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// do nothing</span>\n  };\n  <span style=\"color: rgb(78, 201, 176);\">console</span>.log(dig);\n}\n</div></code></pre><div>What about this? How many functions do you see here? Is it one function, or is it seven?</div><div><br></div><div>This code contains one {{c1::function&nbsp;<em>definition</em>}}&nbsp;in the code, but it creates {{c1::seven function&nbsp;<em>values</em>}}. This is why separating these concepts is important.</div><div><br></div><div>Every time we execute a line of code that contains a function declaration, a brand new {{c1::function value}} appears in our universe.</div><div><br></div><div>So for each iteration, a {{c1::new function}} is being created.</div>",
+                ""
+            ],
+            "guid": "+ODx433qE",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h2>Equality</h2><div>There are 3 kinds of equality in JavaScript</div><ul><li>{{c1::Strict equality}}:&nbsp;<code>a === b</code></li><li>{{c1::Loose equality}}:&nbsp;<code>a == b</code></li><li>{{c1::Same value equality}}:&nbsp;<code>Object.is(a, b)</code></li></ul>",
+                ""
+            ],
+            "guid": "b)+CK.K3R@",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h3>Same Value Equality</h3><div>Do these values point to each other?</div><pre><code><div><span style=\"color: rgb(78, 201, 176);\">console</span>.log(<span style=\"color: rgb(78, 201, 176);\">Object</span>.is(<span style=\"color: rgb(184, 215, 163);\">2</span>, <span style=\"color: rgb(184, 215, 163);\">2</span>)); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// </span>{{c1::true}}\n<span style=\"color: rgb(78, 201, 176);\">console</span>.log(<span style=\"color: rgb(78, 201, 176);\">Object</span>.is({}, {})); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// </span><span style=\"font-family: Arial;\">{{c1::false}}</span></div></code></pre>",
+                ""
+            ],
+            "guid": "w/p0{_%IX[",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Same Value Equality Example<pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> banana = {};\n<span style=\"color: rgb(86, 156, 214);\">let</span> cherry = banana;\n<span style=\"color: rgb(86, 156, 214);\">let</span> chocolate = cherry;\ncherry = {};\n\n<span style=\"color: rgb(78, 201, 176);\">console</span>.log(<span style=\"color: rgb(78, 201, 176);\">Object</span>.is(banana, cherry)); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// </span>{{c1::false}}\n<span style=\"color: rgb(78, 201, 176);\">console</span>.log(<span style=\"color: rgb(78, 201, 176);\">Object</span>.is(cherry, chocolate)); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// </span>{{c1::false}}\n<span style=\"color: rgb(78, 201, 176);\">console</span>.log(<span style=\"color: rgb(78, 201, 176);\">Object</span>.is(banana, chocolate)); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// </span><span style=\"font-family: Arial;\">{{c1::true}}</span>\n</div></code></pre><ol><li><code>let banana = {};</code><ul><li>Declare a new variable&nbsp;<code>banana</code></li><li>Create a new object value {}</li><li>Point&nbsp;<code>banana</code>&nbsp;variable's wire to it</li></ul></li><li><code>let cherry = banana;</code><ul><li>Declare a new variable&nbsp;<code>cherry</code></li><li>Point&nbsp;<code>cherry</code>'s wire to where&nbsp;<code>banana</code>&nbsp;is pointing (the object at the end of its wire).</li></ul></li><li><code>let chocolate = cherry;</code><ul><li>Declare a new variable&nbsp;<code>chocolate</code></li><li>Point&nbsp;<code>chocolate</code>'s wire to where&nbsp;<code>cherry</code>&nbsp;is pointing (the object at the end of its wire).</li></ul></li><li><code>cherry = {};</code><ul><li>Create a new object value {}</li><li>Point&nbsp;<code>cherry</code>'s wire to the new object.</li></ul></li></ol>",
+                ""
+            ],
+            "guid": "NxZ:NTZ)Il",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h3>Strict Equality</h3><div><code>===</code>&nbsp;and&nbsp;<code>!==</code></div><div>Usually has the same behavior of&nbsp;<code>Object.is()</code>&nbsp;except in two rare cases:</div><ol><li><code>NaN === NaN</code>&nbsp;is&nbsp;{{c1::<code>false</code>, although they are the same value.}}</li><li><code>-0 === 0</code>&nbsp;and&nbsp;<code>0 === -0</code>&nbsp;are&nbsp;{{c1::<code>true</code>, although they are different values.}}</li></ol>1st Case -&nbsp;<code>NaN</code><div><code>Object.is(NaN, NaN)</code>&nbsp;is {{c1::true because they both point to the same value.}}</div><div>You might run into this if you try to write some code that checks a value for being&nbsp;<code>NaN</code>.</div><pre><code><div><span style=\"color: rgb(220, 220, 220);\"><span style=\"color: rgb(86, 156, 214);\">function</span> resizeImage(size) </span>{\n  <span style=\"color: rgb(86, 156, 214);\">if</span> (size === <span style=\"color: rgb(86, 156, 214);\">NaN</span>) {\n    {{c1::// doesn't work: the check is always false!}}\n    <span style=\"color: rgb(78, 201, 176);\">console</span>.log(<span style=\"color: rgb(214, 157, 133);\">'Something is wrong'</span>);\n  }\n  <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// ...</span>\n}\n</div></code></pre><div>Instead, here are a few ways to check if&nbsp;<code>size</code>&nbsp;is&nbsp;<code>NaN</code>:</div><ul><li><code>Number.{{c1::isNaN}}(size)</code></li><li><code>Object{{c1::.is(size, NaN)}}</code></li><li><code>size {{c1::!==}} size</code></li></ul>2nd Case -&nbsp;<code>-0</code><div>-0 exists in floating point math.</div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> width = <span style=\"color: rgb(184, 215, 163);\">0</span>; <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// 0</span>\n<span style=\"color: rgb(86, 156, 214);\">let</span> height = -width; <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// -0</span>\n<span style=\"color: rgb(78, 201, 176);\">console</span>.log(width === height); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// </span><span style=\"font-family: Arial;\">{{c1::true}}</span>\n</div></code></pre><div>However, 0 is a different value from -0:</div><pre><code><div><span style=\"color: rgb(78, 201, 176);\">console</span>.log(<span style=\"color: rgb(78, 201, 176);\">Object</span>.is(width, height)); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// </span><span style=\"font-family: Arial;\">{{c1::false}}</span></div></code></pre>",
+                ""
+            ],
+            "guid": "x-y5cXlc<}",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h3>Loose Equality</h3><div>The rules of Loose Equality (also called “abstract equality”) are arcane and confusing. They are widely acknowledged as an early bad design decision. Many coding standards prohibit the use of == and != in code altogether.</div><div><br></div><div>There is one usage of it that is relatively common and is worth knowing:</div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">if</span> (x == <span style=\"color: rgb(86, 156, 214);\">null</span>) {\n  <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// ...</span>\n}\n\n<span style=\"color: rgb(87, 166, 74); font-style: italic;\">// is equivalent to writing</span>\n\n<span style=\"color: rgb(86, 156, 214);\">if</span> ({{c1::x === <span style=\"color: rgb(86, 156, 214);\">null</span> || x === <span style=\"color: rgb(86, 156, 214);\">undefined</span>}}) {\n  <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// ...</span>\n}</div></code></pre>",
+                ""
+            ],
+            "guid": "xrdD)4IsS~",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h2>Objects</h2><div><strong>Objects might appear to be \"nested\" in code, but in our universe each object is&nbsp;</strong>{{c1::completely separate}}<strong>. An object cannot be&nbsp;</strong>{{c1::\"inside\"}}<strong>&nbsp;of another object!</strong></div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> sherlock = {\n  <span style=\"color: rgb(156, 220, 254);\">surname</span>: <span style=\"color: rgb(214, 157, 133);\">'Holmes'</span>,\n  <span style=\"color: rgb(156, 220, 254);\">address</span>: {\n    <span style=\"color: rgb(156, 220, 254);\">city</span>: <span style=\"color: rgb(214, 157, 133);\">'London'</span>,\n  },\n};\n</div></code></pre><ol><li>Object A has a wire, named surname, to the string literal \"Holmes\"</li><li>Object B has a wire, named city, to the string literal \"London\"</li><li>Object A has a wire, named address, to Object B</li><li>Variable&nbsp;<code>sherlock</code>&nbsp;has a wire to Object A</li></ol><div><img src=\"paste-bf6fa43077f63981a3061093688c437a798218f6.jpg\"><br></div>",
+                ""
+            ],
+            "guid": "v/M`^Ue7<V",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><strong>Properties always point to values</strong></div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> john = {\n  <span style=\"color: rgb(156, 220, 254);\">surname</span>: <span style=\"color: rgb(214, 157, 133);\">'Watson'</span>,\n  <span style=\"color: rgb(156, 220, 254);\">address</span>: sherlock.address,\n};\n</div></code></pre><ol><li>Object C has a wire, named surname, to the string literal \"Watson\"</li><li><code>sherlock.address</code>&nbsp;resolves to Object B mentioned above</li><li>Object C has a wire, named address, to Object B</li><li>Variable&nbsp;<code>john</code>&nbsp;has a wire to Object C</li></ol><div>When you see&nbsp;<code>address: sherlock.address</code>, its tempting to think that John's&nbsp;<code>address</code>&nbsp;property points at the Serhlock's&nbsp;<code>address</code>&nbsp;property. This is misleading.</div><div><strong>Remember: a property always points at a&nbsp;</strong>{{c1::value}}<strong>! It can't point at another&nbsp;</strong>{{c1::property or a variable}}<strong>. In general, all wires in our universe point at values.</strong></div><div><strong><br></strong></div><div>When we see&nbsp;<code>address: sherlock.address</code>, we must figure out the value of&nbsp;<code>sherlock.address</code>, and point the&nbsp;<code>address</code>&nbsp;property wire at that value. It's the value itself that matters, not how we found it (<code>sherlock.address</code>).</div><div><br></div><div><br></div>",
+                "<img src=\"paste-5015d30b842599d5744f2f220369ca64cc1dfb84.jpg\">"
+            ],
+            "guid": "Lt{l?S+uZx",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h2>Mutation</h2><div>Mutation is a fancy was of saying {{c1::\"change\"}}.</div><div><br></div><div>People like to say \"mutate\" because it has a sinister undertone. It reminds you to exercise extra caution. This doesn't mean mutation is \"bad\" -- it's just programming -- but that you need to be very intentional about it.</div><div><br></div><div><strong>By mutating an object used elsewhere in the program, we've made a mess.</strong></div><div><strong><br></strong></div><div><strong>Always pay attention to which wire is on the&nbsp;</strong>{{c1::left side}}<strong>&nbsp;of an assignment!</strong></div><div><strong><br></strong></div><div>So how do we correct the mutation issue above?</div><h3>Solution 1</h3><pre><code><div>john.surname = <span style=\"color: rgb(214, 157, 133);\">'Lennon'</span>;\njohn.address = { <span style=\"color: rgb(156, 220, 254);\">city</span>: <span style=\"color: rgb(214, 157, 133);\">'Malibu'</span> };\n</div></code></pre><div>Here, we are creating a brand new object for John's address and reassigning&nbsp;<code>john.address</code>&nbsp;to point its wire to this new object.</div><h3>Solution 2</h3><pre><code><div>john = {\n  <span style=\"color: rgb(156, 220, 254);\">surname</span>: <span style=\"color: rgb(214, 157, 133);\">'Lennon'</span>,\n  <span style=\"color: rgb(156, 220, 254);\">address</span>: { <span style=\"color: rgb(156, 220, 254);\">city</span>: <span style=\"color: rgb(214, 157, 133);\">'Malibu'</span> },\n};\n</div></code></pre><div>Here, we don't mutate John's object at all. Instead we reassign the&nbsp;<code>john</code>&nbsp;variable to point at a new version of John's data. Now&nbsp;<code>john</code>&nbsp;points at a different object, whose&nbsp;<code>address</code>&nbsp;also points at a completely new object. Now, the old object&nbsp;<code>john</code>&nbsp;referenced before is abandoned.</div><div><strong>By the time you mutate an object, variables and properties may already be pointing at it. Your mutation affects any code \"following\" those wires later.</strong></div>",
+                "<img src=\"paste-c812b298c5cd2462d7ac77da76e9cddf6c289091.jpg\"><div><br></div><div><br></div><div><br></div><div><br></div><div>---</div><div><br></div><div><br><div><img src=\"paste-2cdfb56dbaa0732c019fa800054b6efa75c0f91d.jpg\"><br></div><div><br></div></div>"
+            ],
+            "guid": "lV;tJHQmP4",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<ul><li>Objects are never {{c1::“nested”}} in our universe.</li><li>Pay close attention to which wire is on the {{c1::left side}} of assignment.</li><li>Changing an object’s property is also called {{c1::mutating}} that object.</li><li>If you mutate an object, your code will “see” that change {{c1::via any wires pointing at that object.}} Sometimes, this may be what you want. However, mutating accidentally shared data may cause bugs.</li><li>Mutating the objects you’ve just created in code is safe. Broadly, how much you’ll use mutation depends on your app’s architecture. Even if you won’t use it a lot, it’s worth your time to understand how it works.</li><li>You can declare a variable with const instead of let. That allows you to enforce that this variable’s wire always points at the same value. But remember that const does not prevent object {{c1::mutation}}!</li></ul>",
+                ""
+            ],
+            "guid": "oPbL_Q|v,=",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h2>Prototypes</h2><div>Any JavaScript object may choose another object as a prototype.</div><div>The&nbsp;<code>{{c1::__proto__}}</code>&nbsp;property allows us to set the prototype of an object to be another object. This is a special \"wire\".</div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> human = {\n  <span style=\"color: rgb(156, 220, 254);\">teeth</span>: <span style=\"color: rgb(184, 215, 163);\">32</span>,\n};\n\n<span style=\"color: rgb(86, 156, 214);\">let</span> gwen = {\n  {{c1::__proto__}}: human,\n  <span style=\"color: rgb(156, 220, 254);\">age</span>: <span style=\"color: rgb(184, 215, 163);\">19</span>,\n};\n</div></code></pre><div><code>gwen.teeth</code>&nbsp;- with&nbsp;<code>{{c1::__proto__}}</code>, you instruct JavaScript to \"ask another object\".&nbsp;</div><div><strong><br></strong></div><div><strong>This serves to remind us that this is an expression -- a question to the JavaScript universe -- and JavaScript will follow a sequence of steps to answer it.</strong></div>",
+                ""
+            ],
+            "guid": "x`R~`Al>^|",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h3>Reading vs Writing</h3><div>When we&nbsp;<em>read</em>&nbsp;a property that doesn't exist on our object, then we'll keep looking for it on the {{c1::prototype chain}}. If we don't find it, we get&nbsp;<code>{{c1::undefined}}</code>.</div><div>But when we&nbsp;<em>write</em>&nbsp;a property that doesn't exist on our object, that will&nbsp;<em>create</em>&nbsp;that property on our object. Generally saying, prototypes will not play a role.</div><div>Example</div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> human = {\n  <span style=\"color: rgb(156, 220, 254);\">teeth</span>: <span style=\"color: rgb(184, 215, 163);\">32</span>,\n};\n\n<span style=\"color: rgb(86, 156, 214);\">let</span> gwen = {\n  <span style=\"color: rgb(156, 220, 254);\">__proto__</span>: human,\n};\n\ngwen.teeth = <span style=\"color: rgb(184, 215, 163);\">31</span>;\n\n<span style=\"color: rgb(78, 201, 176);\">console</span>.log(human.teeth); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// </span>{{c1::32}}\n<span style=\"color: rgb(78, 201, 176);\">console</span>.log(gwen.teeth); <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// </span><span style=\"font-family: Arial;\">{{c1::31}}</span></div></code></pre>",
+                ""
+            ],
+            "guid": "Nv.,ttf6iL",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h3>The Object Prototype</h3><pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> obj = {};\n</div></code></pre><div><code>obj.__proto__</code>&nbsp;points to the {{c1::Object Prototype}}</div><h3>Prototype Pollution</h3><div>Adding properties to the Object prototype is called prototype pollution. Try to avoid this when possible.</div>",
+                ""
+            ],
+            "guid": "n[$`xla{=U",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h3><code>__proto__</code>&nbsp;vs&nbsp;<code>prototype</code></h3><div>The&nbsp;<code>prototype</code>&nbsp;property is almost entriely unrelated to the core mechanism of prototypes (<code>__proto__</code>).</div><div>The&nbsp;<code>prototype</code>&nbsp;property is mostely relevant to explaining the&nbsp;<code>{{c1::new}}</code>&nbsp;operator.</div><h3>Don't use&nbsp;<code>{{c1::__proto__}}</code>&nbsp;directly</h3><div>It is {{c1::discouraged}} to use&nbsp;<code>__proto__</code>&nbsp;directly.</div>",
+                ""
+            ],
+            "guid": "GS.>Gu/saT",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h3>Classes are just prototypes under the hood</h3><pre><code><div><span style=\"color: rgb(184, 215, 163);\"><span style=\"color: rgb(86, 156, 214);\">class</span> <span style=\"color: rgb(220, 220, 220);\">Spiderman</span> </span>{\n  lookout() {\n    alert(<span style=\"color: rgb(214, 157, 133);\">'My spider-Sense is tingling.'</span>);\n  }\n}\n\n<span style=\"color: rgb(86, 156, 214);\">let</span> miles = {{c2::<span style=\"color: rgb(86, 156, 214);\">new</span> Spiderman();}}\nmiles.lookOut();\n</div></code></pre><div><br></div><div>This is equivelant to</div><div><br></div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">let</span> SpidermanPrototype = {\n  lookout() {\n    alert(<span style=\"color: rgb(214, 157, 133);\">'My spider-Sense is tingling.'</span>);\n  },\n};\n\n<span style=\"color: rgb(86, 156, 214);\">let</span> miles = {\n  {{c1::__proto__}}: SpidermanPrototype,\n};\nmiles.lookOut();\n\n<span style=\"color: rgb(87, 166, 74); font-style: italic;\">// or</span>\n\n<span style=\"color: rgb(86, 156, 214);\">let</span> miles = <span style=\"color: rgb(78, 201, 176);\">Object</span>.{{c1::create}}({{c2::SpidermanPrototype}});</div></code></pre>",
+                ""
+            ],
+            "guid": "O07d,LAnN6",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h2>Difference between object.key and object[key]</h2><div>object[key] will {{c1::evaluate}} whatever is inside of the []'s.</div><div>object[2 + 2] =&gt; {{c1::object[4]}}</div><div>whereas object.key will {{c1::not}}.</div>",
+                ""
+            ],
+            "guid": "v)gC2)go4^",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h2>Finding keys in object</h2><pre><code><div><span style=\"color: rgb(86, 156, 214);\">if</span> (someKey {{c1::in}} someObj) {\n  <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// do this</span>\n}\n</div></code></pre><div>versus</div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">if</span> (someObj{{c1::[someKey]}}) {\n  <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// do this</span>\n}\n</div></code></pre><div>versus</div><pre><code><div><span style=\"color: rgb(86, 156, 214);\">if</span> (someObj{{c1::.someKey}}) {\n  <span style=\"color: rgb(87, 166, 74); font-style: italic;\">// do this</span>\n}</div></code></pre>",
+                ""
+            ],
+            "guid": "qe-QF<G0*}",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h2>Assign multiple values</h2><pre><code><div><span style=\"color: rgb(78, 201, 176);\">this</span>.head = <span style=\"font-family: Arial;\">{{c1::</span><span style=\"font-family: Arial; color: rgb(78, 201, 176);\">this</span><span style=\"font-family: Arial;\">.tail = node;}}</span></div></code></pre>",
+                ""
+            ],
+            "guid": "L,O8}D^7wz",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h1>Promises</h1><ul><li>Special {{c1::objects}} built into JavaScript that get returned {{c1::immediately}} when we make a call to a web browser API/feature (e.g.&nbsp;<code>fetch</code>) that's set up to return promises (not all are)</li><li>Promises act as a {{c1::placeholder}} for the data we hope to get back from the web browser feature's background work</li><li>We also attach the functionality we want to {{c1::defer}} running until that background work is done (using the built in&nbsp;<code>.then</code>&nbsp;method)</li><li>Promise objects will {{c1::automatically}} trigger that functionality to run<ul><li>The value returned from the web browser feature's work (e.g. the returned data from the server using&nbsp;<code>fetch</code>) will be that function's {{c1::input/argument}}</li></ul></li></ul>",
+                ""
+            ],
+            "guid": "Ax}:ufU[uo",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<h2>Web Browser Components Involved with Promises</h2><h3>Call Stack</h3><h3>Event Loop</h3><div>Checks callstack and has the following priorities:</div><ol><li>{{c1::Global code}}</li><li>{{c1::Microtask}} queue</li><li>{{c1::Callback}} queue</li></ol><h3>Microtask Queue (Job Queue)</h3><ul><li>Used with&nbsp;{{c1::<code>fetch</code>&nbsp;and promises}}</li><li>Has prescedence over the&nbsp;<strong>callback queue</strong></li></ul><h3>Callback Queue (Task Queue)</h3><ul><li>Used with&nbsp;<code>{{c1::setTimeout}}</code></li></ul>",
+                ""
+            ],
+            "guid": "AB2G]dI|gC",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Controllers are just {{c1::middleware}} but with the intent of {{c1::returning some data}}.",
+                ""
+            ],
+            "guid": "ARcN[#L;/+",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Controllers handle what a {{c1::route}} + {{c1::verb}} combo can access from the {{c1::DB}}.",
+                ""
+            ],
+            "guid": "O,-?n>x9.!",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Think of controllers as the {{c1::final}} middleware in the stack for a request.&nbsp;<div><br></div><div>There is no intent to proceed to another {{c1::middleware function after a controller.&nbsp;}}</div>",
+                ""
+            ],
+            "guid": "v1(y!>%21F",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does res.status() do in Express?<div><br></div><div>{{c1::res.status() sets the status code in the header. It does not send the response.}}</div>",
+                ""
+            ],
+            "guid": "kPX<L5p1`@",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does res.json() do in Express?<div><br></div><div>{{c1::Sends a JSON response. This method sends a response (with the correct content-type) that is the parameter converted to a JSON string using&nbsp;JSON.stringify().}}</div>",
+                ""
+            ],
+            "guid": "J>yq64[a1e",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is res.locals() in Express?<div><br></div><div><div>An object that contains {{c1::response local variables}} scoped to the request, and therefore available only to the view(s) rendered during that request / response cycle (if any). Otherwise, this property is identical to&nbsp;app.locals.</div><div><br></div><div>This property is useful for exposing {{c1::request-level information}} such as the request path name, authenticated user, user settings, and so on.</div></div>",
+                ""
+            ],
+            "guid": "xMAH*VycuR",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does res.cookie() do in Express?<div><br></div><div>{{c1::res.cookie(name, value [, options])<div>Sets cookie&nbsp;name&nbsp;to&nbsp;value. The&nbsp;value&nbsp;parameter may be a string or object converted to JSON.</div>}}<br></div>",
+                ""
+            ],
+            "guid": "Bb3rG{e6#6",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Controllers implement the {{c1::logic}} that interacts with our {{c1::DB models}}.",
+                ""
+            ],
+            "guid": "vd5AdMWMib",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "You can generalize {{c1::controllers}} to work for many {{c1::models}} because we're going with a REST approach which requires CRUD actions on resources.",
+                ""
+            ],
+            "guid": "c3N{f<MJ.-",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Authentication}} is controlling if an incoming request can proceed or not.<div><br></div><div>{{c1::Authorization}} is controlling if an authenticated request has the correct permissions to access a resource.</div><div><br></div><div>{{c1::Identification}} is determining who the requester is.</div>",
+                ""
+            ],
+            "guid": "qcUw6Aw:]0",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sessions are a {{c1::stateful}} method of handling authentication.&nbsp;",
+                ""
+            ],
+            "guid": "ny>:04g)$s",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "JWTs are a {{c1::stateless}} method for handling authenitcation. The server doesn't keep track of any {{c1::sessions or cookies.}}<div><br></div><div>They are sent along with {{c1::every}} request.</div>",
+                ""
+            ],
+            "guid": "~v~2~(w|Q",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "JWTs are a {{c1::bearer token}} strategy that allows the API to be {{c1::stateless}} with user auth.&nbsp;<div><br></div><div>They are created by a combination of {{c1::secrets}} on the API and a {{c1::payload}} like a user object.&nbsp;</div><div><br></div><div>Must be sent with {{c1::every}} request where the API will then try to verify the token was created with the expected secrets.</div><div><br></div><div>After successful {{c1::verification}}, JWT payload is accessible to the server. Can be used for {{c1::authorization}} and {{c1::identification}}.</div>",
+                ""
+            ],
+            "guid": "j(vR1G3ff@",
+            "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
+            "tags": []
+        }
+    ]
+}

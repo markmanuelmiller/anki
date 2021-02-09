@@ -75,7 +75,6 @@
         "paste-49c09e741f460da85eaaaea6cf738ab429ee0a02.jpg",
         "paste-4c69dba85d642c807033d11500d87ec38ab4720b.jpg",
         "paste-560f8eeef5f85db95c36994251c86c4270100548.jpg",
-        "paste-59ce0ac0ecc7c1c9f774e7536b3fa63634386448.jpg",
         "paste-5e2896b3daf2a9440dcb7043013c47a4ef8f9395.jpg",
         "paste-601ee02ba8111a72d81572150b176fd9e4aca870.jpg",
         "paste-62edd32f82b722cbc024f2a4dea2913bd317e95f.jpg",
@@ -111,6 +110,63 @@
     "note_models": [
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-8eab7",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "JavaScript"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: left;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
             "flds": [
@@ -135,7 +191,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Cloze",
+            "name": "Cloze-df06d",
             "req": [
                 [
                     0,
@@ -187,7 +243,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-8e429",
             "req": [
                 [
                     0,
@@ -355,6 +411,232 @@
         {
             "__type__": "Note",
             "fields": [
+                "Explain the difference between synchronous and asynchronous functions",
+                "Synchronous functions wait while asynchronous functions do not wait for the current function to finish executing before executing the next one."
+            ],
+            "guid": "l#q033#?sH",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Explain event delegation",
+                "Event delegation allows us to attach a single event listener, to a parent element, that will fire for all descendants matching a selector, whether those descendants exist now or are added in the future."
+            ],
+            "guid": "i(z~{vL2S(",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Explain how `this` works in JavaScript.",
+                "`this` is bound to an object by default, implicit, explicit, or new binding."
+            ],
+            "guid": "w~GsVC?My]",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is a closure?",
+                "<div>A function that accesses variables in the scope of an enclosing function after it has returned.<br></div><div><span style=\"color: rgb(36, 41, 46);\"><br></span></div><div><span style=\"color: rgb(36, 41, 46);\">A function that references the state of independent variables from outside of its lexical scope.</span><br></div>"
+            ],
+            "guid": "rK6LtATB;/",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What's the difference between .call and .apply?",
+                "Call taks a list of arguments as parameters while apply takes an array."
+            ],
+            "guid": "Q>LU>uZjoc",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Explain Function.prototype.bind",
+                "Bind explicitly sets the this value of the function it is called on to the object passed and returns the function instead of executing it."
+            ],
+            "guid": "e!~(M]-WQK",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How does the event loop work?",
+                "When a browser API is called, the callback is pushed onto an external task queue allowing code to continue executing. When the call stack is empty, the first item in the queue is pushed onto the call stack to execute."
+            ],
+            "guid": "kcqg>p7T:Q",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Explain how prototypical inheritance works",
+                "Objects borrow properties and methods from their prototypes to use rather than creating their own copies.<div><br></div><div><span style=\"color: rgb(36, 41, 46);\">Prototypes are models that objects use to delegate properties and methods to so that they can reference them when they need to use them rather than having to create their own.</span><br></div>"
+            ],
+            "guid": "iRomVLke^>",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Explain why the following doesn't work as an IIFE: `function foo(){ }();`.",
+                "`function foo(){}` is a declaration not an expression and therefore cannot be invoked with `()`."
+            ],
+            "guid": "vr8uqG`J]F",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What needs to be changed to properly make `function foo(){ }();` an IIFE?",
+                "Wrap the declaration in the grouping operator `()` to make it an expression: `(function foo() {})();`"
+            ],
+            "guid": "L6>.nU{<)!",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What's the difference between a variable that is: null, undefined or undeclared?",
+                "`null` is a variable defined with nothing as a value, `undefined` is defined, but unassigned, and undeclared is not created with var, const, or let and will either create a global variable or throw a `ReferenceErorr` in strict mode."
+            ],
+            "guid": "dU.W>Ute0y",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How would you check for a null, undefined, or undeclared variable?",
+                "typeof == undefined, nullVar === null, throw/catch error"
+            ],
+            "guid": "zvo#|<Cf61",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What's the difference between host objects and native objects?",
+                "Native objects are built into the ECMAScript specifications while host objects are part of the environment e.g. the browser<div><br></div><div>Examples:<br><table><tbody><tr><td><u>Native</u>: String, Math, Date, Object. <br><u>Host</u>: window, document, XMLHttpRequest, alert, setTimeout</td></tr></tbody></table><br></div>"
+            ],
+            "guid": "lC#mye+4vP",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Explain the same-origin policy with regards to JavaScript?",
+                "Stops cross site scripting by preventing scripts from executing on a website unless they have the same origin."
+            ],
+            "guid": "yeK{c-_HGx",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When do websites have the same origin?",
+                "Protocol (http vs. https), domain (mysite.com vs yoursite.com), port (usually 80)"
+            ],
+            "guid": "tV(G$E9r;$",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How can you get around the same-origin policy?",
+                "JSONP (JSON with parameters) and CORS (Cross Origin Resource Sharing)."
+            ],
+            "guid": "H-gc,@C_~G",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The performance goes down with the level of isolation. That's why \"repeatable read\" is used most often.",
+                ""
+            ],
+            "guid": "I,;(O,+?>w",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Describe\nwhat a promise is?&nbsp;</div>",
+                "<div>A&nbsp;<span style=\"font-weight: bold; color: rgb(33, 33, 33); background-color: rgb(238, 238, 238);\">Promise</span>&nbsp;is a proxy for a value not\nnecessarily known when the promise is created. It allows you to associate\nhandlers with an asynchronous action's eventual success value or failure\nreason. This lets asynchronous methods return values like synchronous methods:\ninstead of immediately returning the final value, the asynchronous method\nreturns a&nbsp;<span style=\"font-style: italic; color: rgb(33, 33, 33);\">promise</span>&nbsp;to supply the value at some\npoint in the future.</div><div>&nbsp;&nbsp;</div>"
+            ],
+            "guid": "wAI],emw|[",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How\ndoes a promise work?<br>",
+                "<div>A&nbsp;<span style=\"background-color: rgb(238, 238, 238);\">Promise</span>&nbsp;is in one of these states:</div>\n<ul>\n<li><span style=\"font-style: italic;\">pending</span>: initial state, neither fulfilled nor rejected.</li>\n<li><span style=\"font-style: italic;\">fulfilled</span>: meaning that the operation was completed successfully.</li>\n<li><span style=\"font-style: italic;\">rejected</span>: meaning that the operation failed.</li>\n</ul>\n<div>A pending\npromise can either be&nbsp;<span style=\"font-style: italic;\">fulfilled</span>&nbsp;with a value or&nbsp;<span style=\"font-style: italic;\">rejected</span>&nbsp;with a reason (error). When\neither of these options happens, the associated handlers queued up by a\npromise's&nbsp;<span style=\"background-color: rgb(238, 238, 238);\">then</span>&nbsp;method are called. If the\npromise has already been fulfilled or rejected when a corresponding handler is\nattached, the handler will be called, so there is no race condition between an\nasynchronous operation completing and its handlers being attached.</div><div><br></div>\n<div><span style=\"color: rgb(33, 33, 33);\">As the&nbsp;</span><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then\"><span style=\"background-color: rgb(238, 238, 238);\">Promise.prototype.then()</span></a><span style=\"color: rgb(33, 33, 33);\">&nbsp;and&nbsp;</span><a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch\"><span style=\"background-color: rgb(238, 238, 238);\">Promise.prototype.catch()</span></a><span style=\"color: rgb(33, 33, 33);\">&nbsp;methods return\npromises, they can be chained.</span><br></div>"
+            ],
+            "guid": "P4R]Iuqf3#",
+            "note_model_uuid": "4d47ca95-6af1-11eb-86e7-681ca2163fe7",
+            "tags": [
+                "JavaScript"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "What does \"new\" do in JavaScript?<div><br></div><div>1. {{c1::Creates a brand new empty object}}<div>2. This newly created object gets linked to the constructor object through the {{c1::__proto__}} property.&nbsp;</div><div>3. This newly created object gets passed in as the {{c1::\"this\" context}} to the function call.</div><div>4. If that function does not already return it's own object, the \"new\" keyword implies a {{c1::\"return this;\"}}.</div></div>",
                 ""
             ],
@@ -411,7 +693,7 @@
             "guid": "hYU=[W9BES",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -423,7 +705,7 @@
             "guid": "ryCY&2_HEY",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -435,7 +717,7 @@
             "guid": "lJQ+uv|4B;",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -447,7 +729,7 @@
             "guid": "ly|l-Nigu.",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -459,7 +741,7 @@
             "guid": "PW2drpk5#^",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -471,7 +753,7 @@
             "guid": "cAMvMB]1Z7",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -483,7 +765,7 @@
             "guid": "PwG*&|fKF%",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -495,7 +777,7 @@
             "guid": "zs0dW3vSr@",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -507,7 +789,7 @@
             "guid": "K[Jde`9j+v",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -519,7 +801,7 @@
             "guid": "K_Nbkf9%67",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -531,7 +813,7 @@
             "guid": "z$T7d?<~-/",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -543,7 +825,7 @@
             "guid": "nFj]F<l5TA",
             "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -555,7 +837,7 @@
             "guid": "x~4K!s./+;",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -567,7 +849,7 @@
             "guid": "Fn2PTY$2tT",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -579,7 +861,7 @@
             "guid": "gEp`w^-VP*",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -591,7 +873,7 @@
             "guid": "JHgW(N3;%F",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -603,19 +885,7 @@
             "guid": "Ir~s[3t9fB",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<img src=\"paste-59ce0ac0ecc7c1c9f774e7536b3fa63634386448.jpg\">",
-                "Answer: B<div>The data stored in&nbsp;<code>sessionStorage</code>&nbsp;is removed after closing the&nbsp;<em>tab</em>.</div><div>If you used&nbsp;<code>localStorage</code>, the data would've been there forever, unless for example&nbsp;<code>localStorage.clear()</code>&nbsp;is invoked.</div>"
-            ],
-            "guid": "yJToNX/4We",
-            "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
-            "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -627,7 +897,7 @@
             "guid": "sI_A0QUS_C",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -639,7 +909,7 @@
             "guid": "N20GedB-|U",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -651,7 +921,7 @@
             "guid": "rJ(XPZRUe3",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -663,7 +933,7 @@
             "guid": "yX]nSLE_~&",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -675,7 +945,7 @@
             "guid": "eWHDsMVhhh",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -687,7 +957,7 @@
             "guid": "j+!{Xh7Ns#",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -699,7 +969,7 @@
             "guid": "O?pCeI]:hw",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -711,7 +981,7 @@
             "guid": "Q5s9%mjZV1",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -723,7 +993,7 @@
             "guid": "Clb7Om8,`y",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -735,7 +1005,7 @@
             "guid": "f:{9Xr1UyY",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -747,7 +1017,7 @@
             "guid": "k^t*twc;o{",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -759,7 +1029,7 @@
             "guid": "IK}j;/>1WN",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -771,7 +1041,7 @@
             "guid": "g>[J&/JTe=",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -783,7 +1053,7 @@
             "guid": "z,>sQWP10P",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -795,7 +1065,7 @@
             "guid": "kxAr~q$`W{",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -807,7 +1077,7 @@
             "guid": "o|?A#rXhhh",
             "note_model_uuid": "87b0784c-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -828,7 +1098,7 @@
             "guid": "g5A;^D{@07",
             "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -849,7 +1119,7 @@
             "guid": "P.h6^[MAsY",
             "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -870,7 +1140,7 @@
             "guid": "uNX%Q:xRD)",
             "note_model_uuid": "87b08d50-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {
@@ -882,7 +1152,7 @@
             "guid": "ic?)DpD%a[",
             "note_model_uuid": "87b0719e-6aec-11eb-a470-acde48001122",
             "tags": [
-                "javascript"
+                "JavaScript"
             ]
         },
         {

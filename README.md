@@ -1,5 +1,7 @@
 # Anki Decks for Software Engineering
 
+For general information on Anki, checkout [this YouTube video](https://www.youtube.com/watch?v=5urUZUWoTLo).
+
 ## Getting Started
 
 1. Download Anki [here](https://apps.ankiweb.net/) - it's free!
@@ -23,7 +25,7 @@ When contributing, please try to place general software engineering questions in
 
 - **Security/authentication** cards would go in the **Software Engineering** deck
 - **Promises in JavaScript** cards would go in the **JavaScript** deck
-- **CAP Theorum** cards would go in the **Software Engineering** deck
+- **CAP Theorem** cards would go in the **Software Engineering** deck
 - **React's virtual DOM** cards would go in a new **React** deck.
 
 ## Contributing
